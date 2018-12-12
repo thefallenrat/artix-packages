@@ -4,7 +4,7 @@
 pkgbase=opensysusers
 pkgname=(opensysusers opensysusers-openrc opensysusers-docs)
 pkgver=0.4.9
-pkgrel=3
+pkgrel=4
 pkgdesc="A standalone utility for handling systemd-style sysusers.d users and groups"
 arch=('any')
 url="https://gitea.artixlinux.org/artix/opensysusers"
@@ -17,7 +17,7 @@ source=("${pkgbase}-${pkgver}.tar.gz::https://gitea.artixlinux.org/artix/opensys
 sha256sums=('a42140a87ed27f8b129cee56e9eeee51273a2d347ca28f11d51aacad4c46cf47'
             'cefc133d78851cc3838eec273aeb127814c955be21c6e3fc0f9ba4391e534ec2'
             '4222b2496d8bb1ac9c07707e4ef1b334b8b59eb15451ea8ba0fd6e4c93e50c56'
-            '53df412e9ac99854ea90f0ecabef666a2f0348e312ca85ad56e84a5ac5811057')
+            '1f31ec3236f382c01f7b0898cdfe2472e0553e427606bb0b3c63da91806be486')
 
 build(){
     cd "${pkgbase}"
@@ -38,7 +38,7 @@ package_opensysusers() {
     ln -snf "/usr/bin/sysusers" "${pkgdir}/usr/bin/systemd-sysusers"
 
     # setup opensysusers
-    install -D -m644 "$srcdir"/sysusers "$pkgdir"/usr/lib/sysusers.d/defaults.conf
+    install -D -m644 "$srcdir"/sysusers "$pkgdir"/usr/lib/sysusers.d/artixdefaults.conf
 }
 
 package_opensysusers-openrc(){
