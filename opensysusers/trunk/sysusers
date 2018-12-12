@@ -1,18 +1,5 @@
 # default artix extra groups
 
-g adm 4 - -
-g tty 5 - -
-g disk 6 - -
-g lp 7 - -
-g kmem 9 - -
-g wheel 10 - -
-g uucp 14 - -
-g utmp 20 - -
-g video 91 - -
-g audio 92 - -
-g optical 93 - -
-g storage 95 - -
-g input 97 - -
 g kvm - - -
 g render - - -
 g nobody 65534 - -
