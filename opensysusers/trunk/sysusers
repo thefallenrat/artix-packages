@@ -1,5 +1,4 @@
 # default artix extra groups
-
 g kvm - - -
 g render - - -
 g nobody 65534 - -
