@@ -1,11 +1,31 @@
-# default artix extra groups
-g kvm - - -
-g render - - -
-g nobody 65534 - -
+# The superuser
+u root 0 "Super User" /root
 
-# default artix extra users
+# The nobody user for NFS file systems
 u nobody 65534 "Nobody" -
 
-# default artix extra group memberships
-m nobody nobody
+# Administrator group: can *see* more than normal users
+g adm - - -
 
+# Administrator group: can *do* more than normal users
+g wheel - - -
+
+# Access to certain kernel and userspace facilities
+g tty 5 - -
+g kmem - - -
+g utmp - - -
+
+# Hardware access groups
+g audio - - -
+g cdrom   - - -
+g dialout - - -
+g disk - - -
+g input - - -
+g kvm - - -
+g lp - - -
+g render - - -
+g tape - - -
+g video - - -
+
+# Default group for normal users
+g users 100 - -
