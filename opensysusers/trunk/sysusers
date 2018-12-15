@@ -27,5 +27,4 @@ g render - - -
 g tape - - -
 g video - - -
 
-# Default group for normal users
-g users 100 - -
+
