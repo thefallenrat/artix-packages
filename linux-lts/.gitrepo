@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/linux-lts.git
 	branch = master
-	commit = a10444baf239989565606955bf8cb91b92560fbf
-	parent = 4f5b40f977b1939c47af01b5ce1fa5379265798a
+	commit = ae5091b0cd9ea253a48854b9b0e97a30d93737f7
+	parent = 95cb980cb31e846d1a25467bc54a727fa5e35312
 	method = merge
 	update = auto
 	cmdver = 0.4.1
