@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/opensysusers.git
 	branch = master
-	commit = 7df4f7bd2e3e875a9e69ff914a7108c00169c774
-	parent = 12b1030fbad823411bb3c4db171f65d92800e51a
+	commit = 81986913b0fdc3669a365b27f503f4abe38a377b
+	parent = df39d60ee13b6679bd297d1a693424e5ebb6b2f3
 	method = merge
 	update = auto
 	cmdver = 0.4.1
