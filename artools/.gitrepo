@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesA/artools.git
 	branch = master
-	commit = 5e92953b31bf9c0ebafe95f3f4c9fabe055da997
-	parent = 7a2c3199abfe01962d6b303be4c8ae5a48b21761
+	commit = a3335168ab10355679486273673be50305c89923
+	parent = cc102787da345751d067e36a4f9432bda52d289d
 	method = merge
 	update = auto
 	cmdver = 0.4.1
