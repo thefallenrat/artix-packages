@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/lldb.git
 	branch = master
-	commit = bc1aaa930581094963fc4e6d1da0b1ff173aad5a
-	parent = 863da9dc8b7ddc98b3fde48aa62e7441865b11c4
+	commit = e7fbd9494545a20e50c490a9dc029385c4fa9d47
+	parent = 7bd9f1dc2c77806954a0b3dd1fa7229f3fe17bcd
 	method = merge
 	update = auto
 	cmdver = 0.4.1
