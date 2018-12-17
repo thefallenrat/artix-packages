@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesQ/qtcreator.git
 	branch = master
-	commit = 04adf33c1e1df99109affa3532efb0699d83206c
-	parent = 429540ba2deb871c1bd9339192aef93c15b526c9
+	commit = bc369a6c9a3fe9178d6e889e72ad45c9c20c377f
+	parent = 6c5007b2ee0b1e13c6ba1f6a08da8f6c592784d1
 	method = merge
 	update = auto
 	cmdver = 0.4.1
