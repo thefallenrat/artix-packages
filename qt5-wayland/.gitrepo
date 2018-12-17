@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesQ/qt5-wayland.git
 	branch = master
-	commit = e4c268f76e9350138ee702c9dddf9ae982c999ea
-	parent = f0f4e157f1fd40098b973e2bb69f4f1676c865f6
+	commit = bbc1d9ca073339cefe58e7cfe66ae5b226f5fd03
+	parent = 25a0ae200148e462bce117646cbf395ab5db75fc
 	method = merge
 	update = auto
 	cmdver = 0.4.1
