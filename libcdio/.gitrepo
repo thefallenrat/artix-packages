@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libcdio.git
 	branch = master
-	commit = 79b130a953b902132d67e5ff32d4c1bc40fb59f4
-	parent = 55dbc384601ee98a5d5fec6537f2623976e71579
+	commit = e6ba5d67a3d9d5f62994e16dc1f75382fbbab021
+	parent = aefad9ea0a2c681886f3b7612c7102753d3dd686
 	method = merge
 	update = auto
 	cmdver = 0.4.1
