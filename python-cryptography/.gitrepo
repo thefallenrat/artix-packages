@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-cryptography.git
 	branch = master
-	commit = 1df16822a0f8714ebbc94bf1a736e9783c1a3055
-	parent = d99b8b9227393b53d2f3fd6bd70c871cee489471
+	commit = dbbaa959c6de4ad99e33bc9ff35e621daae3fe2c
+	parent = 0872171907c10ba45fe8a3aaf2e1d1717b79fd36
 	method = merge
 	update = auto
 	cmdver = 0.4.1
