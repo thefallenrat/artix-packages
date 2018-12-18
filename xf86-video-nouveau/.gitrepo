@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xf86-video-nouveau.git
 	branch = master
-	commit = 3bf7ca8a5c9173bae305c5c2e5b67f86a89f8e27
-	parent = c72f9c3a6242a5c43d73233ec539511d3684fa39
+	commit = 57e9a0d8385c61a6965afb37dfd90c24bad362f9
+	parent = 0d2f0ef87cefb94a6e109c7fb41c3993ccd9b75b
 	method = merge
 	update = auto
 	cmdver = 0.4.1
