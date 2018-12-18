@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xorg-xrdb.git
 	branch = master
-	commit = 03fccea9202675fa4c04b7fa7be1085b9c077f8b
-	parent = f08d55439164bc72ea5c9abe4907ff150e09f485
+	commit = 5287525eaa0a01ebdba4e501a50f4727ce57d506
+	parent = 1b6c5cd224a83edcad0e362a49210edf6ef6c5e7
 	method = merge
 	update = auto
 	cmdver = 0.4.1
