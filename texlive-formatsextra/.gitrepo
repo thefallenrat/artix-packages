@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/texlive-formatsextra.git
 	branch = master
-	commit = 05f81a54e3db103090a276cd1946428080d6b7e3
-	parent = 4d0b068069658700a60eafeffc6c878b4f6a15b3
+	commit = 8e72aa88270f5013897e4d86bcfdc7ec1e66e190
+	parent = 1ec8db1a2dcb8085cd3e6006248bdd161857d224
 	method = merge
 	update = auto
 	cmdver = 0.4.1
