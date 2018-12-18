@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesV/vid.stab.git
 	branch = master
-	commit = 1ee12d3369af0c5dcdb6e25782592d4432bc95fd
-	parent = 7e1fb24d908daebf18dfdbd3689e4bfd6421d4e0
+	commit = b99adaffb44d557a6974f538f8225fb37d7c6ceb
+	parent = f66f3de9b97e71b3a667798d894f4357c61f7080
 	method = merge
 	update = auto
 	cmdver = 0.4.1
