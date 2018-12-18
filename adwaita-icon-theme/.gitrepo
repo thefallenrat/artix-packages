@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesA/adwaita-icon-theme.git
 	branch = master
-	commit = c96b1b19d10fcef5fe34c920953bf395e52a7636
-	parent = b9b3e2744f9f513f9533fb9dd2caecaa6a41af38
+	commit = 2246ab74f37f7a9de731f0a85af7f380f71bcc13
+	parent = 37ba309e645ed0f6f4d74d40e8c0ef06720b3c37
 	method = merge
 	update = auto
 	cmdver = 0.4.1
