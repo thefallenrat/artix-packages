@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libpaper.git
 	branch = master
-	commit = 02fd91b715fddc94468bad265674d93839a5ccb7
-	parent = 3365064f688f018e741ec7a5b5754801c0cef566
+	commit = 4f2363c75794e7aa8a2c8810f672cd3c2acaf827
+	parent = 62a1150c2a6a4cbb350bd0ae1288bbbc63ce2bad
 	method = merge
 	update = auto
 	cmdver = 0.4.1
