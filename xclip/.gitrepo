@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xclip.git
 	branch = master
-	commit = 4e55f167e863f57e24d0822bdb89cbe37e2f59d4
-	parent = 3decbe73941ba00ac678b3d29b91eb144bd6e1aa
+	commit = 353dc2c49e56a00652d23cfa9ed14c85d0654d05
+	parent = bd6e7c341f27a1d7fce06bb9ec003bbac34b11ee
 	method = merge
 	update = auto
 	cmdver = 0.4.1
