@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gst-plugins-ugly.git
 	branch = master
-	commit = 07fd12e25ca3d676d4d73154390872fb6e409e46
-	parent = 23caecbb46b35bfaa9bc28e80cb469da99333906
+	commit = 21182e3f70392a0995aaa3c9ed8f10219596403e
+	parent = 1f4549dec45fb8e9291e5d98ada7aa0b417bb82d
 	method = merge
 	update = auto
 	cmdver = 0.4.1
