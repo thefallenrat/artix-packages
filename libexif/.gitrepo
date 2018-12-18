@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libexif.git
 	branch = master
-	commit = a8fb26c5bc86535dcee871810bd1797b2161ba4d
-	parent = 5f0707a8c281a9436270c8a6a7d2ee11dc5ebeb4
+	commit = c5a06dfcc984784c215f4bc9a7ee47429b1ac62e
+	parent = 449a91746b315951dd3db889855c29af1f704995
 	method = merge
 	update = auto
 	cmdver = 0.4.1
