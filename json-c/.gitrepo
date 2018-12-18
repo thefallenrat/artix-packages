@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesJ/json-c.git
 	branch = master
-	commit = 1205c1ac745d71034a7a93b4e0ffea788792d652
-	parent = a969072b535e903028351803a1131886365a742a
+	commit = f5dbbff3d96a75b0193a188023cfef3bb2e9b7c4
+	parent = 99e0dfd3f448ea133c4e0972ed908c4dc6085bc7
 	method = merge
 	update = auto
 	cmdver = 0.4.1
