@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libisoburn.git
 	branch = master
-	commit = c13b9b8b9528afe0a7d31da5974d5b4b72a1d1cd
-	parent = 54da693503d962405bae67b9566f5d14ec786055
+	commit = b4ad8068e175274b6649b2a20e92ab4b5b76b662
+	parent = 7e08586a1a7e1c8bed9da090e78ec0bcdc475cac
 	method = merge
 	update = auto
 	cmdver = 0.4.1
