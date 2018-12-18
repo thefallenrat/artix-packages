@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/lapack.git
 	branch = master
-	commit = 14cdf4e25a5fbb92cdca9b6d2ab675c38efd7bdd
-	parent = 0eb9e58fc61b4d6e0863e249c436b83c0e2beefe
+	commit = 5a79eda4580af7b6636b1dbbf580858c8850eb9c
+	parent = a67fbf6c15b765b4145f7b335efef6c1931c74d6
 	method = merge
 	update = auto
 	cmdver = 0.4.1
