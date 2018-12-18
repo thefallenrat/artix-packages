@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/openal.git
 	branch = master
-	commit = 4c668f31a0037bbabf96fc5ceba61c4b5145b30e
-	parent = b89e4b4d7bf655ff6f61de6e2676c35a8e7ef379
+	commit = 47385ec90c707aa59f5118a7ddacee23c9061ddf
+	parent = 885c9c4db563a1955755a0c409e465e2d0de4383
 	method = merge
 	update = auto
 	cmdver = 0.4.1
