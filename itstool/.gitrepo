@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesI/itstool.git
 	branch = master
-	commit = b6f78395f05730626fd6bec8099d33c9dec7a240
-	parent = 52a63851b60f62a28341c33bceeff74f8210cf37
+	commit = 8bd1f2a7655381092ed159720095d35ee18910a0
+	parent = a200b8008ab83a711207ed874d8e160fdd36fd34
 	method = merge
 	update = auto
 	cmdver = 0.4.1
