@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/t1lib.git
 	branch = master
-	commit = bcaf38dda60b96b58cb2c82d70264c6663597d60
-	parent = f3093aa4028ea454f9160719d4e9c7892c58b070
+	commit = 6f02d8e45859f79bbabc7dca6da7a26f1573b16b
+	parent = aafbadc52554aa5c4e717f6e8d265f8febe2be14
 	method = merge
 	update = auto
 	cmdver = 0.4.1
