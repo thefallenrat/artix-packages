@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pacman.git
 	branch = master
-	commit = 790660effc71d7040576a179903be2e41d911134
-	parent = e80e1028a487d6590fcd90ead478fc27894a33e1
+	commit = f67d9d0672e4acf2172cfeec13b7386bcb337473
+	parent = 87b585f0fe90073fc6b60704e366d741e3bef58c
 	method = merge
 	update = auto
 	cmdver = 0.4.1
