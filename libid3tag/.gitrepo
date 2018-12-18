@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libid3tag.git
 	branch = master
-	commit = b7a104607558911ebc9b642fd290af5e2514aa5c
-	parent = 0076cc6639ba8da1cb67eda2eb3b327fffeeb9f9
+	commit = e51bc502bb91d8f07f9cbeec8b0cfefe6ea68cc3
+	parent = 86469abe95a309033299db5cad1f149fab3869ea
 	method = merge
 	update = auto
 	cmdver = 0.4.1
