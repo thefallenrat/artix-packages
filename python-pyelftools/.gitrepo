@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-pyelftools.git
 	branch = master
-	commit = 526e2d05ed34ce042416c9aa61811a6ba562c5d9
-	parent = 6b0331e53f67c40645b53b3766301646c2e6a3ad
+	commit = c2516fcb1107508b9d1a2db53d887eaab9c2626e
+	parent = 58a5a922b341fe16ddaf31571d2b3c8cbc5fd042
 	method = merge
 	update = auto
 	cmdver = 0.4.1
