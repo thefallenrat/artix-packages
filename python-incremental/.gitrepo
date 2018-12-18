@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-incremental.git
 	branch = master
-	commit = fb375ca8caf858c2cdc094bc28fbdc60cf0d09c5
-	parent = 8914b5058ad8f18341221ff64699ec20a20084e9
+	commit = 10745072cb0562757f4537f6a9d08c3cb5a7d6df
+	parent = 4c31ba584f28a3c3588b60fbdc61b77458d31a1b
 	method = merge
 	update = auto
 	cmdver = 0.4.1
