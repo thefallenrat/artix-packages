@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesU/udisks2.git
 	branch = master
-	commit = 3b85fe6d6354d07a147a6f59651f20310b373746
-	parent = 6a75563bf69856fc2a0b176b6c5e4bdc53b20aaa
+	commit = 1dc049f6bad3d79212cb5da574032dfdb3351c41
+	parent = 66202762b50f3fda7eefdfd3174ec4e77e840376
 	method = merge
 	update = auto
 	cmdver = 0.4.1
