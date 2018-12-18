@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/ttf-dejavu.git
 	branch = master
-	commit = 724c19c1191254db0adf6e8707fa85068bdbb82e
-	parent = fb2d7cb081c8ebd74dc252078a64f5d8c784f9b4
+	commit = f519da511839cb42f1e21ef4c298fde5922304c8
+	parent = 79f77bb5f32ae3eb51398825258d7df51470942a
 	method = merge
 	update = auto
 	cmdver = 0.4.1
