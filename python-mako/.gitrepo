@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-mako.git
 	branch = master
-	commit = b484ecffdb69dcfd61f0c53864a8408a558fdc1e
-	parent = e6be94ac8e70e6a99fc27eb5d4b449852824ff6f
+	commit = 39c2aa3934d13977f0e450c8944e6ee1ff7104e1
+	parent = 8d32fcfb8a9c376c089edd85f41346a211003ce7
 	method = merge
 	update = auto
 	cmdver = 0.4.1
