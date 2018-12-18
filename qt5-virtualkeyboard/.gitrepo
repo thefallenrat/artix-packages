@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesQ/qt5-virtualkeyboard.git
 	branch = master
-	commit = 372e2e6a68aec848524126a6d19195181afbd8ac
-	parent = 72e26a1dcebc595a10ac2caff4919c2eaaf83185
+	commit = 2baee03b7fb8be1791f331407c939a29942dfac3
+	parent = ffedec3f27bdbefbc0915e9c9a0bcfe31fea69c3
 	method = merge
 	update = auto
 	cmdver = 0.4.1
