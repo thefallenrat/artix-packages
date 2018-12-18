@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-hyperlink.git
 	branch = master
-	commit = 781b8bb51b7f8ad0b738aaac630820d29493b175
-	parent = c93aa32b6b3f16c4bd14ba643c90bf0ccf179c8f
+	commit = 12adb1b8c26bf21c3af6da6f0b8506e4d28b00bf
+	parent = cdf5abd9e24afcba612ad0bd4b03351eceef650d
 	method = merge
 	update = auto
 	cmdver = 0.4.1
