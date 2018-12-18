@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesJ/json-glib.git
 	branch = master
-	commit = 35b67649f9551f990540b3f69d9b220646520898
-	parent = c16c0c6b5a7bb5e7763ad194b079f99293b9a1bf
+	commit = 7d0f920f5bb3340032f87669132a45e36fa04119
+	parent = ae88176dcd21e0c6a5c39a7bdbbbe4564202a492
 	method = merge
 	update = auto
 	cmdver = 0.4.1
