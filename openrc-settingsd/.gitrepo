@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/openrc-settingsd.git
 	branch = master
-	commit = af10f962502945760e5ef70e5f60734dd664e461
-	parent = d6851a9b739d894e1c01fbcf7080f0ff048c2644
+	commit = e9ecdc78f781dbd35bd0699eb1e2c31ecc93803f
+	parent = 61b3136e5a4f849a87a740b5539996966a9c0d7a
 	method = merge
 	update = auto
 	cmdver = 0.4.1
