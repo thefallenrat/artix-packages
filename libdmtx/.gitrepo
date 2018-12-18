@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libdmtx.git
 	branch = master
-	commit = a0f248d730ff0e47a58e3d1be718a4f04320c1d9
-	parent = 7a27e93f38a39901937aec465c76c253e11eefe4
+	commit = c62d3b89b23c76c44eae187f7095e3b54bf706f7
+	parent = fc79b4a579a6b51742e42304a64e19ff2a1d2272
 	method = merge
 	update = auto
 	cmdver = 0.4.1
