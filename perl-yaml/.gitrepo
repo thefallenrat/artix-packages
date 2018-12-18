@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPerl/perl-yaml.git
 	branch = master
-	commit = 166a1bf21d065f6ea1825945e426f25c04c2c2fd
-	parent = 24b14a5fda5c538fc632c70aeba7b335abe845e1
+	commit = 51b5b02586d5d8ca8a6887cf1eaf30f6045eb642
+	parent = d14f8067bcfa2be333ec833c433c7b253e5299c6
 	method = merge
 	update = auto
 	cmdver = 0.4.1
