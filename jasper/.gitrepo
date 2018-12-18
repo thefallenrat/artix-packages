@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesJ/jasper.git
 	branch = master
-	commit = bbb431b0c565d681fd2cbc633fe6160b231fcdfa
-	parent = 3081df7fc5faa0caeedde1c70b37a07cecdb4fdb
+	commit = cd5ad592441a6bc6b59dd258c211018f94987ebc
+	parent = 3301a24f1afd0c9749720225ed4b22f8ac6adae1
 	method = merge
 	update = auto
 	cmdver = 0.4.1
