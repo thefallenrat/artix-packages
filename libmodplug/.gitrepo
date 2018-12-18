@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libmodplug.git
 	branch = master
-	commit = d4ca4e47667a900bc975491cbc57666e23cb52db
-	parent = b536a7acfc4eef727f737836506c37b7e9862e6f
+	commit = 0d919ec3d6719ba5d0c8ecf9d46172d210fc9f3f
+	parent = 5f071712f8ec6b00da85480468803361bafe13ba
 	method = merge
 	update = auto
 	cmdver = 0.4.1
