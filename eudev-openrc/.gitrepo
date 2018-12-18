@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesE/eudev-openrc.git
 	branch = master
-	commit = 8c1121329cc3691f0742fbace8196ec4cbd43c42
-	parent = 2f146505f6610859595d51d17709ab8301886076
+	commit = 2861f6f1d38c182b2cfac6e7aa4a697ba2984ec3
+	parent = c11ef0e4d355edf44562e427d977882bf0867ef6
 	method = merge
 	update = auto
 	cmdver = 0.4.1
