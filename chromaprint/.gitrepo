@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/chromaprint.git
 	branch = master
-	commit = f03d3c873cbf3330aeae919055d461226bb5f12b
-	parent = 259080bf43dacbc39ebd74eea8de6c1777afc538
+	commit = c750c0474d816a3d6c369f1531e854c2cd2b4447
+	parent = 69242cf7a9c8d20106c2685e6a588901d5ffa82b
 	method = merge
 	update = auto
 	cmdver = 0.4.1
