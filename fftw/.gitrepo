@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesF/fftw.git
 	branch = master
-	commit = 12f0839d28f9e5e29785d1fc26d5d6b83af0d35a
-	parent = 293626dce3ea1027e761072cc7fe644f3f733ad0
+	commit = 4e68b1a7260dcca08b78c2adedbb39340c2ffdf6
+	parent = 425b3788c742c0aa38587ebb5a43ad91bd90d0ef
 	method = merge
 	update = auto
 	cmdver = 0.4.1
