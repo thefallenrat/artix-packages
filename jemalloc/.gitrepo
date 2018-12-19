@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesJ/jemalloc.git
 	branch = master
-	commit = 6e224155809d3be02bb8f24d6b0f7252c8c6740b
-	parent = 70659fdbff9c27e1d95e9ac6929bcf29229634a1
+	commit = e766bc61cd00fc1162741771ce533173a0b8578c
+	parent = d29d8e3f7fbf98d22ed8023ab20b53fe64cb8d3f
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
