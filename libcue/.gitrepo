@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libcue.git
 	branch = master
-	commit = 72229bc29943a7ac191ddf1c1c44e0b51036533d
-	parent = 0df75f79b60ec584b09241732ffcaa8a894b3ca2
+	commit = ef2eef442afd95ade6ef3451c9f4253087d79639
+	parent = c2100efe38ef5bd7aa6518aa8e4075c61c566102
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
