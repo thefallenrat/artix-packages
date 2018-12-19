@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libburn.git
 	branch = master
-	commit = 1db494b695a217a4d8ed513876b38bfb79b074ba
-	parent = 9de98008c019ba5e0191dff7d3fb61ed8d7876b3
+	commit = d1dffff7f9f0358e0b0cbdf0f8ddcd75f8416b9f
+	parent = 6cc78bfd9e42ed33e17090679e0097bb7a44bb0c
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
