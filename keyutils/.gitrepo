@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesK/keyutils.git
 	branch = master
-	commit = ed1ddc7d3af83c97562a6ad559a14cda16497255
-	parent = 01c838f9e5108687954d1f7c61937e10942f6a22
+	commit = 05751f08b3b39083cff97addce1cd1aa44f1ed31
+	parent = 9c951fee38c5ecb1ba23f65b38d4d3a9adff1976
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
