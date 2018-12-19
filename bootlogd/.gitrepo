@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesB/bootlogd.git
 	branch = master
-	commit = 3fa89d3022ec0244083ee0d4b8eb3cae702cc400
-	parent = 59e25b688a15d34262bf963a1d988e74ab558273
+	commit = c671517df9b37715f3720fb328789e34552a58a2
+	parent = 4b1e2c269d9c381a35d474a979ad042a9b421608
 	method = merge
 	update = auto
 	cmdver = 0.4.1
