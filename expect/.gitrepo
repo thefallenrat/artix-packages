@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesE/expect.git
 	branch = master
-	commit = 19c3ac471233c806c9e9ef7656c503ebaa43898c
-	parent = f330fb2abc50a69db0f4130557ce1cba94677b86
+	commit = a0253a92acf01d8c0ea79b16b147bb759d565f03
+	parent = 2493f915aae2871ef073d8eb9be9e6754352a1b2
 	method = merge
 	update = auto
 	cmdver = 0.4.1
