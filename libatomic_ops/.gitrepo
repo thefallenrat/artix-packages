@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libatomic_ops.git
 	branch = master
-	commit = e35904b0475837a52e6f0f8a2c9f9e8a9cc1299a
-	parent = 821c7a79f83fc2298872582361f9b51a207c80c3
+	commit = 4989669b8316d7b1cc09fdbeefc04ed4924156af
+	parent = 6515449b8b205664bc82d4a5c6523b705e6c3862
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
