@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesF/ffmpeg.git
 	branch = master
-	commit = 801c346042685396a2b14bff6c793b8652203028
-	parent = 7ca4da60ac1e82041c43297525de5e198a2f24a8
+	commit = fac951b21d1cbc47a18dda4c31d8857d8ca0ceec
+	parent = b6f6770724a837f651f6d4d7531bacaec14a91c8
 	method = merge
 	update = auto
 	cmdver = 0.4.1
