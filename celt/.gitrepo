@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/celt.git
 	branch = master
-	commit = 10f7936109f890e924d3db89138b4435720d94bd
-	parent = 135d7105b44f519ca0a5709f15841506ba7c5791
+	commit = c8c323dfa68704951957f9f36253dc49ff29dba6
+	parent = 50f6c3814f2ce84155c1b6debd6fc3dff527d717
 	method = merge
 	update = auto
 	cmdver = 0.4.1
