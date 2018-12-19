@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gamin.git
 	branch = master
-	commit = 00841edb7bfc0bdafa463dbe180e629503caede7
-	parent = 42d5b7206cb23d24d1f488d49a2c36b9f207cefd
+	commit = 96e94fd48757d494cb9fbc8ab3655474f5df6d7c
+	parent = 317ef01b6b8c593247c81eeaca1355d38ebb90d7
 	method = merge
 	update = auto
 	cmdver = 0.4.1
