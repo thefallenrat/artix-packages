@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/ghostscript.git
 	branch = master
-	commit = e1bf66700fb1ab26665c6bfd3902a3532c83d225
-	parent = 788efeb785380a8d2f8c1f6f01345805c9509524
+	commit = a657c308cd346b2b0d3440cd02c8fe5eea15f1fd
+	parent = 6293252e920c95d199b7eddd50fd26ec80a39fcd
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
