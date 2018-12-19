@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/glibc-runit.git
 	branch = master
-	commit = b7c604c280b1a5ee4f8b7f84b73e811b1baf65f7
-	parent = 9913a5c0e5cd832ef5094f87d8f46e2027aef5d5
+	commit = 1393595829866e78210cd4942413a8b15e27b27a
+	parent = 352707736a7a3b6c481c05019d912739e67aaab2
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
