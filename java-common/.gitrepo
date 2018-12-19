@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesJ/java-common.git
 	branch = master
-	commit = b5166f7a6fe0f55a4d33f519e66a1ee0c20482a4
-	parent = cb6ee5802fa766c8237630c4788c68eead115705
+	commit = 343eacfb5898adf1b58303135a35ae807de3bcb5
+	parent = 6f83362b9468f45a03664b4f50278e04d2cf0866
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
