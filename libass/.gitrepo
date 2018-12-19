@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libass.git
 	branch = master
-	commit = db4290a8bad2b1adead6a76ed3f663da3ebae9e6
-	parent = 52369c89f5b0676e9aab7201f568a1971649e2ff
+	commit = 1b38def981bd68923901a5ed5ac6f6597ca626bf
+	parent = 097f998474b89aa8293e4b387eef7c268100c9a1
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
