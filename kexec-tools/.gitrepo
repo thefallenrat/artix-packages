@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesK/kexec-tools.git
 	branch = master
-	commit = 9266f306a80ef26ec1a9a3b7e61f969c0dd747c1
-	parent = 39964cbf2d69ed46d8e3f6eb0383bf18a49ea541
+	commit = 7ef41e36c35bb954449326327132618ba739cda7
+	parent = ebe5f89216d1d92acc66ada2cd83f1faac123c48
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
