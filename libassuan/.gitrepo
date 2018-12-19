@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libassuan.git
 	branch = master
-	commit = ac93b8bc4adeee17725a2da5401b3200077d2592
-	parent = c0b161edeade36da3e12f2413be7454971c084f3
+	commit = b52ddfe2769bb260cf8307878b61aa56fed2f6ef
+	parent = 697abe4ee8ea303244fdba2959daffd2193d261b
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
