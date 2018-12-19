@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesI/ilmbase.git
 	branch = master
-	commit = ce78e56a472cf22cc99e2a603361907d061d3972
-	parent = 8b9f226a335e6422d8a24780a02240118d99da2a
+	commit = 508938ebdf219fc335a3f0139661187bc25b89c5
+	parent = 0bd2915019a624d8607dfa34e78e44de29e0c92d
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
