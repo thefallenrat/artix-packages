@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesD/displaymanager-openrc.git
 	branch = master
-	commit = 378abffada2d03445c61f27f58548f844a563918
-	parent = 9259bd15da3f66fbf9b56f70ef97ff2928c50717
+	commit = e8032779f78ddb10d41b7fc20f6a5ffcfc0352db
+	parent = 4eb3659991b17c5bb8c334316b828bee288acae3
 	method = merge
 	update = auto
 	cmdver = 0.4.1
