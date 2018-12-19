@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libcddb.git
 	branch = master
-	commit = 2a12efe986c85e1b5a64769d14b16b611aba1452
-	parent = 83eface5f75a8c9f68d641613c25b407686db3a0
+	commit = a04775b39d29ff12467f868c97e9b00396558294
+	parent = 7fa9470eca81ee9f197e84abc591e312699bbcac
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
