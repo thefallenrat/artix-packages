@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libaio.git
 	branch = master
-	commit = 804ba1c240ba9d289915080c7d5dd10c9cc451e4
-	parent = ecda174018d155d6c619927a46b293bfd6d9266c
+	commit = 2bc49bad6e1654f3911fedeffd317554726df927
+	parent = eb222ac0fc75a01dcf5ce726933de03dd44cdbdd
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
