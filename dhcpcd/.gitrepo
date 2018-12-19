@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesD/dhcpcd.git
 	branch = master
-	commit = ff702d1d99e5d91409f4852abd2c0354fc877eba
-	parent = 98e4e3a8b6c6fff1d2916e49f75a429ecfb369c6
+	commit = ac0be7fe09977205a0fcaf0f35f22d4020896b9b
+	parent = e6579b1323438c13d0ea73cccf032b2279895ddb
 	method = merge
 	update = auto
 	cmdver = 0.4.1
