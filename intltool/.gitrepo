@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesI/intltool.git
 	branch = master
-	commit = 172b6c5918df22b7148f90e4188f178f9e1c0c9d
-	parent = fc90ca3390e2cc9e2874e827844a93deda8bbe8c
+	commit = fd6e0774d376c5431ac7fc60350aef4f0e4f5536
+	parent = aae6f9ef16f366a02a69df261451aaa6b8affcd8
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
