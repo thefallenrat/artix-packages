@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/convertlit.git
 	branch = master
-	commit = 06989cc36d3a56d9d07ceaad5238659b523cea48
-	parent = 9873dc20cca9f32bc9c1c716b1ca18cd27434242
+	commit = 882760bd856a4b1749f9ab388a2b83e0c837b318
+	parent = c3089a4ef06010ba9f16e9220f8c125a15dc25cf
 	method = merge
 	update = auto
 	cmdver = 0.4.1
