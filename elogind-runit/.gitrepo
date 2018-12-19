@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesE/elogind-runit.git
 	branch = master
-	commit = 4df73a55c21f92892453bbe0fe19f04205cf3814
-	parent = 8e09d45ee5f5b5eafc1a11b9d708dba7dce12769
+	commit = 26c2a82ab1a7e22dfedf02ade3a0c292bf4f0278
+	parent = 17d7e6a9f6e7e926a0503a2fe86185b09c936838
 	method = merge
 	update = auto
 	cmdver = 0.4.1
