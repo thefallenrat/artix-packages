@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesJ/jsoncpp.git
 	branch = master
-	commit = 263a6ee62ca2173e7c58351e20213c0fe6257cf8
-	parent = da0a70d7fa3047960b7b67d74616483c687f1b87
+	commit = 25b861a7693df69c22a2e766be4d71aa75eae8e5
+	parent = b937612b967068c2f6dc4efcf352a8644f4cc83a
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
