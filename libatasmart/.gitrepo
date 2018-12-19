@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libatasmart.git
 	branch = master
-	commit = 53fecd7442dfe7989545116d02287cc389eb266f
-	parent = b1e5473b4b02d3104101d8e03a5d78e6601bbc00
+	commit = 9a1a01e5887122938986c3124eb7b48f52db1179
+	parent = 0d637235f041df8769eaa52a38621b4a2d66cdbe
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
