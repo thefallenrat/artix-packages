@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesI/ijs.git
 	branch = master
-	commit = 58188025d12445741b8bc7efef131660d62161e9
-	parent = ef89aa031ca154e1b76e2b15f6e428e3e1dedc4a
+	commit = 3ec85a775909fa0f304dae2be0eca41fbe93109f
+	parent = 128b873ee9a4a368e5620d0586d215a64f173cf7
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
