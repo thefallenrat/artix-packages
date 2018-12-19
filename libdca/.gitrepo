@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libdca.git
 	branch = master
-	commit = 636a097cde10661a494481aaa1a23da9e25f84f7
-	parent = 5fd1b64cafad6407760d387e42ffb58f47334f6c
+	commit = cecac2bca9d75ea3307d5ed843e53b9c56d5f1a7
+	parent = 84dc853240c4a0681c4baa652d7a5dca5ad517aa
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
