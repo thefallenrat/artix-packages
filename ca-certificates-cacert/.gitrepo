@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/ca-certificates-cacert.git
 	branch = master
-	commit = 1d2c2e7f6a8efdad218d626f4fffca305ff0f632
-	parent = 997500ce10042b308ee72c99d0e782baeaa58e8d
+	commit = 9cb5b492f34d355af27c40606fbf9ecd4f8c63c4
+	parent = 4a61400f4052f814a7634d7e1a0e52ebf7dea84b
 	method = merge
 	update = auto
 	cmdver = 0.4.1
