@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesJ/jfsutils.git
 	branch = master
-	commit = 18e677d2df44f4e66e0a042286b766e9f890eb19
-	parent = a5f8ef845fb3f52729e451e76f3cdb7cdf8e4474
+	commit = 22604394afedec81ee036367c2da701c46c8d917
+	parent = 4379c9ab5bcfc539355187f805da1eba9071621a
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
