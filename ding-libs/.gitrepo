@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesD/ding-libs.git
 	branch = master
-	commit = f25c2bb8f16f6205db4edb9383a61a5891af1ba8
-	parent = 145cff060460a64a5960946f89e16bb7d286aecb
+	commit = ca9df51fa8fbad74a831c8f9e61152315046b75c
+	parent = 951449011d4619ccc9013918d043e460f22ee1ff
 	method = merge
 	update = auto
 	cmdver = 0.4.1
