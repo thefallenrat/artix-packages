@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesH/hicolor-icon-theme.git
 	branch = master
-	commit = ad8bd6a8a640b8146a55c929a12e3d99001c8f1c
-	parent = 4b7ee18221eb1528daf51f7b6cfc87de6f128a0e
+	commit = c9caf1b1164a28afb61320f31fec4e571545ada6
+	parent = fe242f2f64298707742c50b3dec35ef7ceb02949
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
