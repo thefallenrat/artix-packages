@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesE/editorconfig-core-c.git
 	branch = master
-	commit = b19e88b8fe86adbf44c065f807279f5a8bdb69a7
-	parent = 9bb18622e7787021e29b575354cedb25d43f44fe
+	commit = 5ec420a94771fc967e43018e4675dc3e7670b6ab
+	parent = 0075725a4f491ab15df5288f99440e373945a6cc
 	method = merge
 	update = auto
 	cmdver = 0.4.1
