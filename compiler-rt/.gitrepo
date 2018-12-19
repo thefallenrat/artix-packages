@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/compiler-rt.git
 	branch = master
-	commit = b7700c9ed21ecc2527551b35b73e0350ce4ce2b0
-	parent = 6d5e2bba48149e5a744a8ffb96e22420977d9ed3
+	commit = 7399a5db7039bda7c20412f391eed55eda3d61e2
+	parent = 09fbbc5323144b0daa8324717ba769caa88843b7
 	method = merge
 	update = auto
 	cmdver = 0.4.1
