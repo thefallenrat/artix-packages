@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesD/dhcp-runit.git
 	branch = master
-	commit = 7e6d2d1d00d68a574e4793ef18bc7b6f6e3d5e10
-	parent = e89e06e168fc365e06f4c7626b56e1a970140da4
+	commit = fef13e98f90de8886170f0d4b9bce61f78092635
+	parent = 249c33d5bf354fe668e4471b1d3dfa56cba6d211
 	method = merge
 	update = auto
 	cmdver = 0.4.1
