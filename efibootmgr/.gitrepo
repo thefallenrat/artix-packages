@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesE/efibootmgr.git
 	branch = master
-	commit = 47edaad8733ec25835c6681ac661fe96dca5c2c8
-	parent = 1b5927ea1e851ffcb815e79db91dc92f1ceaec64
+	commit = d7af9c855504816dff8e776c15097f9a5f7ab244
+	parent = a4b638fcfc74a3a8d83fab960d8168e7931ee1a3
 	method = merge
 	update = auto
 	cmdver = 0.4.1
