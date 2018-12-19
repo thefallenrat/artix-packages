@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libfontenc.git
 	branch = master
-	commit = 6492da2fbe2b098024ea51840a0f3490106c44e0
-	parent = 5b1e67ab65dc5ec27e821b77f53bd109f8a6b9ac
+	commit = 928a7d494f8c145114862c479876623fb87761fd
+	parent = 9825899086ed2ac07093408fdb59565e6ca56d2c
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
