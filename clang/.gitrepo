@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/clang.git
 	branch = master
-	commit = 45962d7a9b97ffdfc410f55749af6ec92990b5b8
-	parent = ea42d2388d8a8e7c1a5b20aea0540feaeb1839a7
+	commit = 039642c75cfd1bd805ccfe238dbb01bee1847c5f
+	parent = 8ba989f4004170a1e8ecb0f02e035fc3ae8f5079
 	method = merge
 	update = auto
 	cmdver = 0.4.1
