@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gdk-pixbuf2.git
 	branch = master
-	commit = 526c745d28ddb9340b573e4cb7373cf9142578e6
-	parent = cfad21206fda955235bd600afd548a4748380bdc
+	commit = 15a6c2fc3a8782e400e03818e76668cc7fa88625
+	parent = c52d1b3f7de8d0bbe4ba673055dbbc4cacabfea5
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
