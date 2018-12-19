@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libcaca.git
 	branch = master
-	commit = e257cb42b74acf053ae97f4539ea50fc0bac6aa5
-	parent = e92ab5a87208cf2a3c55055b1f8d4a6374b82cbf
+	commit = b2ea8e755afa56750ee25a60581bdd85d57e3e03
+	parent = 8bce2fdfa182be610b0fafd09c5db367716bf6bd
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
