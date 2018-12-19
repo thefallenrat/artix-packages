@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesJ/jbig2dec.git
 	branch = master
-	commit = 5b1efbe0a584b064335797a2044cb5f4336f2599
-	parent = b775de689d1dd00c40c620a2cebe239b7643689a
+	commit = 3884f569fa387874bff9b32bac363e737ac4bd0d
+	parent = e19b6a26b52bd6307e0f50d6ea49a4498855dbed
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
