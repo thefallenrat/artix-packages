@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gsl.git
 	branch = master
-	commit = ce1e2f9beb7b9bf4c3fa432b61ec8aec2fbec12f
-	parent = 6890eaaa2885b40ad53ac9bc1d5283748b8d9c90
+	commit = 0083867af2497784bf77e4593831b6c95e4b41b0
+	parent = c7715f7e54a29f39b3ae6375595ffbbdc6f97250
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
