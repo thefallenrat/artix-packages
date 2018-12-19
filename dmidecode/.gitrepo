@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesD/dmidecode.git
 	branch = master
-	commit = 95876acd82d0347396d448dc816372f42e2e68cf
-	parent = 8e79d6ed3bc68683ae9af1908422f306572172b1
+	commit = 9e229dfb6f99166248d46ae6831557c105113cca
+	parent = 4bec828342b933c0da21304753e6048374db27a3
 	method = merge
 	update = auto
 	cmdver = 0.4.1
