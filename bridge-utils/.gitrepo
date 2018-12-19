@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesB/bridge-utils.git
 	branch = master
-	commit = a236722ba98d32ac45b5482b7e08d56b1418ffc5
-	parent = 635743b4df2f8995ddbffd3f309a31e03d366c42
+	commit = 8ff68f47197a1ba05ee9926c0690048f81902166
+	parent = 5785ac0b9a60ea2e64fb0e3ac6f1058e8e96b537
 	method = merge
 	update = auto
 	cmdver = 0.4.1
