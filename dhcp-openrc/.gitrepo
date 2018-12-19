@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesD/dhcp-openrc.git
 	branch = master
-	commit = 73e1f41ac6208390a35f3e1869abc60568c11eea
-	parent = 10bc64b1bd408aebfafe6c1f1bd3fb62d30a24e9
+	commit = 18e77a2354d23a97e90e22ed51f4bc71ff6a1c00
+	parent = e3b5e54d305d94a0f6274b309964aace026fa084
 	method = merge
 	update = auto
 	cmdver = 0.4.1
