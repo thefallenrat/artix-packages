@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesF/flac.git
 	branch = master
-	commit = 45cd2852469d23da944d004ccd4a25d009e38097
-	parent = 6c78909bf0e44279cf1513e8b62d41a45ba0c84f
+	commit = 215337733c64422c1831d5593c58bd17a3b1943d
+	parent = bd0615d02edd36da7d97e661c4766d030b56db78
 	method = merge
 	update = auto
 	cmdver = 0.4.1
