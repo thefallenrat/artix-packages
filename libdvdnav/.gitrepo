@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libdvdnav.git
 	branch = master
-	commit = 1e8ff4a1f11ec3247285c0e4ca22752a5bc5d79f
-	parent = 8f1ccc8d88d6f6c89f240ec20f6797cae2787a0c
+	commit = ad048c6b5a9ccb5f17909c2d93f37d71457d9c5b
+	parent = eaea822293340b269b6bc6aba38b1d4de283c70a
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
