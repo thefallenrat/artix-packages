@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesD/docbook-dsssl.git
 	branch = master
-	commit = 40ff6ce0a030da1a5b58b13c50e9ed5855f1f664
-	parent = ec8f4939c1d316f816726514a5a1bfc73fb1795b
+	commit = 47392b727e34bb50208e6a169098ad46293f294b
+	parent = 9353a53cbf9cb2dd2a97f4cf2dd4138108f9c65d
 	method = merge
 	update = auto
 	cmdver = 0.4.1
