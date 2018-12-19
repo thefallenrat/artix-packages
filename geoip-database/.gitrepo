@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/geoip-database.git
 	branch = master
-	commit = 97332c2058565a092c5872f071abe992b3227c81
-	parent = fce3bd15e4b483936817445555e6139b78259679
+	commit = 1e608810a3a6027c3ce44e583009eb42fdbe07b6
+	parent = bb4a85d7640249303911efa856d295cada91920a
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
