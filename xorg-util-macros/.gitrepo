@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xorg-util-macros.git
 	branch = master
-	commit = edbc562bb236873182d193a14a9d7b0394c59e5c
-	parent = 00679bd52cc5bf6f4d8612922ea19936b7f62683
+	commit = 989ed84328cb5bcae0a4ee1bbef55ef997be9fb7
+	parent = 726984a8ac5898203709b362bdd263844d6ff984
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
