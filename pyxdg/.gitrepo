@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pyxdg.git
 	branch = master
-	commit = c5334f6faf1fcb29e772d1377fc486299c8a3732
-	parent = 85a2a2c40888cc46ac59864b84c3f585732fcf86
+	commit = 20415b7171153a75c5b498d05300442050062c8d
+	parent = 6a5542dec1a0edbe78dc53b7e679757923f6e1f5
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
