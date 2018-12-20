@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libsm.git
 	branch = master
-	commit = 3d553bfdf192f583d3ec63cf180cd9331a40ee94
-	parent = 44723bdab0e5e7dd7738e51ef4726aae665d5211
+	commit = 96a07ae025330e00ee8e9ae116ced9836b1bba9b
+	parent = a6b10d4174929bf9ac56a0b43c57ddb1c8d9cd83
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
