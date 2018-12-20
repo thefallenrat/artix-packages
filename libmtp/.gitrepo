@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libmtp.git
 	branch = master
-	commit = bcd1322e3c2a4920114ea01dc0f571489c7c9539
-	parent = 333dc08e8033cccf60f6ee3ecc75a22acfb2088d
+	commit = ed168a708674c9d58c9c30d600c09f4b33ac3bb9
+	parent = 20c93d30d10d2b5a3317d9a70a7220a891c75634
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
