@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/mailcap.git
 	branch = master
-	commit = 267bcdd2c0dfa39222971bbc1407348da2daf556
-	parent = 4e771562015f15465edec8574075357f439a2590
+	commit = 447d75e53e5b21325db8ad3719407b36ca867ca1
+	parent = 17e3969a9aec47148fe4f8bcb507898b5a6a7f91
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
