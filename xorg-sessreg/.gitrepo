@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xorg-sessreg.git
 	branch = master
-	commit = 9ff98c476f040c2b40692e0b5f524b408d039532
-	parent = e6764678ab1fc12344df9dc933d91b95eeb49df6
+	commit = 425b0d8f2ef3faafefb0f6936dab94eb2e67a3e6
+	parent = 7a777537a7b2e163d93354204e0918d5ed0bb1fe
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
