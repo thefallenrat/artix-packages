@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesV/vulkan-loader-layers.git
 	branch = master
-	commit = faab2f430496c1d64fbdff8ae661b1fbdbcd9a5f
-	parent = 2cbc0819cd07da3131876bb62a4784bb590e5e70
+	commit = 5f56d5d94dda3c5420f571ec832656e296ba1085
+	parent = ed68e62954ddc29b67f722272befc92a0b37855d
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
