@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xorg-bdftopcf.git
 	branch = master
-	commit = 1f3f9b93d66a37219b8eaea95e2776250702f970
-	parent = bb4ea0f890a56ec8a5cb4400fd9ad799e04fc998
+	commit = f960d42a8f38078451513ecf114050c2bbe233ad
+	parent = d0af64f2612b262afb85643474f3d698941388ad
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
