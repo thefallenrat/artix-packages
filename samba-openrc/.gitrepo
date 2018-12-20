@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/samba-openrc.git
 	branch = master
-	commit = 7b1fc26c102cac657e32a63e67f2465bbd5da2f8
-	parent = e3a830ad06ed3974f517e18924f76bf813dc930b
+	commit = 1059e0ebe16e10b8546d4f6ee4804046ce78cd54
+	parent = 38dee7b397eecccf8859e90955663046bd6d1ff4
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
