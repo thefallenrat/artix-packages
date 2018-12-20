@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libupnp.git
 	branch = master
-	commit = d1e30b32fe1c5fb1f1627d735c44de8afb45716d
-	parent = a99b8257235a2b72e0ebc4ff2c6129bff26b854e
+	commit = c43f66353d9895eed178b79a43f8af5e38846b59
+	parent = 89b32ff45d7cd732d4f96628f722a26fa63902ec
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
