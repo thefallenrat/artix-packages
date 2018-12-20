@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-ply.git
 	branch = master
-	commit = 4f976abbe6aeeae709aa671bec233873154d8e68
-	parent = fc833bcaff313bc63825101a82297467f968c308
+	commit = 2d79b8d96b90bf58cec035b9740477cb205259d2
+	parent = bd9ba309af7cef74e57cb3c7ba4e9e0092ce8da2
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
