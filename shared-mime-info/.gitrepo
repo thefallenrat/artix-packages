@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/shared-mime-info.git
 	branch = master
-	commit = f7f3532dbdfde5a77cc1e2df13f8eee5f94e367f
-	parent = 9f6dcafa1b621162e0ba5a4702faa247006b0515
+	commit = dfb69afcbcfd02c7199117773d4ef0164e2d0003
+	parent = 16b878a5ab14ed1da64d0e36836086f0968f27a5
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
