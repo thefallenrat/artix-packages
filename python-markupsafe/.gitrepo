@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-markupsafe.git
 	branch = master
-	commit = 4a57f44f996f38012576377c79725b297c22ffc5
-	parent = bf6cc2794997f9877bf533608ce5c40ddb9a7143
+	commit = d479164b73145577c599e7651a0ce83ab8b80af6
+	parent = 63a56bd41d6c4d4b52edc7ba941947a2a02261d0
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
