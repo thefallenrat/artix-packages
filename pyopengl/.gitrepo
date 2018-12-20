@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pyopengl.git
 	branch = master
-	commit = 1e68a6e768cf1c00c733dc6ee3d85fc3d8a08d0b
-	parent = 1bbc418dffb95211d80a5772ac305c5a19f7eb21
+	commit = 3775d37f430bc298744f441c26f16494b6af1a59
+	parent = b324436f0d5532439226e7091949a7d07bcb52af
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
