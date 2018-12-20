@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python2-backports.git
 	branch = master
-	commit = dc63fd707c130d9fb41f40c84b552240678f35ad
-	parent = 1ca452b425ddf87ead04f9a8fbccce8776a9d8bc
+	commit = a9a65908488fa2bd4173279762e83a1a93242cb0
+	parent = 4af5a234ccd15dfc72c2f111be5e976c29be7a0f
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
