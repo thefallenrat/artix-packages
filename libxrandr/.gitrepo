@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libxrandr.git
 	branch = master
-	commit = 88574156f76338e750a7ce9e99fdd0c52f0abd6e
-	parent = 84f59787f728c37645f5181b183d09d2a868c7f6
+	commit = 4448ff52d6cfc2e0fd293b81d54f3541d932b20c
+	parent = 3b8e4cb215ff2dd923204000d2c694030fe74d1d
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
