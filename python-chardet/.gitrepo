@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-chardet.git
 	branch = master
-	commit = f7d50b67ae4f2641494bfeec9c02847b9ab8265d
-	parent = 4f8feba3a662db092c46b3092343f7d9fb51a695
+	commit = 7ae011aa35dd0e6c605e43e8470a7a1e2e7a2644
+	parent = d8dd1cd1e2ff539cd37e6f1c2d00dec12f9cca28
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
