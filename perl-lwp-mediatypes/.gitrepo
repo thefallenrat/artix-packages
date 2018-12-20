@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPerl/perl-lwp-mediatypes.git
 	branch = master
-	commit = b768ee7cd640fbd31c70120463b411e4aeeffcd7
-	parent = b439cb8a7c769f8d3077ea1b022c0d708c6ba397
+	commit = 654f4e1dd06b5c5488cc26480ac1bcd693fc2307
+	parent = a299c0eee5672bb4173b34a7fb1f7d051cb1c148
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
