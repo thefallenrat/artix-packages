@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libxau.git
 	branch = master
-	commit = 14b60f2941cdd2742efbfbba23b251fecdad845a
-	parent = 5dc2f76d8051bdab40ac36c84eab74887c7ce5f0
+	commit = ab70691610c44040e3c7d21bb0edfc1aed0eb830
+	parent = 3c9d22d82ebe55e69e5617e3c1892ebb4d45791b
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
