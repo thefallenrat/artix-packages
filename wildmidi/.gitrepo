@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesW/wildmidi.git
 	branch = master
-	commit = 63361f641a045210079ba17bcd7305ec47f19c93
-	parent = 5a425be36d02e548702c7a2abdfde4e2121d81f2
+	commit = e8ad46e9a68a420dcfc3dfceb153f2581d986307
+	parent = ff06d325962114e3ba723f7437bf556eeea5c69a
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
