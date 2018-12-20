@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pyalpm.git
 	branch = master
-	commit = c0415ba3d107a7524f3df7f591977a2f20f57b71
-	parent = 36d598fc07621eeacbf8f485e879f9b0f8bb4118
+	commit = dee9e0c02aacaa46258d2d241987eff340d2c277
+	parent = c611dc318f181c360ab6788d6c68fc4375074241
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
