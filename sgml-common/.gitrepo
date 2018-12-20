@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/sgml-common.git
 	branch = master
-	commit = eea90d8c5497089ebcaca969f39f764f46fba7e0
-	parent = 3cb182732631a4a19b9aae0f81764779c63ae99f
+	commit = 3560a68c2ed6a306dd1695ca1b805a55db08ab1f
+	parent = 7c1f025276775192d02c94a994a9948773fb62bd
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
