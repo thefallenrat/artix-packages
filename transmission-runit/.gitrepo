@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/transmission-runit.git
 	branch = master
-	commit = c2086c208d15405bbcc849cc27a0a225804179e6
-	parent = c18cd142181787278600f7f8309f7c248c786925
+	commit = c566f7e29f1505619f8e44216e0456018fe2d196
+	parent = 8febef9a10ab1163f90c30b4605d85f126ee070c
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
