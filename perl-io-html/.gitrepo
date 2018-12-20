@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPerl/perl-io-html.git
 	branch = master
-	commit = fc2e523880d529fee91e4893f316e8dd8ca9c1c1
-	parent = 6c785fc15194703ee90dbe31d7532164fb89b2cb
+	commit = 387cbf5ab0ff30f6aae13c8c7f466f75da5269e6
+	parent = 986b78d3a6f972d894b043be927efb09b232e9da
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
