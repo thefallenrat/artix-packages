@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/popt.git
 	branch = master
-	commit = 3334bce5493a7b797fa2c6bc7776b0b0a76804e0
-	parent = 7ea39b99b90db335a45cd3ae93c28f397cfbcf80
+	commit = 73d9c307f5070524ea40f58e3093c5f042de73c3
+	parent = 2123b0be748c3a9bcbada6ebfa6924440de85fc4
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
