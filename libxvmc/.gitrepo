@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libxvmc.git
 	branch = master
-	commit = b9869805fdd9cfbb84c94e3bd301ecfe2ee4f56e
-	parent = a243e3335682640d29ebf2ae3f79e03be40777d5
+	commit = f029aefd2f53cecee3f3d5ca8011067fd7221792
+	parent = bd2866163b140c101e195a0f08efbfebe76c16dd
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
