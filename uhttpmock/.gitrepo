@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesU/uhttpmock.git
 	branch = master
-	commit = ac6586921915dd0b19df6b4ae2ef319bc8d0d4ad
-	parent = 36b4dae6327af851a8113b8772234a08d298d0f0
+	commit = 1d7a0e6bcd0a76aa5983098c6edece7ae328296b
+	parent = c653e068828bf93e2b6ad548f8f3cd0786098a44
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
