@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/nginx-runit.git
 	branch = master
-	commit = 7ac247c276df65f4593d1d5f1995e5b33d7f6e9c
-	parent = bf977d726e745d5a6f385f4b3e8231d734422cd6
+	commit = da6650ae226b638e93ddc944d1ac396d1a7abfdf
+	parent = 4255d42b0d6ee51c80f3a2682bf159793fb227d0
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
