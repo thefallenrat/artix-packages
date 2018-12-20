@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xf86-input-evdev.git
 	branch = master
-	commit = 104aeb733f58caa87943a207bbe73d9181116c34
-	parent = 7669cb4a9781419e6dd62722d89f7d6e3b4e7afa
+	commit = 4a898ec250f30434eb5462a612a56ffc1841c6cd
+	parent = 7374c50ad604d24c99ac1ee5f04c7a201b4d6fcd
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
