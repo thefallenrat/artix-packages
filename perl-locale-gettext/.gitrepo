@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPerl/perl-locale-gettext.git
 	branch = master
-	commit = 044bf316056e14d15bbd36901b96c9f62f7c75ae
-	parent = 250814c012baabee0ab9b087be0f606c5397b2d8
+	commit = cefebb57df53eab0a5280d29ec3d7c86463e7111
+	parent = 60ac1428e15e00819ec8f7b2fbd06ab3b1e0915f
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
