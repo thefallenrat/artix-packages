@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libwacom.git
 	branch = master
-	commit = 3a2ba9477439b73081d61e22c7583dc9e67b10da
-	parent = 60f03a9cda32e979470017f0ade24807a9f116df
+	commit = fd5fd5098259ec5d9a0d642117596166f664cfaf
+	parent = c1170cf5bb86695506221770f712cc55e9d0b162
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
