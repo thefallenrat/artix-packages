@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xf86-video-openchrome.git
 	branch = master
-	commit = 8c660ffd49a7c4df9757cd6e880bc518cd8209c0
-	parent = 7798c9a04b407935512ec4df65a0c1dd3a7cf238
+	commit = a22654405f2fce54172fa1ca472ca8b24c0e5b30
+	parent = 854b8514cf158a2ed4b057415c78f39fcc2d95c6
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
