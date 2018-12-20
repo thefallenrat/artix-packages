@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libomxil-bellagio.git
 	branch = master
-	commit = 72593e6b8dc28e4a6ad819b605bbc8b0e9d0f903
-	parent = 8e36743aae42ebbb869105c21be0bf82962677e0
+	commit = a1f643d8691d31223c081c5b4d3d76f071027442
+	parent = b9377a5a6bc836fc5aaf739399bab338fa5cb54b
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
