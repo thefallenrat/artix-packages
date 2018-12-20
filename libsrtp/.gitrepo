@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libsrtp.git
 	branch = master
-	commit = 7376722b5954e634b0a3721f2b4a3b85f3e802e6
-	parent = 73007a5ec436004fbf7d9cfb0e870441591fe7d9
+	commit = 47f637cadbeebcfc3ceb74cde93d514cd2d3c98e
+	parent = b318d783a39ac8d49013b25ee40d257278f5c2b9
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
