@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xorg-xmessage.git
 	branch = master
-	commit = b376857d9a8c499f4a2ff55e89f8727d145efdca
-	parent = b7c924861ae087d07d419d6135110b52e4c6edde
+	commit = 9fb1a02ac26768defc36c327f6649b03784633cb
+	parent = aaef1a5af356df651f93b4a3d11058f883321da4
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
