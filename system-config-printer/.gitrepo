@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/system-config-printer.git
 	branch = master
-	commit = fb7d147c2ba4f15af09526dd7985ef541b56d977
-	parent = 8219ed1b243e97b124fc7a5b2b0f45854fadd3e6
+	commit = c6439b6591f3906e9910f48ade84d2f642629626
+	parent = f1979ca6fa44bea8c07108f034b3314ef207a775
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
