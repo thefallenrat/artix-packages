@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xf86-video-dummy.git
 	branch = master
-	commit = 84dc8cf0b854487edcaae059466d61fd0930e951
-	parent = 851b32e15e58234b3054875929fe5886063d5930
+	commit = e6296980f7f7abaa315a9c311ec7216714213bd8
+	parent = ab0c77a660b6f58d237d198824d8afa3c8cea59c
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
