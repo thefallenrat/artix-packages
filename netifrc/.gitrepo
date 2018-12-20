@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/netifrc.git
 	branch = master
-	commit = 2a49a6ecca94c2a66ffeb856ad685a628415fbe5
-	parent = ef86eb7e8f9ad1b8943a4ab0c4d733fce7e97798
+	commit = d134d108e19a333b84ff1842a77fd476a03be816
+	parent = 975aa3ce70a0f3b83209500590cfdde2af81645d
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
