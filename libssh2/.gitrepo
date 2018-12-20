@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libssh2.git
 	branch = master
-	commit = 73f469a5ff283fea90720cefe76d208a5e91b7c5
-	parent = 5718b9d79d56b64305235da7e5654093c3663353
+	commit = bb0722d5574bbfe3a505f7901c3e6ca8b4d64f96
+	parent = 3538180f9c73a8e42d9eb602067c76f5e04b03e0
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
