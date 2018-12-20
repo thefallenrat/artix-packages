@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libxext.git
 	branch = master
-	commit = e5a8022e3c99ce58231cd5b9b525eab576fa5316
-	parent = 505d49165990354d15d06b3af6b58039f51be129
+	commit = 1a530dadc49513bae0f78d26160787fa90d1327f
+	parent = a41c466ebbf5b56b1bb55b0fd9cee61d06db529e
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
