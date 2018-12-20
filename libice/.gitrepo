@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libice.git
 	branch = master
-	commit = f60c2192aa1e8f8274696f56c7ee5b9ac04d1f08
-	parent = 299002a48edad24c55ba29b6b3e8215ef295bd62
+	commit = 5fa79a7fc9de5b50a6a39726c040372a6ab09aaa
+	parent = 652781d1adae8ad1d6d068b0e2e70db30394c36b
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
