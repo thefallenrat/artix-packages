@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/syslog-ng-runit.git
 	branch = master
-	commit = aca4c3865b3acbc69df74c6f1108c87cd8a7f39b
-	parent = 597d17ae68622b81f04c8df109ce7ff1594ac0b9
+	commit = b286da1c65f881a290d32b91fdb6aea518e5ffd4
+	parent = 7838459418add2b18c8642a1e2146462de924f97
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
