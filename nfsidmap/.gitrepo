@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/nfsidmap.git
 	branch = master
-	commit = 544110266b2b4959bf4b975d95d13a07b6dd47e5
-	parent = ede72a7374283526da9e037de8b12f780f264295
+	commit = 3b3f817e7b609e52631ed9f21795573ecaac68c4
+	parent = 00a0746273588c4dbca584c4568e257f0bc4358e
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
