@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libsigcplusplus.git
 	branch = master
-	commit = de2f548295913b457efd6226a4ef52e23231b348
-	parent = 1850f534c665d09ef591ad3e7ec68cdc2a5c285a
+	commit = 8b4e4bc11402a93fe899711ce90ec7c02734439e
+	parent = 9ce6d8975be3f31ab7ad803a1802eaa39b426313
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
