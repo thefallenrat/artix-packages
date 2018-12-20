@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pkgconf.git
 	branch = master
-	commit = d2e8a9deb31b41ac534dc69095d27b2381fdaae9
-	parent = d2db67253e926efdae1922db975fd50a5685ec98
+	commit = c7c37227de0eba84b8bea6214589d75751432a2f
+	parent = 9534c149192f5fd7b4e8bf2ead15abc33bcf5a0d
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
