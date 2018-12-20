@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/mysql-openrc.git
 	branch = master
-	commit = 092958050ab0c1bafdbbacdf234cd6d574e4e706
-	parent = 2812406d1930e38012044896b1ef28c24f9c92a0
+	commit = 2333f27095d4b42f1976a564e2969a8a841c2324
+	parent = 1ab6021ac251f672eb0da94ea20000f91af0c449
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
