@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPerl/perl-try-tiny.git
 	branch = master
-	commit = 74e77cce2f77894993bf2ddb050e2cada2bd7f62
-	parent = 8132f0cf8dcd81df1d16872bbe1d4cf063a2ece7
+	commit = 59be9e442fc0cc6b7051cd087f34ad62e59eb63d
+	parent = 0577878ae3a3353d0de4c9f9b18e596c75bf66d5
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
