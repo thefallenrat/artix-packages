@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/liblqr.git
 	branch = master
-	commit = 95a42ffd27605c614409e10397faa0c32aae8a5e
-	parent = 9d7f16b918603c420453cdc529fc6e60025c1ed2
+	commit = 0362acbb5b260d11484723b9d13499f93d103bf9
+	parent = 8cedd76602de36dbaa1429a330b3575d13e927d1
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
