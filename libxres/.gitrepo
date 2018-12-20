@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libxres.git
 	branch = master
-	commit = b13678046eef5151523012ed23d9386f4dd27649
-	parent = a330a65a6a731054a8cef1f7b08cc2f419d5aa94
+	commit = c7a928216ba35d644eeb02518446fa7e458410c9
+	parent = 95616330148a1645d88b12266d48f4a0933f6581
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
