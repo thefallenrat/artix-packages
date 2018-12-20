@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xmlsec.git
 	branch = master
-	commit = d265ad37939c2cb033bde0aab085d6e8c43b5dbe
-	parent = ef4ab3a1218a5bde4c90ec08b9fc962646748a82
+	commit = 4a5d6ecebe257559c019d36a07afbfcdf9d3d29b
+	parent = 33e33d11c240c5c253e03427ad1832303faf66a3
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
