@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesV/vcdimager.git
 	branch = master
-	commit = 8ba33bb777684d519c80be4876884e6e52a64e25
-	parent = 69e6e5d2192e8ca55060203386a47333911e280a
+	commit = 3485088cd328c5aa6885a2789aca6353603f0387
+	parent = b0977f0d8ecb89c1454101283a7de810cf003144
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
