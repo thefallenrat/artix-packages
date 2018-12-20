@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPerl/perl-net-ssleay.git
 	branch = master
-	commit = a8671a1eab21732e3cfab37576195f642ef87e09
-	parent = bbfddafcaea18dd6ceb5525be78b7c6c55c51c08
+	commit = 23e7238b175156ff5b8409c35605af46c82268cf
+	parent = 4ff4b98ab4ae3394b78f390d744d23b81cf4eb66
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
