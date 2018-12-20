@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/ttf-hack.git
 	branch = master
-	commit = d5a84b49ba19ee192ad24030c03d943de3fbb7e5
-	parent = c01a479e08f3a0f7bc289660dfa8815d41dd2524
+	commit = 6b54af0716d8a45a9a0c8eaf0c1fd7aa30be7e93
+	parent = 22a591e3ecc805d35546096addb86a4a5ce96786
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
