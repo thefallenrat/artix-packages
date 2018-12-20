@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libsoxr.git
 	branch = master
-	commit = ed354801014e1bda654230e72807001c89500bf9
-	parent = d315acf44741bbeeca58b1f63758bd9b22026c7f
+	commit = 18e39b382f7fa91e4af01a17df32ecc000cbbe9d
+	parent = ab9e4d1555c4ad1a8ed5b2ae2bd6fa429460712d
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
