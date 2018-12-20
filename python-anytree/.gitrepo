@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-anytree.git
 	branch = master
-	commit = 43fc3bda5d06967640926e1de797c4a7d2998289
-	parent = 395d21153c5e64c16f9c8871e4ca1325e2772086
+	commit = 5415ee6c01c97c8b14977e0766c0ff00b7acf739
+	parent = 9eceb10446e59b99d77b0feae929cdc52b0cdafa
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
