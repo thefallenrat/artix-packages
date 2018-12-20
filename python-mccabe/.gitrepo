@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-mccabe.git
 	branch = master
-	commit = 51ccad75b7652da0afc30e9d7873b05d56d8bf3b
-	parent = 27add421d329ff8c858f81d929a59d87cb0e96b5
+	commit = 7cbdacac30b2dd675da83b25d2726f8ea6d236e2
+	parent = 0abc4f6664fa5a54fc7d8e471b031a517f7bee35
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
