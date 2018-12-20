@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/linux-atm.git
 	branch = master
-	commit = 2a42dd431d02bd2265d60133a72e24554df28957
-	parent = 91c7095e8b0d7a7eb4fb7f87ce59f0979990d153
+	commit = 5da2e647a5be38a461e64af4f529b167f792a8d1
+	parent = ee6b4149006178aa78d3180f1bbd631ccf0990d4
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
