@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/postgresql-runit.git
 	branch = master
-	commit = 0ca8df36aa3dabbac9816f2a1883c9064d310702
-	parent = dacbf6dc7e6f9e23d562b20b589a001350a74fb9
+	commit = 78e830573ad0eac961d42a60b40a1fe941510a04
+	parent = f9db1a2e168a0e0805be4c8fd8e4659e51da8c78
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
