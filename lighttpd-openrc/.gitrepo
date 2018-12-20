@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/lighttpd-openrc.git
 	branch = master
-	commit = 681586a6cfc02e1f21e922497cde5a8b0bbf7eb1
-	parent = 82e5dc35b26366a39bf6a71e080bb0a399e397df
+	commit = b44516e82f6d0e915748bd0212777022702fe10a
+	parent = edffba35efef568e0d0fc6be722ee0308fbb0cd8
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
