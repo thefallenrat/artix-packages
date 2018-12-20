@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xdg-utils.git
 	branch = master
-	commit = 6ae8fac33e42f4a81ef9813f75e922619a75fc8e
-	parent = 332e8df28aa7aeb9fc86f6b10570af602b7b6c3a
+	commit = 249e86e7be75759429aa9497b8b2e6a0c57ae133
+	parent = 944a10ae825dd1cc19afb9b45b0e9e039a1c5acc
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
