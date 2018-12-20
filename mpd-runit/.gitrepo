@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/mpd-runit.git
 	branch = master
-	commit = d6deed9dbfd6d21001ea6fe2052cf96bd22cbba8
-	parent = 1e549c1f0b6fdddd557b71c72e667eb714947461
+	commit = a86262222badc3fdcb36916336a12f36f219dffd
+	parent = 93c74cdc1916a92a3363410f07db34256fd178fc
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
