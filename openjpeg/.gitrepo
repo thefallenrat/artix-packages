@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/openjpeg.git
 	branch = master
-	commit = efa54ca5c6be8cce5c0c7c43cd8c08ea83a63861
-	parent = 69c8f32a492fad6e37a576153fddf30d9121e9b0
+	commit = 6955aae152fa85359f38fd38c5f65f37a312f0a7
+	parent = d3dbff75916ccb8b6f8dcced98fcb76b30d687b1
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
