@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/openssh-runit.git
 	branch = master
-	commit = d45fb700edf5e28a54d83729f3c14ba22b0840b8
-	parent = f208199910b9f660426af266c726e64930074382
+	commit = 2630f8298fe43d27c2201d620d7a9cbe9fafaedb
+	parent = 53bafc54e770933a2be116fce2920a3c0c7ed3ec
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
