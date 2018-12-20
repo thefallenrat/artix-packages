@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesQ/qt5-declarative.git
 	branch = master
-	commit = ec33f7244e1083a2b8c8c5d3725397d4d763b5d0
-	parent = cdb8b37fed9c8751088f62cd5779499b31b30813
+	commit = 104e514dd7742a80761c240f252074ba5ca404d9
+	parent = e6c232118bfa650d55f2ff6d09569503cc6e2a49
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
