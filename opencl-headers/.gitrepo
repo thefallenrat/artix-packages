@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/opencl-headers.git
 	branch = master
-	commit = a4e3f65624a9d22d97c503e452e8d5b0be6ffabf
-	parent = 04c2a4f60d758acf38bc8ec6040d27034b7d171d
+	commit = 1d19f39928ad5995d8ecdd32320ec60ecfd420b7
+	parent = d4211b558ffd3c0a6d051f554cfe4047595ce346
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
