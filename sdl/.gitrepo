@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/sdl.git
 	branch = master
-	commit = 944a3147701257ce9f10aac0959e2839f4f40709
-	parent = e59a7a838349ab331349dcde4187fcc3de9c3dda
+	commit = 9ac22c6ee8d09e31b6a26c0da618cd99706c8120
+	parent = 0b990f410c68da2f2690fe70e93b8b33dacf4448
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
