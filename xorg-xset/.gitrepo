@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xorg-xset.git
 	branch = master
-	commit = 289238179e3aded221416c7587d6edc6459e5ad8
-	parent = a6b6cdf21677f0f2fc04bca0cc3e6f3a7cd35a2d
+	commit = 3f6a184f9b46ff1f850d647fb15bbae94a1ffb7c
+	parent = ab91f431e2c53d714aba2746a195b8b40626aa11
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
