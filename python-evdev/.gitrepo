@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-evdev.git
 	branch = master
-	commit = b3178d8015ac7fcf5e4a9a28a1f095ec878d19fe
-	parent = 483d5fe50c42665c60985ba52435116a12cae7cb
+	commit = 235fed0bfeca896e3918f5bff00f5980e8e2d3e5
+	parent = a70757e32cebc9566e669c9fc34499541ba8ecc0
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
