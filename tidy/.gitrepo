@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/tidy.git
 	branch = master
-	commit = 9c48affb16b19653e8bef2ceacc98a1bad85ba85
-	parent = 24d69109a5dd3c33eafd4161fe6b9fbca0f7632d
+	commit = d8d60f565d697719a1c4539669596feeb6121205
+	parent = 7e9ed1095f5e5d38ad319be6f6cf1e5131b1f189
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
