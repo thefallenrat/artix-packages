@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libnetfilter_conntrack.git
 	branch = master
-	commit = 10c1a3e8546934726d40ff46b12df46de652ee87
-	parent = bcbd798317f4885a48ea0dd46fd080b0aef0f033
+	commit = 9db7682c1e98e4edba7041b8f227416eb06af069
+	parent = d26bd1b9c032ffb91d6aae030e22977706de646b
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
