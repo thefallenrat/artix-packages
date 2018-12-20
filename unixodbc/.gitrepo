@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesU/unixodbc.git
 	branch = master
-	commit = 96d31e884ffd10ee78a01d95ff8ed4f850bb8581
-	parent = 6c9f5ae1651e482634edfeade8758b59163f32c6
+	commit = c96aa66a4f32e0675a31b0708156803596ccff72
+	parent = c7a74a7c542416b098ca0dd491e3d2a3f7ac6844
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
