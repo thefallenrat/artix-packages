@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/openvpn-openrc.git
 	branch = master
-	commit = 126ed9a7e278b7ff904454e44fbe86201ac0158a
-	parent = f38d50d62feb0a74c93e84146e47c1eaa7ffa63b
+	commit = 9da1e2c03d710c7d1b1696182a65bdca7afb49a2
+	parent = 4a3682f0184376c6bf82bb48e85000576881f4db
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
