@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPerl/perl-io-socket-ssl.git
 	branch = master
-	commit = 6e98eb549de4aa9b80a4422177209ec5500a63b6
-	parent = 03b3460aceb919523b273a8d7e838e3b89b39e37
+	commit = 62534cf0b42bebca68c3d9ccb81d2fcdd8051cca
+	parent = 300b1d89395900b16e9cae8b2a26f44401253c76
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
