@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libx11.git
 	branch = master
-	commit = a20dc6f4da6c2bb07ab8e718dfd9d8ec9e7df6c9
-	parent = b32756c0ef367e15b163b1f2ef717ab5cfe8d547
+	commit = 2f686e91a2c5892008e0e3120b3a3168170aa250
+	parent = 60bce06aa11064230cedf2041f8d4c859b8a3624
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
