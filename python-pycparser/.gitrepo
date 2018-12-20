@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-pycparser.git
 	branch = master
-	commit = 44a61961b633f7ed6e7b28f7ffde69805160982b
-	parent = 60f7caff3fe15ab3ddf93d4ab6b7277dde911385
+	commit = 81dc8befabd8aaaf93be056c44adaff8b6b4a7bd
+	parent = cdf620a10b77d9a3d636d24e002bc199b4ee41cd
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
