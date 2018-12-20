@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libisofs.git
 	branch = master
-	commit = 4b98f3e7d0fd8b4179423e6ca1870817c29f275a
-	parent = c15caed73e090487eb963322312c03994fe59167
+	commit = 275e24468d4efb6254a9c00b512ccd2bfc24c42f
+	parent = e50664324469a2518b8915fff6adc7b715433df5
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
