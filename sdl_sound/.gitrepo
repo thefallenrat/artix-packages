@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/sdl_sound.git
 	branch = master
-	commit = 50b0b80a65e56a22343b13bc6af50ee98e25475b
-	parent = 90b4526845ba667596678694fbb364bc1328beee
+	commit = eb9f9a3cab154a7fce0aecfda49989da20659d32
+	parent = 8743aade8e414c799eb2c7c7615968a51beeb38f
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
