@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libgusb.git
 	branch = master
-	commit = 126090700a1078404c7cdd3279e8f5b164905b16
-	parent = 9707487a107f91cafe5b23f90fcc5b10e6a2067d
+	commit = fcea33dbdbe6f2f600582176ea89b09c759ba9cc
+	parent = b24be7a7e8f0514a1f8377d51744fe86d3f84cc9
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
