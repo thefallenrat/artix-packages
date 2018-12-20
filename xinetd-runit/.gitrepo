@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xinetd-runit.git
 	branch = master
-	commit = 36c10d479111a86123f72b1aab969a580b30527e
-	parent = 6dd44fb62e7a632dc05897bebbfbcde0ac00c81f
+	commit = 9f57e7b6360fe88804aac2deb5b4955ed11adef3
+	parent = 6d5d7586d3dfbad1b36742c99de3428996c3b8e1
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
