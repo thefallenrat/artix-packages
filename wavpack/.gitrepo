@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesW/wavpack.git
 	branch = master
-	commit = 41cc79b57b399f4f2dad69546dfe663888a5f222
-	parent = 2994732df8a9c83951f3fd296dc8527a4a179eaf
+	commit = ab439cb5d9d2c5511e7803477f33078231097260
+	parent = 9aadd20c95b30b0477a7273c3d7c342884606a40
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
