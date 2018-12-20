@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesQ/qt5-scxml.git
 	branch = master
-	commit = 299016649b5f9d33ba598cd8389eb424ab3c6443
-	parent = 4ac54cb39b4780fb6f2699b925f2011917c19b85
+	commit = bc355fab62541e88d8ecf5a1369102b1c43f9809
+	parent = c9b66699429c928500757dbf020345f2085b4606
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
