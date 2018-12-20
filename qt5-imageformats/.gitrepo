@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesQ/qt5-imageformats.git
 	branch = master
-	commit = acadbc0ba0da15e14a4eb43f7877cd5dc1ec4d1c
-	parent = ac0be1a95b4ff761b16861502dcbdd2399432d7e
+	commit = 10e93f9407044bd6c6269cc79d05a88c740b6b93
+	parent = 592d2ad1fbb0c67bc6877552db9cd46b4ea67b5c
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
