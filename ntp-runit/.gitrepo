@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/ntp-runit.git
 	branch = master
-	commit = 7d82ebf0b5c5298a57f62750d02aa5477c99788e
-	parent = 46ae12163d53c5e405725c97dda78d85ee3db202
+	commit = 2735ae00858ed588faf4b918d38e2bf57c82d31f
+	parent = 2d1c306e3f17d81f5a1372072077c55ede4fa719
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
