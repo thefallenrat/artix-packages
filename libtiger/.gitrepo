@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libtiger.git
 	branch = master
-	commit = be3e3a2d8b2edf82ee513a45d23c0b928afa853d
-	parent = ccf6cdad20db94f5948114e6b4701afcc0c205f6
+	commit = 00db8d67b39217825f56fdc0d926d75adf17ca89
+	parent = a9ca12fa9820e80ff700ed1584dacba6ea68eb01
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
