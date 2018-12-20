@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/socat.git
 	branch = master
-	commit = 10e792b8435aa78a438a0fc7349e6b317d78c9f2
-	parent = 62b908f8e84fa80709417ee5199cb5983fc72ec7
+	commit = 2dc7a8be97227f94978582e158b9fb939aae925e
+	parent = ef8cc7e206065587a761273443f7bd77f7dca13c
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
