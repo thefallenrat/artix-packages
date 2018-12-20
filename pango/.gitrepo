@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pango.git
 	branch = master
-	commit = ebed248b45ba44a1f26c3156583806143b54f20c
-	parent = 573fd4d2a6f37076dc7225f6b7e50a5a9ca1d11c
+	commit = 3ca26b54ac2706e25acf27e17de96163ff2c4452
+	parent = 4199ef87a361dcc6f8d0d1b4d3cf91d4b362b344
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
