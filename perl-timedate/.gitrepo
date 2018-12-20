@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPerl/perl-timedate.git
 	branch = master
-	commit = 2d41338eee5fb7bf828b6f3cdd14e6dfaf6f6d7f
-	parent = 0b467c199d5fc61418476d5c185db307fff896b6
+	commit = 40162961447cf4c060e8550a0d6d8122f1f56dac
+	parent = eb587108c1b1f0b8fd17d89aea1da9daf35bf08a
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
