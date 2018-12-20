@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-pycurl.git
 	branch = master
-	commit = 17b1a906c1a595dabd5086119568d63493cb2f88
-	parent = 6d29ae87c480ed8db6dc9be20d413db66bd87bad
+	commit = d816e473b9b74d7f772b4ab906532c16ac4004ae
+	parent = d4bc45b9b377290d1c09ed1c0ff7cf5a80c4ee08
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
