@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libusb.git
 	branch = master
-	commit = 31cd2803d16d85f44e5b4e4b64ea8c9cacee5265
-	parent = 14689e69906ef8020786bb4d2f85f2b66bc8cc0a
+	commit = 860ba916a86ba4002d521e081270edbac4d9e4eb
+	parent = c4bd984a5bbd001db9d5c62932e1e5f6945bceb0
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
