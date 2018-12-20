@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-beaker.git
 	branch = master
-	commit = 43dc6979a73cca8af2bd9f49917771c08c2e7ac6
-	parent = 5845176ea9fbb302b54cb593bdb1cf2ce671448e
+	commit = ad26bdac620a56c4b839f2ccc897262638b4b6f8
+	parent = 0b5430111e9e1b8ca92991bc1ea6aafb8f821cee
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
