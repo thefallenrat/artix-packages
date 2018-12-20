@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pyopenssl.git
 	branch = master
-	commit = 6df6db48783338a376fc8d365d39392660cdf44e
-	parent = d346bb9b4ba25523acd602cc41b0a3aea1fbd03d
+	commit = d18197cb761b728279b016cdedc6412a7d0a2281
+	parent = ed308e4a13c49b83b1cd2239a36a0dd1eebda911
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
