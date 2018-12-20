@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesQ/qrencode.git
 	branch = master
-	commit = 0458be204fbb6f5bf4f8fc1aefca75d6794b2e88
-	parent = 6aaaad78a5236b6134706717128add3fa4bfd0fc
+	commit = e3564a384f607d057aa55128dba164afec7715e3
+	parent = a1325d846b60c25f8502a896928247acab358037
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
