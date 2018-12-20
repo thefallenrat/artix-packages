@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xdg-dbus-proxy.git
 	branch = master
-	commit = 1a6fc0ec7566be12a90ac376747b436f8ac80796
-	parent = b8d1719048114050253fe0b2638ee51c8f720bb5
+	commit = b946cac78b577fe9ec0ba9f27dfe414f63c6e309
+	parent = f76c4616133e997c2345386a2259d639efbb7427
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
