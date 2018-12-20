@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libxshmfence.git
 	branch = master
-	commit = 1c294eaae3302a64c423051e601799c2bcdf9820
-	parent = c794c9af5cec9299bf4dd47486885d9badc2b1cb
+	commit = e09199afee73064208b1026d1be27e30492069af
+	parent = 50b1a1b3563ce50aa01c5df2f727d028cc46ff42
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
