@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-pyasn1.git
 	branch = master
-	commit = 2bab906efad002ea2c876504a2f34aca5e503118
-	parent = 26876ed68b391d89841abbeb1cf6bdb3dd45d95d
+	commit = d15c7cfde8f6f6a575420ad9295b512b3bdfa910
+	parent = 5c55ee9b7d65423767578641ed9a3371ce9108fc
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
