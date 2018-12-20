@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/media-player-info.git
 	branch = master
-	commit = c20261b5a168f8d7edb10795b3497b5471bff14f
-	parent = b0976ea322712716f4ab755c70c2ff423641389b
+	commit = c6a8972238dc1ff5c82dc6481a2334a6937980a1
+	parent = d0b3409fe390154ed73c12aecbbd510187c60eaf
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
