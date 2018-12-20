@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libvisual.git
 	branch = master
-	commit = f30980e45744de8b99e9bd754612f49291f4598c
-	parent = 89ecf47a1735d496d2795493c1952d38385cbdad
+	commit = 21fdc4ac881c2c0a4d71b23e3db96a077ea9da8c
+	parent = 637d1780ab10d636f03cda580912d4b98ffa47e7
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
