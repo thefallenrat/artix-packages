@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesU/upower.git
 	branch = master
-	commit = c6e939dd208bfcbf3d9c11579e9ca8031d3301d8
-	parent = bd602183d03c57bd86df10c9b78eba17938b1e70
+	commit = 561a72b383b5f3c96e881218b7695c0bd501fe61
+	parent = eabe7ecdac1a971e1054ae64282ac13df90e294a
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
