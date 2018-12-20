@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libmpeg2.git
 	branch = master
-	commit = 99badd6ca032a747c867e28308609c3d8e148e71
-	parent = 7f70f2f32a083c0d9aa92f732ab691b0e885e0eb
+	commit = 6484d4dec27bb2ce9794dcbb9f395d0ee4663a22
+	parent = 5792411159bdab1a4bff1a5073d5ffc5a617052c
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
