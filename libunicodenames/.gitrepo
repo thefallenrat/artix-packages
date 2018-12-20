@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libunicodenames.git
 	branch = master
-	commit = 466914e9ac611ab7538c675be822fb6b6016c64a
-	parent = ea4d1065e1c25d5777ee1695f636c9e27ed768ca
+	commit = 429d558d55e1b0e0e11021f2bfdc8f97fd1c0dd1
+	parent = bd0ffc66b4f05276768e9ac91540fda4fed51e77
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
