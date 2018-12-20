@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesW/wayland.git
 	branch = master
-	commit = 2769e118bc313da7b61652aae07bf43e78f65748
-	parent = 84dc9bcf1b2967fc228a676686f2e078c518d232
+	commit = 1f987105c771c416ee4e8f8fd55dc2bf38605aea
+	parent = 52069c08c8d7cf901783552bb8515b4f72f91f25
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
