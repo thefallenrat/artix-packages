@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pyrex.git
 	branch = master
-	commit = d8f465defd47e55ada7bbc04bb30ad8edb876601
-	parent = c6bfb9f53d62bdc43405b797e69f2a3ca92cfa84
+	commit = f57ff2b2fc822bf5fe6542ef1913345e09c51bbf
+	parent = afaf693281556344198634ca9f6b2b253e41ebb7
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
