@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pixman.git
 	branch = master
-	commit = 3ac187560c5f89be122852b73aed8a8e3b34b5b9
-	parent = da6b2e8edbe0f98f2be59833d99cf4af70bcc44b
+	commit = 30ee884276a974df257e47709ba6b37736540f15
+	parent = 72bfedcbb0c49d724ec7772b0df237c3fd988724
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
