@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-retrying.git
 	branch = master
-	commit = 6e489bc8189b6b378c2ac2208572a57341159a5e
-	parent = 2412402dd34fe85ee93b7b8923dea6f4c2fbcf7c
+	commit = 124d345e7755eda58937818efe1d26fc71261f86
+	parent = c5daae0fe6ef157af0977e645016546298fdd7cb
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
