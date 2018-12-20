@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libmad.git
 	branch = master
-	commit = 5d33af1f7dac1a60019bb099a81faa8a4f8cee5b
-	parent = f71b92959c8df3109a635d8be1cc0c4f6117283c
+	commit = 5f9faa39ade78adb6bc6341d5ce86448b9bd0a0a
+	parent = 08b8cd059583e5f84e6b0564d1d29b537ef6f158
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
