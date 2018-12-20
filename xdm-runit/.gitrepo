@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xdm-runit.git
 	branch = master
-	commit = be942cc12a3b67bdf3da83772185e9480f1f7394
-	parent = 296d07a8b9dc7cc287470d601629d3940b428a12
+	commit = e914dc878c4e4c862cbbbd9804077844eb335bd3
+	parent = 1214d220ee562953753844232f2af1a0822b2ce6
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
