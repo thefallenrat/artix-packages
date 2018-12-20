@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/m17n-db.git
 	branch = master
-	commit = 44471f93c0a1592b0c00be7ff2f9b44661fa6c2d
-	parent = 9c99abfa2fa93970c0663aa12131a48344f4556d
+	commit = b69814a19057b25d9b0df514754318532220e74f
+	parent = db5a1f0742ff3b2a542185b002c831fe10b64d73
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
