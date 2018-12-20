@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libxdamage.git
 	branch = master
-	commit = bd68bd3911a65366cde3f0767a8da1e9a2f95275
-	parent = 82865d9ab66aba2d64a4db69bc9f15453ca01f27
+	commit = f7d81dba539ad0ff59530f4c8a8244b1697258d3
+	parent = 874c47450dc88f8b703eec05c382f6fe1b26a45b
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
