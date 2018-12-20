@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/openjade.git
 	branch = master
-	commit = fcaadb1773ab3e1f5b91ed14cc1b1e8c8c71d573
-	parent = 9d9b8b14e20deceaca051ef9fe931fe417a68e45
+	commit = 0990b4b4d818c9e350746e71515f39077497047b
+	parent = e8b21a0d11ef40ee4073cb93d92bd6dc7ab6dc98
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
