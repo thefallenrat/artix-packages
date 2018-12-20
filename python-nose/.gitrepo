@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-nose.git
 	branch = master
-	commit = cd7b8245dbc73365933e118701511e389153f6d0
-	parent = 14e1d1011220050d14c858aec04daedb1bb84fb1
+	commit = d8ad98063856e919c225659b2e568644165dd610
+	parent = 8b2fe6d4db8603fc007f74846a2ba153d038fa67
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
