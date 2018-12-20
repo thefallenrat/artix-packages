@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libspiro.git
 	branch = master
-	commit = b49755199443695ae291814fba4d97abe89ef7d4
-	parent = 08bb80881d782daad6f80cd140b44b20d35b091f
+	commit = 886d54fb90f81c58829d66d79623e07095519e15
+	parent = 5f82b575eed9d8be3f31075e7f217f525b5ce723
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
