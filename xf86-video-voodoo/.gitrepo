@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xf86-video-voodoo.git
 	branch = master
-	commit = 4db6fa478d2edc22937771edff42e1f504c775de
-	parent = 796044c0fd734779aafca13c9f49a543ee332ce0
+	commit = e26ab583d6418138a1fe1b9e85306c1c8f802ee9
+	parent = 2f848f45ba4c892493676bb055c4885aad09dd77
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
