@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPerl/perl-netaddr-ip.git
 	branch = master
-	commit = 304d8cccfcfd9fa5c8aa14c998be36c16b734b65
-	parent = 50309d7f9df1a5d79214377b89e7657ac2db5da1
+	commit = 2fd79ce825708bdcad8e439e4dfd312c9aa886eb
+	parent = 41197c86426a861047b792234cdf73dc5175c974
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
