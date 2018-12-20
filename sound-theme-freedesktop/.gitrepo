@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/sound-theme-freedesktop.git
 	branch = master
-	commit = c88d7a8aa6eac012fc8111a88db4349aaf4b6db7
-	parent = 186c794e071d4a7d99b4fa62572e088661651095
+	commit = b6141f783cc3f9cb5ad04a72c57394f3b4705062
+	parent = 2cd7e25b4adfbd30e35cc2879be02d7398b05a16
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
