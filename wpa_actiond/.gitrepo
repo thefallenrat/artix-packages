@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesW/wpa_actiond.git
 	branch = master
-	commit = e6a7fe5c484afe6db4fc4cfd15282f609c04a10c
-	parent = e93101af456f906fd5a549feec9b199e8dc7475a
+	commit = 469666e32b9747126b74c9affec219795d6d4a92
+	parent = 370f5e1f51a81c88eb02df6ff6fdc4f03ba45cda
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
