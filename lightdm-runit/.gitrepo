@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/lightdm-runit.git
 	branch = master
-	commit = 06a79d3fd70f650ede13d6284e2eecc8e9a44dfd
-	parent = c2531696d75304867d82d97e7a0a44814a79be7e
+	commit = f3161442d0d517b18b687668838655771318efa6
+	parent = e657a34b0079b612841277f6d61ab90cd800d79a
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
