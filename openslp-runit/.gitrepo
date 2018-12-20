@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/openslp-runit.git
 	branch = master
-	commit = fe2466590b429c5525a21135b29f02762b45ae6a
-	parent = c01fe295fcb1e87f58619bc0e6f9fd21d3c75735
+	commit = e46854b405caee928b0658f0a7b305c4d73caac0
+	parent = efc774f3c40e05a6652dfc638f838d6ac83dea88
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
