@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libogg.git
 	branch = master
-	commit = 7f0c8a807d950c644bef81c06350cb9a27e4db25
-	parent = 4652b2a64d8fb26e5907fae613fb1a8f77b84b2f
+	commit = b36f0e7a769868571469045905ba26ad7788cba3
+	parent = 9b1ecd5bf0981418b147e9b5cb8082e7e1f0d1b7
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
