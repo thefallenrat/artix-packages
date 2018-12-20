@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/spandsp.git
 	branch = master
-	commit = 378533414fdf7e93f1f2d329153bd1e66b885a02
-	parent = cf789adb5cea319a8e890989f27493e30b887535
+	commit = 15bdcf266713e6f83433f860a09bca69fae5d193
+	parent = 641337ff602d88221181bd73c1db35554dfc7c3f
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
