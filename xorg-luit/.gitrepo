@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xorg-luit.git
 	branch = master
-	commit = bc29ba5c91a55e698bffe4b18aade3b85d8063c9
-	parent = f9981b497f44664d601d2c52f30c5261595bbea6
+	commit = 4cf5e6896a50b828f4b36a81eb4ccde04a89ec53
+	parent = 82bd9ea5fb113a40301fa91d428e7ec0d19cdec0
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
