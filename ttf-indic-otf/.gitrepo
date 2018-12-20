@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/ttf-indic-otf.git
 	branch = master
-	commit = d3f2f6ce9769965bfa1bc4122e66dfd5434982e8
-	parent = cacefeb19c8a95aaf2f9491f920857f69abc27f8
+	commit = b344c295d009fe049dae15911394f562d4c43016
+	parent = 3058d17713d84790196c5e2115ff1daae64dfaaa
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
