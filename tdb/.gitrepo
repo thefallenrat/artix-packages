@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/tdb.git
 	branch = master
-	commit = 0ed3cd65df228515b4ab554cb0638dfb92ac5447
-	parent = 3e405a7c98fc4dcbdaad2ca42497727dc1da4a56
+	commit = 0466ee3f1d66c66ea3b005864ae98781b7be81da
+	parent = a3ab369e46955966f44f4bed7890b1f138a90fa4
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
