@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xf86-video-vmware.git
 	branch = master
-	commit = 7286651fa5f1315753452d3cf673f25ed42b2dde
-	parent = f1ce8feb7366d8f8675c57ee80a55c2294e8f258
+	commit = c87863e1664ed016047de9697320aa8e6523d793
+	parent = 04230b6b2349c3ab0a34f4800837a2504bf109f9
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
