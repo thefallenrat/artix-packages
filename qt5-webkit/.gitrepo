@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesQ/qt5-webkit.git
 	branch = master
-	commit = 79d42dcae6906da2b426968c75ae7aa08fb4e876
-	parent = cc7f49a96d0e8a6cb34e2ad3a079a595d2554f1b
+	commit = 5b7f16e7ef69300752483fefe1bc7fc91b181b3a
+	parent = 63d01da92974f5d7af4efc108ac80e09491a1edd
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
