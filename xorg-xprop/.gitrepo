@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xorg-xprop.git
 	branch = master
-	commit = 51f6ec708e6c15eb838524febf0091fe9c65b7c4
-	parent = ac508adff1a4636243fa3ca4dcd8cff9a7dea357
+	commit = 44710e4b3455c52e63c78e9ab6f110702c2d7d95
+	parent = d415bba6e4b28f712bd8ecf3f67f2960c33bf392
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
