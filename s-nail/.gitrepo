@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/s-nail.git
 	branch = master
-	commit = 7ea14e05faf2a265ecafbb0352b38f28e6b40367
-	parent = 1ee7fb01f135e4183582ac269da8e92518c0fbd2
+	commit = 8cac7b74246f6d7628810e3e8f3c7b4d42a0b2ee
+	parent = 30f0420f1d0e67e9331876c76557b4e65809f090
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
