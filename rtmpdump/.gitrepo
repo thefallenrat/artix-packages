@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesR/rtmpdump.git
 	branch = master
-	commit = 1db8c2c2a1d460bc0b3a02f5b7b5699d68d8190d
-	parent = 25648082b4bc93e2466ad38d48917f684c39fe46
+	commit = e31850b3c9e4acc8dd320740d1c9d06478abcadf
+	parent = 285b418b601a37efce09e8d45e075ef9cfbe5bd0
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
