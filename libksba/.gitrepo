@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libksba.git
 	branch = master
-	commit = 08bce4a57403f8685ae7f5d78983bcde29d52c9e
-	parent = 68180333b33fa6f3808d032d62733f17527a4483
+	commit = 20944abfa3df861382e36632bf219f95bf35c5ce
+	parent = 371e8a45c8d5e591e92520020b04ec4631e07dd3
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
