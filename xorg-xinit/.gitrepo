@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xorg-xinit.git
 	branch = master
-	commit = b15b81467ebe2824fe4aecdbda8e6be1b4f3aa6a
-	parent = 64a403135d19a56e0ecaa79463eb8c282a30aaea
+	commit = d2776bac2f10b7f1891293ad11fc18c4a57627df
+	parent = 49c61e4d060adc7c33f6b99648473ba07ec131bb
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
