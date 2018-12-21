@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesZ/zita-resampler.git
 	branch = master
-	commit = acc5a1c54e9b4b0dd0efac0052993d96e2fa8eba
-	parent = a8d446cc768e610ffa8162491470869b518fa031
+	commit = 17275cd9634ad269c8d7e3d7460f9d7b3f510af9
+	parent = ba11632384cadcff6f7907792597866dfcea97ca
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
