@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/memcached.git
 	branch = master
-	commit = 8cc78f826ba36a03ca4c00afa69468d6e44ae7c3
-	parent = 4898b1befeec945c43cd5bf1fb3e401cfaab56ba
+	commit = dbdcb0ef669d448f6de4528f8faafcf93558208c
+	parent = 6e5ec89b5b0028061e8d6f63af1e84311fda8149
 	method = merge
 	update = auto
 	cmdver = 0.4.0
