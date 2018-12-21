@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xterm.git
 	branch = master
-	commit = 0198f3de29e133f98bb86e85ac0cf34451c0791a
-	parent = 5bdb313d0aae743a5778cefae63c45af98bf7340
+	commit = e72a517233c3d60b26cd08dc401f4f145d3c45bf
+	parent = 1062826d11d15e0f2ec519064918d4df49567b06
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
