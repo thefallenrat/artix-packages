@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesY/yajl.git
 	branch = master
-	commit = d7c8620d6f9e8ae0ca11e22b150645e9d2cf9df1
-	parent = d13a62ce6419bba557558861955e768151f13ff5
+	commit = 319f8c7dd852b47c1196d8d0d845053fbf1b4c19
+	parent = 8c046befe588ecfb9e26398ef23512d2ce95b230
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
