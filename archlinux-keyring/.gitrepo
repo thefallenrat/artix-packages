@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesA/archlinux-keyring.git
 	branch = master
-	commit = 66ca25fb324ab326cbceb43c3404bbbd8f652cd5
-	parent = 9d74c664f9ccff5c6f493bdde749f45e1a113088
+	commit = 60f402197cb54d022831e7ca9f4d9cc93242ddfe
+	parent = 2701bd7d7524cc5f0435452e614e57484772cca1
 	method = merge
 	update = auto
 	cmdver = 0.4.0
