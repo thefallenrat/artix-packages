@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xvidcore.git
 	branch = master
-	commit = 7a31aab6568ce966a30856fb73877dc41bf4d199
-	parent = 7354c7f75e67779913cc5ff4f48a940b1f6577bb
+	commit = 6a542e78da3499cb99ab12abf1914c43f5f798e3
+	parent = b839919caa6cb38a1a1dfc45304f5637c40b2045
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
