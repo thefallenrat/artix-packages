@@ -1,4 +1,24 @@
-u nobody 65534 "Nobody" -
-m nobody nobody
+# The superuser
+u root 0 "Super User" /root
+
+# Administrator group: can *do* more than normal users
+g wheel - - -
+
+# Access to certain kernel and userspace facilities
+g tty 5 - -
+g kmem - - -
+g utmp - - -
+
+# Hardware access groups
+g audio - - -
+g cdrom   - - -
+g dialout - - -
+g disk - - -
+g input - - -
 g kvm - - -
+g lp - - -
 g render - - -
+g tape - - -
+g video - - -
+
+
