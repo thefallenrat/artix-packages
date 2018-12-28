@@ -6,14 +6,14 @@ _sed_args=(-e 's|/var/run|/run|g' -e 's|/usr/sbin|/usr/bin|g' -e 's|/opt/bin|/us
 
 pkgname=eudev-runit
 pkgver=20181228
-pkgrel=2
-pkgdesc="Runit service script for audit"
+pkgrel=3
+pkgdesc="Runit service script for eudev"
 arch=('any')
 url="https://github.com/artix-linux"
 license=('BSD')
 # Note: While this PKGBUILD is licensed under BSD-3 terms, all of the
 #       included runscript should follow it's main package's licenses.
-depends=('eudev' 'runit-rc')
+depends=('eudev')
 groups=('runit-system')
 provides=('init-udev')
 conflicts=('init-udev' 'systemd-sysvcompat')
