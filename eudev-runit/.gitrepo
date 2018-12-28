@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesE/eudev-runit.git
 	branch = master
-	commit = f5aeceed23e601ddf48f58276b5f85c37ee1bb79
-	parent = 4366dba51339728fe2790a0db8497fe983d780e9
+	commit = f674b48034b45beb1907e17f3f50cf577a3e0898
+	parent = a11fddb74eedb85b4eff1e4c5c8288cf64225677
 	method = merge
 	cmdver = 0.4.0
