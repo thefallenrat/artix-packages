@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libsecret.git
 	branch = master
-	commit = e035e180b049d954f438ef6329c9074568a2bb22
-	parent = 8c0cd552b35b176428b58649cc29ab974f16fc4d
+	commit = 14c147bf2260eb40866eac3b248b797d76638b4b
+	parent = 6249cea951671c959071f0b132d9f8ace6119284
 	method = merge
 	update = auto
 	cmdver = 0.4.0
