@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/speech-dispatcher.git
 	branch = master
-	commit = 36993bdda52ea3feee5bd4192cbe7ff69a197378
-	parent = bbae54f5a971b74c9fec0270c7755b2215eaecf3
+	commit = 36c4a2d80704afeaaba20fe6b36bf9e863aa9692
+	parent = 870b0794a6ee0bb2f2c5af8df10895507be7a1be
 	method = merge
 	update = auto
 	cmdver = 0.4.0
