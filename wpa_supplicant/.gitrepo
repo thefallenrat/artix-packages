@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesW/wpa_supplicant.git
 	branch = master
-	commit = e2486a766b6283ace3d2ffe6bf24eef7b5f21a71
-	parent = 73047663f7221a91ed524f764b70b28aeea36832
+	commit = 1dc7bff4e713f6597bc928bb581a8706573586bd
+	parent = ca611d3de532e620a37888c0733723b65cb10835
 	method = merge
 	update = auto
 	cmdver = 0.4.0
