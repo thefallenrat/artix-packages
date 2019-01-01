@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesR/rhash.git
 	branch = master
-	commit = dd51165b2789c076e7392e0057cc6f12f927f422
-	parent = bb68b5dff0525766be755459340dde6993c5d0d2
+	commit = 877f107d5a2df50fa58b1ab1a8dafdf125449ae9
+	parent = d8fb9f430e4dce5bfa31eba6e71a3d3e38e370cd
 	method = merge
 	cmdver = 0.4.0
