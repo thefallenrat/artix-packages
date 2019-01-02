@@ -4,7 +4,7 @@
 pkgbase=opensysusers
 pkgname=(opensysusers opensysusers-openrc opensysusers-docs)
 pkgver=0.4.9
-pkgrel=9
+pkgrel=10
 pkgdesc="A standalone utility for handling systemd-style sysusers.d users and groups"
 arch=('any')
 url="https://gitea.artixlinux.org/artix/opensysusers"
@@ -17,7 +17,7 @@ source=("${pkgbase}-${pkgver}.tar.gz::https://gitea.artixlinux.org/artix/opensys
 sha256sums=('a42140a87ed27f8b129cee56e9eeee51273a2d347ca28f11d51aacad4c46cf47'
             'cefc133d78851cc3838eec273aeb127814c955be21c6e3fc0f9ba4391e534ec2'
             '4222b2496d8bb1ac9c07707e4ef1b334b8b59eb15451ea8ba0fd6e4c93e50c56'
-            '90b148e199988c1e3bd0c85ac909a66f65d46be748473ba93d408e85f649eb86')
+            '80c89d35144f721fa4035de744fd00ffffef9008ab4f5c5e01abe6fd94b2ef6f')
 
 build(){
     cd "${pkgbase}"

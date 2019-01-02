@@ -12,7 +12,7 @@ g utmp - - -
 # Hardware access groups
 g audio - - -
 g cdrom   - - -
-g dialout - - -
+g uucp - - -
 g disk - - -
 g input - - -
 g kvm - - -
