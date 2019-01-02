@@ -2,15 +2,15 @@
 
 pkgname=pythonqt
 pkgver=3.2
-pkgrel=2
+pkgrel=3
 pkgdesc="A dynamic Python binding for the Qt framework"
 arch=('x86_64')
 url="http://pythonqt.sourceforge.net/"
 license=('LGPL')
 depends=('python' 'qt5-declarative' 'qt5-multimedia' 'qt5-svg' 'qt5-webkit')
-makedepends=('qt5-tools')
-optdepends=('qt5-xmlpattenrs: For XPath, XQuery, XSLT and XML schema validation support'
-            'qt5-opengl: For OpenGL component support')
+makedepends=('qt5-tools' qt5-xmlpatterns qt5-3d)
+optdepends=('qt5-xmlpatterns: For XPath, XQuery, XSLT and XML schema validation support'
+            'qt5-3d: For OpenGL component support')
 source=("http://downloads.sourceforge.net/project/${pkgname}/${pkgname}/PythonQt-${pkgver}/PythonQt${pkgver}.zip")
 md5sums=('5294193b79137d432d785aab1ec61da7')
 
