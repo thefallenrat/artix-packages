@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/grantlee.git
 	branch = master
-	commit = 63d9d69c86438b9db7868bcf4c589e867a742449
-	parent = ce9ffa648d6c651fbe0658ff0765d416074a4075
+	commit = 23672d0713d83721f6a46d904acfdf8088aca0eb
+	parent = aef6a397b5b73fc13bbe05b7a38666eca8b246e7
 	method = merge
 	update = auto
 	cmdver = 0.4.0
