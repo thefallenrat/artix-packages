@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesP/prometheus-openrc.git
+	branch = master
+	commit = a54fb953c317524156e6b21759efeed4d2a20afc
+	parent = ea24caebf51dce14b2945d0bd375dcd4bdadd831
+	method = merge
+	cmdver = 0.4.0
