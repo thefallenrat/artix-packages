@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/openldap.git
 	branch = master
-	commit = f16f498ec4f804cda864182b35bd1e83c43744da
-	parent = bf84d775ad09cb2cd16115f279dd2612fe86f72c
+	commit = b8067d540ef7f5a500448937f39c1340c3bc494c
+	parent = b63fbc9d4e94fbadcf8b631a12946c2e47f898d6
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
