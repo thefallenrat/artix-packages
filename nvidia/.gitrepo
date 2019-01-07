@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/nvidia.git
 	branch = master
-	commit = cd124122a862fe9622e1bd1f76104685703b99bc
-	parent = b5b24232399c58f7f2c2d2828b67bc3cd8eb3946
+	commit = 2949babd9254fe9e024c20132ace8a362f57ace5
+	parent = 37f0e33c54dd30a408c793aaf40396fcea1e3d14
 	method = merge
 	update = auto
 	cmdver = 0.4.0
