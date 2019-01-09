@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libedit.git
 	branch = master
-	commit = fd75c0e7676ac4ecc393e0227e6f057d31667123
-	parent = 19afc4a1c41b6f702ff27d8d520662fe3a956e55
+	commit = 24af91786fe8c2a84ab22a26b251518f08e62246
+	parent = 9f90c1a96cb6654cbf3f67e3179aab27aaae2d9d
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
