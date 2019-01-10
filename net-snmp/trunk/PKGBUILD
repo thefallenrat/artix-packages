@@ -15,7 +15,7 @@ optdepends=('perl-term-readkey: for snmpcheck application'
             'python2: for the python modules')
 options=('!emptydirs' '!makeflags')
 source=(http://downloads.sourceforge.net/${pkgname}/${pkgname}-${pkgver}.tar.gz{,.asc})
-sha512sums=('32375e6ef8791d77be7a1044c38518c97250d0bd4347a03eff3b8508d5a5578a1fb31cd450f64f56c6fd154fcca3a22ed531512c8b3deaa438160fd8c14a0982'
+sha512sums=('27895a583b23f3e14c48562bc32f3ba83513d81aa848e878be9a3650f0458d45950635c937ef627135f80b757b663e71fab9a3bde4fd91889153998ae3468fe7'
             'SKIP')
 validpgpkeys=('8AAA779B597B405BBC329B6376CF47B8A77C5329'
               '27CAA4A32E371383A33ED0587D5F9576E0F81533'
