@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesC/clisp.git
+	branch = master
+	commit = e180d546bbbee44b9e61daf5ae6db906fd253f94
+	parent = 090deffd8f329ed04526d7b51d73f5e319130421
+	method = merge
+	cmdver = 0.4.0
