@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/clisp.git
 	branch = master
-	commit = 43d69b09029a8142374ceabc2b99dfc62c634644
-	parent = 7bcbc42b38938cee7cbc6beb3858b9a13149e540
+	commit = 2a23d859600cdbc3b8d35e0804b3cd94b0fdd998
+	parent = 05c23728268c93c7e9741778a4d4f935aab514c8
 	method = merge
 	cmdver = 0.4.0
