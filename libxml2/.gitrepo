@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libxml2.git
 	branch = master
-	commit = f82b0aa2d692838af746853e5e7067bce6ce64a5
-	parent = d3a4b4f330a656abca0d8f8cccfa5cd3dadbdef4
+	commit = 05ce136df7028404f53acfc5cb099903b2a0d7c5
+	parent = ab85de31c219b7aa7e60d655925003bafcf0af98
 	method = merge
 	update = auto
 	cmdver = 0.4.0
