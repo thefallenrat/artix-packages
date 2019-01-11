@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-lxml.git
 	branch = master
-	commit = 0c006cf248933a5e4c9faf322fad79308ebad5e9
-	parent = 41cdf852a709fdbc9d1f846a4c164871531e0804
+	commit = 83d89fdb5a6882736ae7664d4449f4dd26c1d21c
+	parent = cd73b9e638e0435810cea27e993c1daa3b1185c7
 	method = merge
 	update = auto
 	cmdver = 0.4.0
