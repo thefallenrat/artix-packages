@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesJ/js52.git
 	branch = master
-	commit = ad0677f2d4a7ff2ecfc400f051b3617a03fb54e8
-	parent = d48f234e91ea824a03e93a090ce6afc39836949c
+	commit = 51e391b1c9c073b60eb572c329d545ae04af3017
+	parent = 05fd9318d973b2ed6b9e1f6e83f471af8fe96dad
 	method = merge
 	update = auto
 	cmdver = 0.4.0
