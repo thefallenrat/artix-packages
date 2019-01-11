@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesJ/jack.git
 	branch = master
-	commit = 83b814ea6bb5754675a9f76bef181a071f61e974
-	parent = 64b8edf69fb5f3426e856adbe5315a54a72fc198
+	commit = 3ce90caf210a5812bf1fedfa9f8db1c3cd639fe3
+	parent = ef8a84c680e511d64bd063d40903156f62e6027f
 	method = merge
 	update = auto
 	cmdver = 0.4.0
