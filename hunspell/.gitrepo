@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesH/hunspell.git
 	branch = master
-	commit = 4063e3785783d0aba4f410e7e9d4a9abd8ee2e33
-	parent = d815af4d12cb092dc31fa0f5558756974db1200b
+	commit = 6481b908be067ce41daf11a6df6f62d00bc69987
+	parent = 14c04443254e39d61ecb08c85287dabb21cefe00
 	method = merge
 	update = auto
 	cmdver = 0.4.0
