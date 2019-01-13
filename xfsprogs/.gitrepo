@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xfsprogs.git
 	branch = master
-	commit = bcd3f608bf0972890ab104b7de6c5c9f61cf1a67
-	parent = 0685bc854e91e8afbf35ff7dc1623e9c3b99e01e
+	commit = 5c3f769630b78962d8569c57af4d6982a54c6372
+	parent = a7d60452752c18d1e9052346f15e8e1ff7695470
 	method = merge
 	update = auto
 	cmdver = 0.4.0
