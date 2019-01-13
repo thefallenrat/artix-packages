@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/samba.git
 	branch = master
-	commit = e1926396eeec8ad29953e9ab0885be854c062d1b
-	parent = 4ebded10f9d77a042f920401bc57b457f8e93970
+	commit = 04ee83c4f56b6ee19c7cd396d50519a19de7c04e
+	parent = 9c98382d2bc9835fadb9077808dd48999b717569
 	method = merge
 	update = auto
 	cmdver = 0.4.0
