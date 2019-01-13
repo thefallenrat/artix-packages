@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesD/doxygen.git
 	branch = master
-	commit = 35d74dbf32af9c4b99d1164645bf6fc0ed19fa51
-	parent = feadb496579a0140b764cb23859b3103cdaaab1f
+	commit = d2c61849f0901dee24058fe2c957ee1bec33c4c8
+	parent = 6d83635ed24c611f06dd3fbeb1ad5de2ea5a79c1
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
