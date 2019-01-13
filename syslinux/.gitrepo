@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/syslinux.git
 	branch = master
-	commit = a2c145cf42a26a1e7db71f1bdaa29338147c8321
-	parent = e213c015fd2e668c6707be3d3eb1bf68bf149bec
+	commit = 8d940db309763b764d7815f894039a990a033e03
+	parent = 548ad2f8b2e118f440456857a69b417da30f44e8
 	method = merge
 	update = auto
 	cmdver = 0.4.0
