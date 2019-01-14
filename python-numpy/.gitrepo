@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-numpy.git
 	branch = master
-	commit = 29649ba109687c7feb96b59acd16df636b252961
-	parent = da414f33c58e76fb46c43ca05727c184b4539104
+	commit = cefd63901a2bf4178943869a91df1cd8d42e9d52
+	parent = 87405a224668104445dbe652f74ba094409a1a4a
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
