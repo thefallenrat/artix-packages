@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python-pyparsing.git
 	branch = master
-	commit = 4f4b466b4d7acaba33369071a8aecc482c4651e8
-	parent = 5afdd00d3ac8edb4067c739947919d6f09452020
+	commit = c2868b78147d662dc35cd0ac97827e41a61b647c
+	parent = 6d118e9eca19159115ff1d50b1021925c3db5b2a
 	method = merge
 	update = auto
 	cmdver = 0.4.0
