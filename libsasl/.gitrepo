@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libsasl.git
 	branch = master
-	commit = eb9164b589b294a454f918e6b654edb607578a58
-	parent = 9481fc2c7f8078cb02131eda0c6d4d06011fe3d3
+	commit = d974d7c96531137e389e76b9fd60e24a7de4ee9f
+	parent = a6fb9e3e2d4328cdd245583694bf51815fce4f12
 	method = merge
 	update = auto
 	cmdver = 0.4.0
