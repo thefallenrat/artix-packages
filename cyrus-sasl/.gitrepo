@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/cyrus-sasl.git
 	branch = master
-	commit = 6ebbde699d74b8a882dc9f6b7b93fe51395fe5b7
-	parent = df66028d192410854b659e8ceb5ed7abec67084b
+	commit = e3d9f2f3c2bd72bdbaacdc14a69af2aadb39c4a6
+	parent = b5d0737bda724a28d7721b7f6e747774aebf524d
 	method = merge
 	update = auto
 	cmdver = 0.4.0
