@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/mobile-broadband-provider-info.git
 	branch = master
-	commit = b91a23bad4f3a9ae13eb4c5f66ea7c10663cc506
-	parent = e5127758e4b8b7f256ce9281dc0ef440609c46e8
+	commit = ef78d04d9415c212d5cb84f9ca08334827c2f3dc
+	parent = f2a14225ee430c7ad00c6476e2f57a9e85e07a2e
 	method = merge
 	update = auto
 	cmdver = 0.4.0
