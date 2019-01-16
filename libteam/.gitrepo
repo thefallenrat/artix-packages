@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libteam.git
 	branch = master
-	commit = 0cc717b2685f3a7762e3b574b7cdda5f426cfc7b
-	parent = a8af23defe4b0268e0d1d787dd1199ef274c6048
+	commit = 4ebb3a5ccf9f0d8ec436d709b31d74a93c288728
+	parent = c1be96096a95a9b53afaf496c244ef2c16b3221a
 	method = merge
 	update = auto
 	cmdver = 0.4.0
