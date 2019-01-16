@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gsfonts.git
 	branch = master
-	commit = 25dddffcb60f4a1b28a00ca88204f4bb1442d957
-	parent = 69ef21e5bfa0709e5481b3566cee814e4fbafca5
+	commit = 18133b7489ba7bcb0c71ee864bca729c4e6c00de
+	parent = 195315669d01c9241fa1d59387b34502f417c245
 	method = merge
 	update = auto
 	cmdver = 0.4.0
