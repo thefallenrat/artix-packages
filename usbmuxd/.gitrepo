@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesU/usbmuxd.git
 	branch = master
-	commit = 723f28e0a6fa81a8a319fb62bdb22aa2326e1e98
-	parent = f41111b63795bf86fd7c5d3ab14f847eac1d0c62
+	commit = aba34586f3146a2874f75d3dd9e4afecbaee467d
+	parent = 3f36347f9ca3e2aa6c4274aea5350a8f323e7a51
 	method = merge
 	update = auto
 	cmdver = 0.4.0
