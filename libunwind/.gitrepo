@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libunwind.git
 	branch = master
-	commit = 276955f6cd095b47c1e030fa3c04901532f8bd6e
-	parent = c9a85c4c7e63d058f2870d3755fe54d619f89077
+	commit = 484fd50c604157982d64d79fc407acceaf2072c1
+	parent = e5fed0ff9696994bc70e8184541e609d6769dff4
 	method = merge
 	update = auto
 	cmdver = 0.4.0
