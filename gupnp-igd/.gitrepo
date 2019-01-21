@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesG/gupnp-igd.git
+	branch = master
+	commit = 108535ee21a3ce952a44220f665fb55ff3cd27ea
+	parent = 0f9173e239d6751549fc7db02ab0ec96a5b1d18f
+	method = merge
+	cmdver = 0.4.0
