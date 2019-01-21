@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gupnp.git
 	branch = master
-	commit = 234d52b609fd9b5432802627ee76550103d6e361
-	parent = ab3b3d91dd71268acbf030a7b6242b05b7820876
+	commit = 1fa1d15a4deffe390abc87ae7ae93c01589133d1
+	parent = dc67b68e26804230634179d0eb46a9081e32df3b
 	method = merge
 	cmdver = 0.4.0
