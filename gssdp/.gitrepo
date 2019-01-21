@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gssdp.git
 	branch = master
-	commit = f7db1734f36d6e99146a3acaa9db58fb3fbf1579
-	parent = 71deb6cdbfeea721ee59f7027abf766dd561f4f3
+	commit = ad13f3958be1e1f82a212e792cd8771c36598886
+	parent = be7eaea7fcdb68672f6cd2eec5b5606420874d92
 	method = merge
 	cmdver = 0.4.0
