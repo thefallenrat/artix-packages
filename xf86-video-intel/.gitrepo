@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xf86-video-intel.git
 	branch = master
-	commit = 5312b8a84ec4146008e427ec52e0e5a225a50cf2
-	parent = 637663fcade3df8f38e751231ff71db7810130db
+	commit = 16de6ac28b60e45fbe4939fc1787f3deeea2c6dd
+	parent = eed2d34af8db32727e50bade33be76a635360d84
 	method = merge
 	update = auto
 	cmdver = 0.4.0
