@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/nasm.git
 	branch = master
-	commit = 3b182997e6ed199d30fef7d7adc757058d52e1bc
-	parent = 588fbfe3950d644ec8d0f6f609e6d75e0c7278e0
+	commit = 5f730c268c3a91078ae20b00e30c9206ba47c959
+	parent = eb231c400fd2f48a01d79282b24d73e0138fb109
 	method = merge
 	update = auto
 	cmdver = 0.4.0
