@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/meson.git
 	branch = master
-	commit = 0609e9b2b8b628cbd4bf7a01cf0e4ca4ba3c48ff
-	parent = 116a4d5133704f04e0f394efe7045636c4def0b2
+	commit = afc8506069cd2e96bbb2bfcd26acfa7be0e10108
+	parent = ac528209e201829e7227f63d53c9b3d0b76007c3
 	method = merge
 	update = auto
 	cmdver = 0.4.0
