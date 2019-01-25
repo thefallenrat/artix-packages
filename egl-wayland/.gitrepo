@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesE/egl-wayland.git
 	branch = master
-	commit = 015f182f965ef1efc02e47d9789cf0221eaaeec8
-	parent = 820962213d93f060c56985f193d88bbf6549f517
+	commit = 0a25cb3a16fa17308b5533d0d3f855368e0ef454
+	parent = f1ab8bfdb8bb194e514249e4cddea77374d9ff9f
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
