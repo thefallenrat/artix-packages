@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPython/python2-configparser.git
 	branch = master
-	commit = 677ab96d7ed686672c3b740940bf0910b7bc50ff
-	parent = 36caee92aacaf9c4c4f06948f142c92959ae343c
+	commit = 0e66ade9fdf1be11bb29c8c002806a9c58550732
+	parent = 595ab68af3207fac8f19c13bfeaa47d5713e4456
 	method = merge
 	update = auto
 	cmdver = 0.4.0
