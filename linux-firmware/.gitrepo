@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/linux-firmware.git
 	branch = master
-	commit = 36e6ee78d350eece85ae45fb35ef59379709d9a5
-	parent = 1b6af89b4804185e0305f1c83f9c8fb8432ea2f2
+	commit = 5871a43ae5c91dc7b4ee9810730f55b664bbeda3
+	parent = cef4df8c1dfcdf69c7b271e2082560050296c007
 	method = merge
 	update = auto
 	cmdver = 0.4.0
