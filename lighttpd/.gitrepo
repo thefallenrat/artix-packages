@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/lighttpd.git
 	branch = master
-	commit = 274d685892c90bbb078b64feac19061b21908ec9
-	parent = 694ec9fe4c5e0b61a3602c150d08b302801f6695
+	commit = bfa6dcfbb4b78bcc4e103a76fe71952204975c63
+	parent = b73a23c0243d256d87f0d984d15d99649fedfdd8
 	method = merge
 	update = auto
 	cmdver = 0.4.0
