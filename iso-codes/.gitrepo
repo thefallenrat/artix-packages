@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesI/iso-codes.git
 	branch = master
-	commit = 0939b5dc59b663a6212169414b5636dcfb0354be
-	parent = 059e5c4dd173b43d6e14851c0ba795af4406b539
+	commit = 0766cc8671bbdffc72bb27a7382fc7bbc97e8cfb
+	parent = 85981b865e90815c307d28df54aa1413412e893a
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
