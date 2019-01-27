@@ -1,2 +1,0 @@
-# python-lazy-object-proxy
-

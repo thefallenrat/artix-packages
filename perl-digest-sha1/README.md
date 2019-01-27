@@ -1,2 +1,0 @@
-# perl-digest-sha1
-

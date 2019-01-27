@@ -1,2 +1,0 @@
-# wicd-runit
-

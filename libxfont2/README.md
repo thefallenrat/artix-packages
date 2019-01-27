@@ -1,2 +1,0 @@
-# libxfont2
-

@@ -1,2 +1,0 @@
-# mdadm-runit
-

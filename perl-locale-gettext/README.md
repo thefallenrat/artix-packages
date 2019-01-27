@@ -1,2 +1,0 @@
-# perl-locale-gettext
-
