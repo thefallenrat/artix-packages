@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/nss.git
 	branch = master
-	commit = 5faadec4cbde7d4cec22bc940b2efc2adb5c8d94
-	parent = 998aa010b4db02e947c5ea228ee3f70fbf774891
+	commit = 1c55eb972b785589e01d866c040071c256bc4537
+	parent = 6e79e49a9381e1c63b6525f03af46c4a268b31c6
 	method = merge
 	update = auto
 	cmdver = 0.4.0
