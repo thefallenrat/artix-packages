@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesQ/qbs.git
 	branch = master
-	commit = baa2e4a72e6c646de15dccf5a31c8601e147b3b0
-	parent = 42f4b942e66ccc72e3f02e267625fc25a9a1cfa3
+	commit = 46ce0b2a3cbd6b0c39272bc9143fef2c1a12fcfd
+	parent = 3ddfc3bed6af37f4e986662aa40a8647d7b90665
 	method = merge
 	cmdver = 0.4.0
