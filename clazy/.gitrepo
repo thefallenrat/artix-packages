@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesC/clazy.git
+	branch = master
+	commit = 844d1772a1c3e74ca7a7e2a3291434bcede01698
+	parent = a3ecb52b2eb8b4fb2497a9eb0e2cef0c3f347315
+	method = merge
+	cmdver = 0.4.0
