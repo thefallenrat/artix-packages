@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/mpfr.git
 	branch = master
-	commit = ac511b4192b7df7a3ce5ff96766174c0bf4fdae2
-	parent = 7549751de19335ddb62427a40e3c188e5e77a889
+	commit = ff6b724d6c88f89984cb6e60a4c1b6581ac67766
+	parent = 4a8f0f719c05e5e23a660d79f8ec7d24f82d803b
 	method = merge
 	update = auto
 	cmdver = 0.4.0
