@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libvpx.git
 	branch = master
-	commit = 50b8a8e12486dfac060a5f87a778d70e33e80d56
-	parent = d14157ed9036d3e28469fd580f9afc5c37a6342d
+	commit = f4355493a8a7f6650788b49dad10d1ec9f352805
+	parent = f641582f4eec30adaf15200216008442be2d68b1
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
