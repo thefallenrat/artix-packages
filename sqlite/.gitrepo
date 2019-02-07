@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/sqlite.git
 	branch = master
-	commit = 90c49f688e858f95c1d8c0966f608b4f2f55ce78
-	parent = 06b0d7fa29b3a2c5f985a47af21c876717c07129
+	commit = c8e5f644fa1288e6525e184b8cd4d08da1440352
+	parent = 9632a2b14de69b647eb7453984b4354c220d1f5c
 	method = merge
 	update = auto
 	cmdver = 0.4.0
