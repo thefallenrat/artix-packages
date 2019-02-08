@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pambase.git
 	branch = master
-	commit = 3b8f2ef827530ad72728db7e01e1c74cc1f1fb05
-	parent = 8fce4a1d3b83a703c88f6de02ccb9bb29ed64d78
+	commit = a428418034fb8eec50a338a36a77d9b3e119bc59
+	parent = f7c9bf03cfa3ba4579a20209e7556f6948e0c41a
 	method = merge
 	update = auto
 	cmdver = 0.4.0
