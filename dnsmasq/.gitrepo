@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesD/dnsmasq.git
 	branch = master
-	commit = a9818747a983e92b5389507fe38935cb47e9923d
-	parent = 262a3f47b0e34319da5f9f679d18545978114917
+	commit = 65404c872fb5f46b5591cd3c574a82b02171cfd3
+	parent = 644cd0bcc1465c0385200689d1bb012ddd5044c9
 	method = merge
 	update = auto
 	cmdver = 0.4.0
