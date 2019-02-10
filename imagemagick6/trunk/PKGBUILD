@@ -2,7 +2,7 @@
 
 pkgbase=imagemagick6
 pkgname=(libmagick6 imagemagick6)
-pkgver=6.9.10.18
+pkgver=6.9.10.27
 pkgrel=1
 pkgdesc="An image viewing/manipulation program (version 6)"
 url="https://legacy.imagemagick.org/"
@@ -13,10 +13,11 @@ makedepends=(ghostscript openexr libwmf librsvg libxml2 openjpeg2 libraw opencl-
              chrpath ocl-icd glu ghostpcl ghostxps libheif jbigkit)
 checkdepends=(gsfonts ttf-dejavu)
 _relname=ImageMagick-${pkgver%%.*}
-_tarname=${pkgver%.*}-${pkgver##*.}
-source=(https://github.com/ImageMagick/ImageMagick6/archive/$_tarname.tar.gz
+_tarname=ImageMagick-${pkgver%.*}-${pkgver##*.}
+source=(https://www.imagemagick.org/download/$_tarname.tar.xz{,.asc}
         arch-fonts.diff IM6-GS-policy.patch)
-sha256sums=('36f2d7271e60f1182f11ede9bb6d184cd66cc073302def44119ff326e622e84a'
+sha256sums=('98c944233e6b6ffa7be60b22d138b5c719ebe1ee12e6c49816ea4e8a0a7c76ea'
+            'SKIP'
             'a85b744c61b1b563743ecb7c7adad999d7ed9a8af816650e3ab9321b2b102e73'
             'f20c09860da65a4259ec9627ceeca7d993949b7460fa199c5ffd874633814cf6')
 validpgpkeys=(D8272EF51DA223E4D05B466989AB63D48277377A)  # Lexie Parsimoniae
@@ -24,7 +25,7 @@ validpgpkeys=(D8272EF51DA223E4D05B466989AB63D48277377A)  # Lexie Parsimoniae
 prepare() {
   mkdir -p binpkg/usr/lib/pkgconfig {binpkg,docpkg}/usr/share
 
-  cd ImageMagick6-$_tarname
+  cd $_tarname
 
   # Fix up typemaps to match our packages, where possible
   patch -Np1 -i ../arch-fonts.diff
@@ -36,7 +37,7 @@ prepare() {
 }
 
 build() {
-  cd ImageMagick6-$_tarname
+  cd $_tarname
   ./configure \
     PKG_CONFIG="/usr/bin/env PKG_CONFIG_PATH=/usr/lib/$pkgbase/pkgconfig pkg-config" \
     --prefix=/usr \
@@ -71,7 +72,7 @@ build() {
 }
 
 check() (
-  cd ImageMagick6-$_tarname
+  cd $_tarname
   ulimit -n 4096
   sed -e '/validate-formats/d' -i Makefile # these fail due to the security patch
   make check || :
@@ -93,7 +94,7 @@ package_libmagick6() {
   backup=(etc/$_relname/{coder,colors,delegates,log,magic,mime,policy,quantization-table,thresholds,type,type-{dejavu,ghostscript}}.xml)
   options=('!docs' '!emptydirs' libtool)
 
-  cd ImageMagick6-$_tarname
+  cd $_tarname
   make DESTDIR="$pkgdir" install pkgconfigdir="/usr/lib/$pkgbase/pkgconfig"
 
   rm "$pkgdir"/etc/$_relname/type-{apple,urw-base35,windows}.xml
@@ -118,6 +119,6 @@ package_imagemagick6() {
 
   find "$pkgdir/usr/lib/perl5" -name '*.so' -exec chrpath -d {} +
 
-  cd ImageMagick6-$_tarname
+  cd $_tarname
   install -Dt "$pkgdir/usr/share/licenses/$pkgname" -m644 LICENSE NOTICE
 }
