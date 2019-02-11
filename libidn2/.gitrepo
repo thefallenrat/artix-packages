@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libidn2.git
 	branch = master
-	commit = afdb5b37d5b8b375458f16130ee850c2dc5c268b
-	parent = c387a52c18db1f293110dc7d9c0fc535c8dceb33
+	commit = d592b0693cb0460a021eb7503525ff241e0f1b29
+	parent = bd8427c0a0a74f3f72d5413e77fb5b11a9e65b70
 	method = merge
 	update = auto
 	cmdver = 0.4.0
