@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesR/runit.git
 	branch = master
-	commit = 31e9beb62b21f397ca6a89ffb1364a634a882a99
-	parent = cb46afd01eb3d2f680ea28174a855771406df3c7
+	commit = 47b9ef6ac00cfe879f9edd7b2603c73c07b22e3e
+	parent = c9dffd7a0df0eaf1c83c8f2908fd7273d81c5fe4
 	method = merge
 	update = auto
 	cmdver = 0.4.0
