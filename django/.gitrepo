@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesD/django.git
 	branch = master
-	commit = a34739c0dc211d072639fae5b8f78ee9289b833f
-	parent = c7fe98bcb0bc44e71ac2cf2b4f3d427ef10e34f6
+	commit = e4faf9fa5ca7ce5b3a9e2b7d2596ab0ad8a927d5
+	parent = 908d54710515c061a75eb115642b11d54fb3b48f
 	method = merge
 	update = auto
 	cmdver = 0.4.0
