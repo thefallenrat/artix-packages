@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/speexdsp.git
 	branch = master
-	commit = c2aa217a5bbf85a04fbba786746e8da3f861b379
-	parent = b24b7557783add59e43ce0fdbf60964b9b8c22e5
+	commit = 1b78386124a82ccf946f29e6bdab9401e529c0a2
+	parent = 01ace1f95dfac04dca9c71ece2a895e885a8a823
 	method = merge
 	update = auto
 	cmdver = 0.4.0
