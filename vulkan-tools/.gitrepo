@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesV/vulkan-tools.git
 	branch = master
-	commit = d734563ac310c568cac5c99584e4215fd4f9b906
-	parent = ea12cd272b10d789d2c7cabb831ebb06e68a5e3b
+	commit = f6047fdde6dc6f44b3e377b2aebb86b6f89ff4d3
+	parent = 78fd0b1f4e310a62fd48ffca3275c3f444565e9a
 	method = merge
 	update = auto
 	cmdver = 0.4.0
