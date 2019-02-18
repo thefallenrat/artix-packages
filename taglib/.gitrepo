@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/taglib.git
 	branch = master
-	commit = 7fd13e72132a05061ee8de8de53662a2e098c4c1
-	parent = 6d5deb3e3c94b6fe72ad5eb2520eaf89a62f6fa9
+	commit = 402ac7e8a0aed9a715a52447de4f16cc06e029c8
+	parent = a78ece2ea564ab7069349ed83723d24a9155446e
 	method = merge
 	update = auto
 	cmdver = 0.4.0
