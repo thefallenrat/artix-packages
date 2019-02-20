@@ -3,8 +3,8 @@
 
 pkgbase=opensysusers
 pkgname=(opensysusers opensysusers-openrc opensysusers-docs)
-pkgver=0.4.9
-pkgrel=10
+pkgver=0.5
+pkgrel=1
 pkgdesc="A standalone utility for handling systemd-style sysusers.d users and groups"
 arch=('any')
 url="https://gitea.artixlinux.org/artix/opensysusers"
@@ -12,12 +12,10 @@ license=('BSD2')
 makedepends=('docbook-xsl')
 source=("${pkgbase}-${pkgver}.tar.gz::https://gitea.artixlinux.org/artix/opensysusers/archive/${pkgver}.tar.gz"
 		'opensysusers.hook'
-		'sysusers-hook'
-		'sysusers')
-sha256sums=('a42140a87ed27f8b129cee56e9eeee51273a2d347ca28f11d51aacad4c46cf47'
+		'sysusers-hook')
+sha256sums=('c9c012063e073d5589a83aa5d144010fa5214aa3b7340837f8138c8181e60dfe'
             'cefc133d78851cc3838eec273aeb127814c955be21c6e3fc0f9ba4391e534ec2'
-            '4222b2496d8bb1ac9c07707e4ef1b334b8b59eb15451ea8ba0fd6e4c93e50c56'
-            '80c89d35144f721fa4035de744fd00ffffef9008ab4f5c5e01abe6fd94b2ef6f')
+            '4222b2496d8bb1ac9c07707e4ef1b334b8b59eb15451ea8ba0fd6e4c93e50c56')
 
 build(){
     cd "${pkgbase}"
@@ -36,9 +34,6 @@ package_opensysusers() {
     install -Dm644 -t "$pkgdir"/usr/share/libalpm/hooks ${srcdir}/*.hook
 
     ln -snf "/usr/bin/sysusers" "${pkgdir}/usr/bin/systemd-sysusers"
-
-    # setup opensysusers
-    install -D -m644 "$srcdir"/sysusers "$pkgdir"/usr/lib/sysusers.d/basic.conf
 }
 
 package_opensysusers-openrc(){
