@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesE/eudev.git
 	branch = master
-	commit = 80bd1e51e48d568f78f195bd55e3d763dddecf2d
-	parent = 772e9f9b15e4f0f51888c2966b06ed43b86ad3ed
+	commit = 718ac8c7ea2714deba293ab9f32b7e38443e9662
+	parent = 5992fce37f8c2fd1464d9300386543d9d81960f3
 	method = merge
 	update = auto
 	cmdver = 0.4.0
