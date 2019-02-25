@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gvfs.git
 	branch = master
-	commit = bef0daca03063fbca0615c895252304e2dda7247
-	parent = 9e06d50985f61326da4a2e6265428a6f01eb3866
+	commit = 35f1ddd9822d2636398d52e51027ed620a130d1e
+	parent = 525a35cf24dd5fce612fa0b033365fd4442e65b8
 	method = merge
 	update = auto
 	cmdver = 0.4.0
