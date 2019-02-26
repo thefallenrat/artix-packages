@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/network-manager-applet.git
 	branch = master
-	commit = 858c4460953f24919da193ffb270ebe60373c288
-	parent = 249a715f5e72ae5428cbed7dfd2ad566b15de1d6
+	commit = 1e6e02aaf4c588939a642437e4b914344d0f3b57
+	parent = 4f8cb7d8aaad071fed0522aa140823969c975a5a
 	method = merge
 	update = auto
 	cmdver = 0.4.0
