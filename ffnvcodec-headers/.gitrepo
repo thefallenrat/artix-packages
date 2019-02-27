@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesF/ffnvcodec-headers.git
 	branch = master
-	commit = 79436411331ccd70126a45d0b9c2fb7a3ca67c56
-	parent = 0ac4b5a2dbd4db0ca93bac48464c9cb461873e6d
+	commit = 95e635fa7fa1d0161aee985b24f21c5ce6e9dcc9
+	parent = 7d33ea8b0790c94382d09e3d71a7026238fe7d0d
 	method = merge
 	update = auto
 	cmdver = 0.4.0
