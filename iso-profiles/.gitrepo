@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesI/iso-profiles.git
 	branch = master
-	commit = 91ca4de32e5d171bf095914af9a3113403e7af89
-	parent = c7ad3e6609774bbc246a03cfbec9ca31b63c3cd2
+	commit = c82ec1387927a1299badda6df8c749e4dec24e86
+	parent = 6a6cd20570d21a0a9ef12554625baea8dd9be223
 	method = merge
 	update = auto
 	cmdver = 0.4.0
