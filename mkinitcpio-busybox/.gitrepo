@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/mkinitcpio-busybox.git
 	branch = master
-	commit = 08c682bec36fcee6aeef316bf5b35dd1c164fea2
-	parent = 08a0320ecf93a9dfaad386d116b9870de3fe4414
+	commit = 2253b4697932d1a6fddd86655c53d34fdf047c7d
+	parent = 520fc929f433188f9b532722f360f93daf97860b
 	method = merge
 	update = auto
 	cmdver = 0.4.0
