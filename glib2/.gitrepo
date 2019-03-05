@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/glib2.git
 	branch = master
-	commit = 57a8a88fb758c7d148c27f5918426bd2dcbb8c44
-	parent = 5d8200555276a820091794aa022e7d8da34abb8c
+	commit = 2a22c47b2cebb23a147f14fd8084413b6541ea29
+	parent = b063f97e707061f05e97712adcf6f8e02083d330
 	method = merge
 	update = auto
 	cmdver = 0.4.0
