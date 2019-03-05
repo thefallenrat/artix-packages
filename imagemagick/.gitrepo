@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesI/imagemagick.git
 	branch = master
-	commit = db14df2e202f96491e27882decb2f6e022b854d8
-	parent = 9cbe9216879f19f9a19c878fd197f16b66f4821e
+	commit = 9358f38e82f9af0fe7edb02502f9f0e4946bbdc5
+	parent = ecb6ae5dcc57c3b8bbcdcfc0668b54d7727321a4
 	method = merge
 	update = auto
 	cmdver = 0.4.0
