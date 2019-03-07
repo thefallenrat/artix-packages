@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libdvdread.git
 	branch = master
-	commit = 0e82c069beee07d4cc0f763d5daaa3a3e98a64da
-	parent = 2659a6d308ee3e374bef1f3cdd950e7bbfb6291f
+	commit = 58cd1879b1e5078aed31ab719b308d4937939718
+	parent = 77df025a1f41d603980bf0fbb4fb50ffa473935a
 	method = merge
 	update = auto
 	cmdver = 0.4.0
