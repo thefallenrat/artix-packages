@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libblockdev.git
 	branch = master
-	commit = 9c5aac80ea5ab30b770cf9c2fea902d7de7a0206
-	parent = e2450961dd2d1e7faddb04eaffd61d06961a01bd
+	commit = c82431f1fe754fada4d2134e897e1d7b925cb572
+	parent = 802a47be9da925679d6e430fa30a0306857d903b
 	method = merge
 	update = auto
 	cmdver = 0.4.0
