@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/graphene.git
 	branch = master
-	commit = 556e614234f9786f24dd7c6d0c60335e3120fa08
-	parent = 033eee798a1ee9dc8db99bbe05743fdce2cc9a85
+	commit = a0217f53c251aef12d3c07b5d424fcd836bfd8d9
+	parent = 0b79fae43ac9f47f55b49ac885af2ae7a4a7b7b9
 	method = merge
 	update = auto
 	cmdver = 0.4.0
