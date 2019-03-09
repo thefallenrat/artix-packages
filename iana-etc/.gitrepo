@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesI/iana-etc.git
 	branch = master
-	commit = 8b6fc6b89be5c819231a41b0486c6ffe19f24f51
-	parent = a5298e81e60a921fa9d0af8c23714fac608ee736
+	commit = 30670bbe056e6fd62c0e9745ab79fd30860b3a40
+	parent = 94d6be15f1686e30901430a6688a47ddf11b0c87
 	method = merge
 	update = auto
 	cmdver = 0.4.0
