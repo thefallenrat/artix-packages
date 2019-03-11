@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/colord.git
 	branch = master
-	commit = bb37e1caaed4917151300ad0ac4dd5125a419331
-	parent = 92a8067ad6af88c977071e0995d66f9cad5a197f
+	commit = dcb5b387d86c5e22d64c07521a54ce3ee9486ffb
+	parent = 90b7337635131a43490ebe4cdc90e3ed6db6e32a
 	method = merge
 	update = auto
 	cmdver = 0.4.0
