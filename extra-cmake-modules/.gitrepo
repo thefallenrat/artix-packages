@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesE/extra-cmake-modules.git
 	branch = master
-	commit = c3f640b17bb8ffe6d499f5778769cd1c7d992687
-	parent = 5eb1bcd034c313055edfbcf1ea04f4fd11b3ff9c
+	commit = f50fa58a4cfc1821e974367ac17343beeebc0fdb
+	parent = 6f6d9945bd600f663b0921534062df240e090e93
 	method = merge
 	update = auto
 	cmdver = 0.4.0
