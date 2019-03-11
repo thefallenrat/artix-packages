@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/coreutils.git
 	branch = master
-	commit = 3b5a5cdec104b495a8131b2a400c5b144fdc86d5
-	parent = ec2548322b58af38ffe5dea5ac4d2aab8aa62658
+	commit = ce1cfba3d357cb46f61cf9e9ffb36250273552ed
+	parent = fb312eb8055e6e6771b83ae8ff02ca6dbbdd1dec
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
