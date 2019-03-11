@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libvdpau.git
 	branch = master
-	commit = d276ec2c38b6b2d27dfa4408b872605b07fcc581
-	parent = ed3acc6db9d3f1248ca65bc1ec0727a3e7ef54c6
+	commit = 7f28c31325fadd68532f045c2118d01914b14fbc
+	parent = 8d79059c9e9855873449d81975009430353f9f25
 	method = merge
 	update = auto
 	cmdver = 0.4.0
