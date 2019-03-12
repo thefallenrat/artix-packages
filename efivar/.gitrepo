@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesE/efivar.git
 	branch = master
-	commit = b26f919bb8ccf11672367cb7f97855c07208b3b2
-	parent = a2e82ae51bfce7f84338bd8bb96a0ae110fde80f
+	commit = ebff81e7f6162f4097703d4b283276751dc78faf
+	parent = dacc68a079e421571f91ef7d7ea2fa411ac46626
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
