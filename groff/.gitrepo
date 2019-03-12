@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/groff.git
 	branch = master
-	commit = ccf2dc52e16bfe946d4bf2ead900b7ff5e553dca
-	parent = 31c9db54ca9106be3c7642d8dc11fe8ae4329fd5
+	commit = 8a98222cb6af17d3b019018724dad74ed1e6f9ec
+	parent = bafa8919a0bac1c06445957349bfcf25dac6e164
 	method = merge
 	update = auto
 	cmdver = 0.4.0
