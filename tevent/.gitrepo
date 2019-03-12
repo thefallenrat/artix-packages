@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/tevent.git
 	branch = master
-	commit = 100b1e92344eefaa9d45bb808be1c2399af22abe
-	parent = 77caa120f1f9fc697692179ef6a0896c51f11ebe
+	commit = cd98f9355f56fa07b6bcbdf46a53376ea94ab197
+	parent = 05187466c1d3f93283bda7c706fe9241e69f2fa2
 	method = merge
 	update = auto
 	cmdver = 0.4.0
