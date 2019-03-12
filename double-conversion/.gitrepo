@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesD/double-conversion.git
 	branch = master
-	commit = a0379d6efcc73931e695510bece1853b406eb54c
-	parent = 189304f6d2a47e8795a0ed859745a4a7c331915e
+	commit = 854e5d375508fa92d97f8eb84012cf9666cd040c
+	parent = 3981f4188b2f6e1a8da28c0fc42531364e8b5c28
 	method = merge
 	update = auto
 	cmdver = 0.4.0
