@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libmatroska.git
 	branch = master
-	commit = 32b4a7e72f85e01a0b1651a81b440ac6633985f6
-	parent = e01046e594368ba0e828bd23783ece8e7ff0429d
+	commit = 812e7faebeeab8628f0bb04d27a5ef490e5f0a32
+	parent = 92ca06115aab61473fb916fd96a79c90040f7057
 	method = merge
 	update = auto
 	cmdver = 0.4.0
