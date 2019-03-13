@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libebml.git
 	branch = master
-	commit = f1025a6039dffb1f3e6ae58d069d8d3321a3eace
-	parent = c1dbef14aff75af0f0a35fa1774b15e2c218f536
+	commit = 5d91cec10ab27050a91cf327ba5dc4ea14a20c67
+	parent = de1edd2c7eefeff5647bdb403d8a8dc491677afe
 	method = merge
 	update = auto
 	cmdver = 0.4.0
