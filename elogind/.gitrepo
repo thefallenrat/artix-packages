@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesE/elogind.git
 	branch = master
-	commit = 671a3fdb0a51b0de0e760544e14f5bcbc307d94f
-	parent = fb9ae0b57780c725c8ae2470d03418ca5e621e65
+	commit = 95edf44c2d80903aea19c5a304a756a4b75412f1
+	parent = 307d694e1e1beda12b8dbb38f74364d4a55fc4c8
 	method = merge
 	update = auto
 	cmdver = 0.4.0
