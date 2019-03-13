@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesD/dconf.git
 	branch = master
-	commit = 23bf76fe68269040930bf1e1a8f2add723f43321
-	parent = fb853a9434401b4b4895519a37c83395f15303a2
+	commit = 4087adf289715311500190e87c45d9727b0f4daa
+	parent = 7e9a37e04bdb1504c0e10d340d20a1ce471352cb
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
