@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesM/mallard-ducktype.git
+	branch = master
+	commit = 57148c747e39ae230825ede19579ba8b0c9b281e
+	parent = 1dffd03acdc314c4eee8dd48545a4ba2ed58d1d1
+	method = merge
+	cmdver = 0.4.0
