@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libglvnd.git
 	branch = master
-	commit = 5f640e2a991d54b9f87711d1efbc85f994059a9c
-	parent = 2159776f180b82aff7d8ec517b6a2d8f6a046601
+	commit = 6ea0ade5bc8142d2eed716d726ff9420b4cdc4a0
+	parent = d9f542676f5bf63a20469c0fffd335c77ca558b5
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
