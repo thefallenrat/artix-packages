@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libseccomp.git
 	branch = master
-	commit = 2cbe2af4702d37a65e52567fed8c0c32d8399cea
-	parent = f0cb96dfe9cd22384240073729a46512cc2bf0b9
+	commit = 148c1498d3e2dab239bdd57223ca13cdaebf964e
+	parent = a08176517cf0ffff4ca338a89fde2965e3f897e2
 	method = merge
 	update = auto
 	cmdver = 0.4.0
