@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/texinfo.git
 	branch = master
-	commit = a0e99c8f3585758b7381fceb0bf7cba837a8ece8
-	parent = d7f24650f0cb0becd6ce4591c4a8bf4857c072d6
+	commit = 4e9bfbd399ed50929cb3d64d26b1b9785ec8b6c5
+	parent = a11ee643179c2c5bc3d576b5f544065263d7e7be
 	method = merge
 	update = auto
 	cmdver = 0.4.0
