@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesE/ethtool.git
 	branch = master
-	commit = 73e13b866704d163b1d41f5c5a8d7475ac6b7218
-	parent = 6772665f84b9307378a32bc0f39ffce0d14dc715
+	commit = 2f285e7cf37dded0d3334ed95e7febc78b3edd4b
+	parent = 0a9c61a26cd73c15a8e2c463e07b28679c0b9880
 	method = merge
 	update = auto
 	cmdver = 0.4.0
