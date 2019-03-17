@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libxft.git
 	branch = master
-	commit = 6cdbc19e79a3c19402208b8587ecee99d2821d77
-	parent = fd056490567b3ba67ff9a341a9ec21613a9064de
+	commit = b21ab9704e025c6ca4ae531baa859d9b8087576d
+	parent = 1287487ec20555bf3aa064c128f9229e4ee317ba
 	method = merge
 	update = auto
 	cmdver = 0.4.0
