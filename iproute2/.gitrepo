@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesI/iproute2.git
+	branch = master
+	commit = 8b1d0567ac6fa536484150d4e1dfe096e269fb9e
+	parent = 66cb546137fdabd4bb357f43b7c6639f2e77de8a
+	method = merge
+	cmdver = 0.4.0
