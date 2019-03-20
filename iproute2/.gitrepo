@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesI/iproute2.git
 	branch = master
-	commit = 87c41648ca2e5c3c7ff09625655114e59ab284e5
-	parent = b2d1020cfbc3afe9185ba04d406c3b44c5700c2f
+	commit = 37729b0398efc7cb19fe682f49cb984fde75753e
+	parent = df1a14f697b0a93848c08e57fac6079ab34d52b4
 	method = merge
 	cmdver = 0.4.0
