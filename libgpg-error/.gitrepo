@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libgpg-error.git
 	branch = master
-	commit = 859debcb63664f0520bd7bde3afb9b9c5bead53c
-	parent = 551ca25d85d56b91527845c40f2fe71892868896
+	commit = 47652b13afbe8d98c6ebc10d2f46106a65a23c30
+	parent = 7ff4d7b8af9c23fa73e83c31665a81f211b59409
 	method = merge
 	update = auto
 	cmdver = 0.4.0
