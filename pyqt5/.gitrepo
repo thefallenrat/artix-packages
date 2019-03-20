@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesP/pyqt5.git
+	branch = master
+	commit = 3a69a461b14659f95d902786e37c70b89956100b
+	parent = 73e7d3fdbe9bf95d97944e8033434047d5a6487e
+	method = merge
+	cmdver = 0.4.0
