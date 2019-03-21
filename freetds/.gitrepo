@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesF/freetds.git
 	branch = master
-	commit = d3aa35ce8f3cfb1117eb0af3bc18d260b11c513e
-	parent = c4f9fcdd31fe2f219c3b0026c5c20efc5ac6c8ee
+	commit = 21413f9fadbaf85f13cccbface441a022744e819
+	parent = cab89b717a7e0d2b6de7733bc4dad7e4eb55cc6e
 	method = merge
 	update = auto
 	cmdver = 0.4.0
