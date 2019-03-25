@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesW/wxgtk.git
 	branch = master
-	commit = 40c4dc5ec52e0787b9ecf4d2ba4e7aef2f5cafb6
-	parent = 241f51367606f2e1317dcf74ead50c8f65e0c5cf
+	commit = 8e143f2c96dc8ec81029a93a3f976a152fede9e5
+	parent = 8113988a294d12039e1634a97e8ea4628883d7b0
 	method = merge
 	update = auto
 	cmdver = 0.4.0
