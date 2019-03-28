@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/openmp.git
 	branch = master
-	commit = 9b9cd3f856f3e963207af1e0baad023e4140c88e
-	parent = 4242bba02e8a193f918bc1c112a21ae94ef661c5
+	commit = 78e5fddca1a37fccaf98b70b887060e18e73b88a
+	parent = 7b7f8c762460603034b8b2ea538aad655924412a
 	method = merge
 	update = auto
 	cmdver = 0.4.0
