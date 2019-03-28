@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libgdiplus.git
 	branch = master
-	commit = f273d82fd923ec6786bf246db55e225b07279b88
-	parent = 2b4b03c4f7cf939b85747bbc1da0c64fd81b3497
+	commit = c5696a64017fb9c041386c34afc0194b5848528c
+	parent = faf014d4f58f93f4648c8be64bd57d175641a277
 	method = merge
 	update = auto
 	cmdver = 0.4.0
