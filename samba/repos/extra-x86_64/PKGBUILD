@@ -11,13 +11,13 @@
 pkgbase=samba
 pkgname=('libwbclient' 'smbclient' 'samba')
 pkgver=4.10.0
-pkgrel=2
+pkgrel=3
 arch=(x86_64)
 url="http://www.samba.org"
 license=('GPL3')
-makedepends=('python' 'docbook-xsl' 'pkg-config' 'libbsd' 'db' 'popt' 'libcups' 
+makedepends=('python' 'docbook-xsl' 'pkg-config' 'libbsd' 'db' 'popt' 'libcups'
              'readline' 'tevent' 'acl' 'libldap' 'libcap' 'ldb>=1.1.15' 'krb5' 'pam'
-             'eudev' 'gamin' 'gnutls>=2.4.1' 'talloc' 'tdb' 'dbus' 'libaio'
+             'eudev' 'gnutls>=2.4.1' 'talloc' 'tdb' 'dbus' 'libaio'
              'perl-parse-yapp' 'libnsl' 'libtirpc' 'rpcsvc-proto' 'jansson')
 source=(http://us1.samba.org/samba/ftp/stable/${pkgbase}-${pkgver}.tar.gz
         http://us1.samba.org/samba/ftp/stable/${pkgbase}-${pkgver}.tar.asc
@@ -59,7 +59,7 @@ _samba4_auth_modules=auth_unix,auth_wbc,auth_server,auth_netlogond,auth_script,a
               --with-pammodulesdir=/usr/lib/security \
               --bundled-libraries=!tdb,!talloc,!pytalloc-util,!tevent,!popt,!ldb,!pyldb-util \
               --with-shared-modules=${_samba4_idmap_modules},${_samba4_pdb_modules},${_samba4_auth_modules} \
-              --disable-rpath-install 
+              --disable-rpath-install
 
               # Add this to the options once it's working...
                #--with-system-mitkrb5 /opt/heimdal
@@ -96,8 +96,8 @@ depends=('glibc' 'libbsd')
 package_smbclient() {
 pkgdesc="Tools to access a server's filespace and printers via SMB"
 depends=('popt' 'cifs-utils' 'tdb' "libwbclient>=$pkgver" 'ldb'
-         'tevent' 'libgcrypt' 'python' 'talloc' 'readline' 'gnutls' 
-         'libbsd' 'libldap' 'libcups' 'gamin' 'libarchive' 'libnsl' 'jansson')
+         'tevent' 'libgcrypt' 'python' 'talloc' 'readline' 'gnutls'
+         'libbsd' 'libldap' 'libcups' 'libarchive' 'libnsl' 'jansson')
 
     _smbclient_bins=('smbclient' 'rpcclient' 'smbspool'
                      'smbtree' 'smbcacls' 'smbcquotas' 'smbget' 'net'
@@ -151,7 +151,7 @@ depends=('popt' 'cifs-utils' 'tdb' "libwbclient>=$pkgver" 'ldb'
 
 package_samba() {
 pkgdesc="SMB Fileserver and AD Domain server"
-depends=('db>=4.7' 'popt' 'libcups' 'libcap>=2.16' 'gamin' 'gnutls>=2.4.1'
+depends=('db>=4.7' 'popt' 'libcups' 'libcap>=2.16' 'gnutls>=2.4.1'
          'talloc' 'ldb' 'libbsd' 'python' 'iniparser' 'tdb' 'libaio' 'perl-parse-yapp' "smbclient>=$pkgver" 'gpgme')
 backup=(etc/logrotate.d/samba
         etc/pam.d/samba
@@ -185,14 +185,14 @@ sys.path.insert(0, '/usr/lib/python${_pyver}/site-packages')" \
   chmod 700 ${pkgdir}/etc/samba/private
 
   install -D -m644 ${srcdir}/samba.logrotate ${pkgdir}/etc/logrotate.d/samba
-  install -D -m644 ${srcdir}/samba.pam ${pkgdir}/etc/pam.d/samba 
-  
+  install -D -m644 ${srcdir}/samba.pam ${pkgdir}/etc/pam.d/samba
+
   # spool directory
   install -d -m1777 ${pkgdir}/var/spool/samba
-  
+
   rm -rf ${pkgdir}/var/run
   rm -rf ${pkgdir}/etc/sysconfig
-  
+
   # copy ldap example
   install -D -m644 ${srcdir}/samba-${pkgver}/examples/LDAP/samba.schema ${pkgdir}/usr/share/doc/samba/examples/LDAP/samba.schema
 }
