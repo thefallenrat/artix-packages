@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/clazy.git
 	branch = master
-	commit = 152d3a0a4fc852f71b627d1735da960bf239dc17
-	parent = 2e2c1cfb9b3e4bfd9da7aab3fddce60ffd1e2080
+	commit = f455c611b87318b6ee6eb413f0ae9dd28167c95d
+	parent = 7d49f841a9dc73809b65a23535d970f119285c11
 	method = merge
 	cmdver = 0.4.0
