@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/clamav.git
 	branch = master
-	commit = 1d46ebb8970e8dc1515b00b88f6d604a17be49e1
-	parent = cdb81a6cc8710f710aaca1316aca5ce5b3437793
+	commit = 9fe0cfd581d9003af9d4858adece67f2772d28e0
+	parent = 3e4644867b59b12740d5246a2fbbb2a53a453c23
 	method = merge
 	update = auto
 	cmdver = 0.4.0
