@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/mplayer.git
 	branch = master
-	commit = 87828a7ed6cc68f4d8ac3329f74174807bcf0a98
-	parent = ccf5ef969b2679d997086b00292e966d5dac27cc
+	commit = 19f73991e02a3eb8ffbd581fdbe2ec66b41f9f4a
+	parent = 45871fb89521f36e513937c58fa73f9ee70086b2
 	method = merge
 	update = auto
 	cmdver = 0.4.0
