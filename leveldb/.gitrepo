@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/leveldb.git
 	branch = master
-	commit = 2c97e30f6c062708e997699889c2163895b0cfc0
-	parent = 1420aade222e18639296211b937ea5dcd6ba3535
+	commit = 77cc47df385644ab1063e941b646477f1a6b8997
+	parent = a3d5e04b5ed5087fc9a5b0b959ad1d256526d076
 	method = merge
 	update = auto
 	cmdver = 0.4.0
