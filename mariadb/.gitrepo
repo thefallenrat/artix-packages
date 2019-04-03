@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/mariadb.git
 	branch = master
-	commit = a0bef102029fa87554822365350738042fb2cf25
-	parent = 73b287fccdea74efe5b7baf38279bbcd650fced6
+	commit = ab7a5a450cb680c9131625ba848ea82b363fa889
+	parent = 8b6c09d98e87996d5a160685bbf1c4a9d835272c
 	method = merge
 	update = auto
 	cmdver = 0.4.0
