@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libqalculate.git
 	branch = master
-	commit = 8210728db0ea83060960f2d23a6386b88b777372
-	parent = 57e2b3399ea6141f6d3f731c00f0226fbda34dcf
+	commit = 6f6bdb0afd5e86e1c07b4c0b56794ea628cc9984
+	parent = c9dbb15ff2328fddcf37fce1974891cdced931b7
 	method = merge
 	update = auto
 	cmdver = 0.4.0
