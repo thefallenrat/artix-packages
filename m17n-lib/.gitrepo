@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/m17n-lib.git
 	branch = master
-	commit = ebd16688b5adb075407afb7687e57eb8cf3f73df
-	parent = 2fee73e3c327a2d66dc98401c8f64c739043a027
+	commit = 11a0a302f4c2a801f9d2db4836645fd45c5a2b73
+	parent = 26f71561fd5fb8c7de33b11856bc7b0152fe340d
 	method = merge
 	update = auto
 	cmdver = 0.4.0
