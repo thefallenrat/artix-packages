@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libnotify.git
 	branch = master
-	commit = fe2851b0336efb4dab923f153ba0cb22ac4b5599
-	parent = 3008e28b0cef7bfca1158b862cad366e2e27ca53
+	commit = 49594896a7deea984f677c5227441564e226a55d
+	parent = 859246d2697b38c5232c9804de03fd3d46ee1411
 	method = merge
 	update = auto
 	cmdver = 0.4.0
