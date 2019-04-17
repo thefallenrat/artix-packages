@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libpng.git
 	branch = master
-	commit = 6bf20a4f606e9f6ed99cd87b8c7df6ec0e8611c9
-	parent = 795ba379de887b7272da1e5566fa4cfb6f573e49
+	commit = c08b8abaf99fe991a6c18639ab5c16340d3ff383
+	parent = b0c435cac977b0bac4d45a0595c001e825edb578
 	method = merge
 	update = auto
 	cmdver = 0.4.0
