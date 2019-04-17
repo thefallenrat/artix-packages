@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/linux-api-headers.git
 	branch = master
-	commit = 68ac386581f12ce84ac438e2c6edd009c92fd689
-	parent = 8701facc0a64387ad84ae90dd6dcaf7aae2fa61d
+	commit = 9c2f02060df27628dc00c3358173d90f61ce8a37
+	parent = 3353ac311cb9a90f6173b8cffa71440fb36cbb2e
 	method = merge
 	update = auto
 	cmdver = 0.4.0
