@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesH/hwids.git
 	branch = master
-	commit = 445978810d39529c654928aec9e4c6583823e1da
-	parent = 10f152a69aedc64b0b11607aee4ab26a88d54e20
+	commit = 3a17b1c943436e32fedb8695ceacba3084207c0e
+	parent = a29d2dc5374f807702d881bd9d2103059e4d0cdd
 	method = merge
 	update = auto
 	cmdver = 0.4.0
