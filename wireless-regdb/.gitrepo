@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesW/wireless-regdb.git
 	branch = master
-	commit = e870cb0cf74ea6c5caa413234609ea1492fd1a92
-	parent = 7478e14c84dabf77171671406b908fc1a5e197b6
+	commit = 856ebab30d2a29ddf3f5942c20b23dfbda7d5cd8
+	parent = 9b850cab15fb9b8d463ec61881025d675c2a5d6b
 	method = merge
 	update = auto
 	cmdver = 0.4.0
