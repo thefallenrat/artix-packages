@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/cracklib.git
 	branch = master
-	commit = f3f6fd9e930e069046ef21c9a12c4ccc498dd2bf
-	parent = 7c3077d32ff97fa977db4653c3b2e0f6725ea92b
+	commit = 8b6cf674570c5f046fb82c7b614341dea2ae0f3a
+	parent = 541c3c9b7cf4b9c4c37ac9f61e545265294b68e0
 	method = merge
 	update = auto
 	cmdver = 0.4.0
