@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/nano.git
 	branch = master
-	commit = bda2a79261f2c64001784fc4d80588f0a0901296
-	parent = bd2682e9b0348445465aeead7cee9cb3b4e4841b
+	commit = 07d45559370c47ba5abf10d5318bf9e4e7dcd2fe
+	parent = 1a9cbf8231ed359d52e09ce98c82cdba395025b9
 	method = merge
 	update = auto
 	cmdver = 0.4.0
