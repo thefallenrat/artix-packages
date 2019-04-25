@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/networkmanager.git
 	branch = master
-	commit = 77af4fccf21d5d3f5382f58f8f4516d3bf7a5aae
-	parent = edc5b03c86c43f27e17294e0dadb3c7dacad277b
+	commit = c7e203fe029dbdd909ab9b2abce09ef92ddc47f7
+	parent = 2758b312088a9eff1199bb6b046a6aee44e4fbef
 	method = merge
 	update = auto
 	cmdver = 0.4.0
