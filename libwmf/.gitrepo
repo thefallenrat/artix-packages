@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libwmf.git
 	branch = master
-	commit = 01538c0835f99fc16693735eed9e42bf58c3b93c
-	parent = 3368bd2dbde1ec378cfbf3a256689aba18b15f75
+	commit = fc1fc88a86bc6a13346be6527f0e8af5a08529ae
+	parent = 61fcc1dbe52415cfbb9acdf25dad0e233fe07db1
 	method = merge
 	update = auto
 	cmdver = 0.4.0
