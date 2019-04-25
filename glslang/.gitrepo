@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/glslang.git
 	branch = master
-	commit = b1646ddd7cec53e4ac01e046117631d0c5e8a5a3
-	parent = c57f555e8759913e1d0a2cca831eb945eb879fd9
+	commit = 4eade820d6d0f954fc5b8042c3ae2ac8dfc8b327
+	parent = a445c8e46ae167dc9d580f6b3898b8797b46b846
 	method = merge
 	update = auto
 	cmdver = 0.4.0
