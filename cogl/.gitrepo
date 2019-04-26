@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/cogl.git
 	branch = master
-	commit = 522cd885eb8442bd6a9a7c947cc5c62b1679134b
-	parent = fb611a2e32dca9cd5c5e157efaced5c8c38a56e8
+	commit = ca75c82cdd7dfb0634ac9297104a380b0a40f592
+	parent = 496565024573bd5ab78c7799157381f71d2d99f4
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
