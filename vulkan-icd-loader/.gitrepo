@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesV/vulkan-icd-loader.git
 	branch = master
-	commit = 33c0a5198ece0933eec5ae39e8d39d7e51706836
-	parent = 6d85e251d2063cad7a7941a8b37082f9f4e8456f
+	commit = 93cf4cc592eb893bcfa039a770f5f30106755e82
+	parent = 1828c648440b9b69cb2e74ad1248febf6b9c3b44
 	method = merge
 	update = auto
 	cmdver = 0.4.0
