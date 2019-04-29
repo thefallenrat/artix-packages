@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesQ/qpdf.git
 	branch = master
-	commit = 07e0923b0b2cc93b98e583d1e54c5be1d3c1a249
-	parent = a0cfff408ddc8ca1720cf7ae48c25bf1ed811c72
+	commit = bfe62732aa0d8e5cd3337594e88ef15930528039
+	parent = c1f9065859c03922c27be35406cfc66bc0e87451
 	method = merge
 	cmdver = 0.4.0
