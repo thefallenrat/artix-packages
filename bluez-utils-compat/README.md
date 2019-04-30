@@ -1,2 +1,0 @@
-# bluez-utils-compat
-
