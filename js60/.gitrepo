@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesJ/js60.git
 	branch = master
-	commit = d34e0cac501fd7ccb7028cb8b7ba0338eb3fbb23
-	parent = 534459e9564b7b6a981d6ff53cf0a1c2bdc5f117
+	commit = 6931be68f9b8fa2f4097690f3b5c2d4c5e6824f1
+	parent = 5f792c82617e4c7e6c93cd34764b4ad3d42d3b7a
 	method = merge
 	cmdver = 0.4.0
