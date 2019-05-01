@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/graphviz.git
 	branch = master
-	commit = 6417c7709d1d29d2fa1f7ceb9c918a3192ebf107
-	parent = e9d1d42bf7740ca5966dc258189d7b0895221945
+	commit = 287677aa580afdcd623dc02711b9955df9ef8f58
+	parent = 8e23564b0b68715489d3a0029eef7f3f14ca67b5
 	method = merge
 	update = auto
 	cmdver = 0.4.0
