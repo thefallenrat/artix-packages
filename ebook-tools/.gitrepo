@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesE/ebook-tools.git
 	branch = master
-	commit = ff28b917984333ce20c2ff10f7ef101dae931618
-	parent = f5250a13ef0e4b8d87a7e21f9e158ce2b79a91c0
+	commit = b13ae02dc9ea8ce1a2423f9a7fc3bb75885e3cbc
+	parent = e7183f267085fee52fe08cf57e5550147b19e9e2
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
