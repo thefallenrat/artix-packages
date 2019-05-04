@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesI/isdn4k-utils.git
 	branch = master
-	commit = 1823d6b6c08e0b1236e095be42d0d6520f9050c4
-	parent = e8a486b16c02ab5104fee147e2bc20e7c407475c
+	commit = 14453213c5260c45aca972a3299b60fc87c4b25b
+	parent = b0543ebe05ac00bfd34b69698ddd6667a7e8c8d0
 	method = merge
 	update = auto
 	cmdver = 0.4.0
