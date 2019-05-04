@@ -1,4 +1,3 @@
-# $Id$
 # Contributor: Dennis "Gyroplast" Herbrich <dennis@archlinux.org>,  dorphell <dorphell@archlinux.org>
 # Maintainer: Tobias Powalowski <tpowa@archlinux.org>
 
@@ -6,11 +5,11 @@ pkgname=isdn4k-utils
 pkgver=3.27
 pkgrel=3
 pkgdesc="User space administration programs and tools for ISDN"
-arch=('i686' 'x86_64')
+arch=('x86_64')
 url="http://www.isdn4linux.de/"
 license=('GPL')
 makedepends=('git')
-depends=('ncurses' 'sh') 
+depends=('ncurses' 'sh')
 backup=(etc/isdn/{callerid.conf,isdn.conf,rate.conf,isdnlog.isdnctrl0.options})
 options=('!makeflags')
 source=(isdn4k-utils::git+git://git.misdn.eu/isdn4k-utils.git#tag=v${pkgver}
@@ -35,7 +34,7 @@ prepare() {
   autoreconf
   cd $srcdir/$pkgname
   cd capifax
-  aclocal 
+  aclocal
   automake --add-missing
   autoreconf
   cd $srcdir/$pkgname
