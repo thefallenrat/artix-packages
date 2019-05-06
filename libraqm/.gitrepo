@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libraqm.git
 	branch = master
-	commit = 5dc48c7bdbca9b319e17807d893cc126bbf9706c
-	parent = 0c8b5310f5604c5fcd10abb389c6e5650656bb01
+	commit = 1092e3fe96f69d40bad5a5a0e6b8f4f35fc0b864
+	parent = 149fc903631e6b54defacdf2b22f170573e27f4a
 	method = merge
 	update = auto
 	cmdver = 0.4.0
