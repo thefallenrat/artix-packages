@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libshout.git
 	branch = master
-	commit = d0cbf2674323a389674c64f875480dd55f2fb149
-	parent = cf08a8ed6707d32c2bee6dca53c82b1c20eb11a5
+	commit = 9052240a6f734c7fe6ef3ff22711c8492f2b45a3
+	parent = c2ead72f30d2ed8a9fd21e7506fcde5a32c23fdd
 	method = merge
 	update = auto
 	cmdver = 0.4.0
