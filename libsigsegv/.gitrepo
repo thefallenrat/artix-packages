@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libsigsegv.git
 	branch = master
-	commit = 6125005a513983cfcdb85d340e2708112434409c
-	parent = 7fc5f3cc409c640b11256cb9c07017d14ab8779b
+	commit = 1937ab0d5be1603ed2f3d5ff2150e4cf175ff794
+	parent = 910947fb7930a27ca56e29a5863cdec6b4ef7342
 	method = merge
 	update = auto
 	cmdver = 0.4.0
