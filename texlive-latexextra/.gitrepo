@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/texlive-latexextra.git
 	branch = master
-	commit = f92f2676cf3ad663b3c5e95a4e3a82becf0c19cf
-	parent = 767826ec7177b1ef4454675d4252bc32601ed6a6
+	commit = b7a2fc05acc5987e260136e1bb058fb85be8a992
+	parent = 1bb6367a0887d8f9f725196deac449aab4fa5919
 	method = merge
 	update = auto
 	cmdver = 0.4.0
