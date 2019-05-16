@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libsoup.git
 	branch = master
-	commit = c1dda1e8541881a4bac6d1957f38ecdfbd19d2a4
-	parent = ac50e75da90622fd1f955d0aff0643494f41d083
+	commit = 586d7ad61ccc571a90cd43228c8ec7ab183f0d71
+	parent = 4472ffd3f646d36a0848388877c75a9b8a7e7bac
 	method = merge
 	update = auto
 	cmdver = 0.4.0
