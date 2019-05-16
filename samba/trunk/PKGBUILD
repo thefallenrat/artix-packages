@@ -10,17 +10,17 @@
 
 pkgbase=samba
 pkgname=('libwbclient' 'smbclient' 'samba')
-pkgver=4.10.2
+pkgver=4.10.3
 pkgrel=1
 arch=(x86_64)
-url="http://www.samba.org"
+url="https://www.samba.org"
 license=('GPL3')
-makedepends=('python' 'docbook-xsl' 'pkg-config' 'libbsd' 'db' 'popt' 'libcups' 
+makedepends=('python' 'docbook-xsl' 'pkg-config' 'libbsd' 'db' 'popt' 'libcups'
              'readline' 'tevent' 'acl' 'libldap' 'libcap' 'ldb>=1.1.15' 'krb5' 'pam'
              'eudev' 'gnutls>=2.4.1' 'talloc' 'tdb' 'dbus' 'libaio'
              'perl-parse-yapp' 'libnsl' 'libtirpc' 'rpcsvc-proto' 'jansson')
-source=(http://us1.samba.org/samba/ftp/stable/${pkgbase}-${pkgver}.tar.gz
-        http://us1.samba.org/samba/ftp/stable/${pkgbase}-${pkgver}.tar.asc
+source=(https://us1.samba.org/samba/ftp/stable/${pkgbase}-${pkgver}.tar.gz
+        https://us1.samba.org/samba/ftp/stable/${pkgbase}-${pkgver}.tar.asc
         samba.logrotate
         samba.pam
 	samba.conf)
@@ -59,7 +59,7 @@ _samba4_auth_modules=auth_unix,auth_wbc,auth_server,auth_netlogond,auth_script,a
               --with-pammodulesdir=/usr/lib/security \
               --bundled-libraries=!tdb,!talloc,!pytalloc-util,!tevent,!popt,!ldb,!pyldb-util \
               --with-shared-modules=${_samba4_idmap_modules},${_samba4_pdb_modules},${_samba4_auth_modules} \
-              --disable-rpath-install 
+              --disable-rpath-install
 
               # Add this to the options once it's working...
                #--with-system-mitkrb5 /opt/heimdal
@@ -96,7 +96,7 @@ depends=('glibc' 'libbsd')
 package_smbclient() {
 pkgdesc="Tools to access a server's filespace and printers via SMB"
 depends=('popt' 'cifs-utils' 'tdb' "libwbclient>=$pkgver" 'ldb'
-         'tevent' 'libgcrypt' 'python' 'talloc' 'readline' 'gnutls' 
+         'tevent' 'libgcrypt' 'python' 'talloc' 'readline' 'gnutls'
          'libbsd' 'libldap' 'libcups' 'libarchive' 'libnsl' 'jansson')
 
     _smbclient_bins=('smbclient' 'rpcclient' 'smbspool'
@@ -185,18 +185,18 @@ sys.path.insert(0, '/usr/lib/python${_pyver}/site-packages')" \
   chmod 700 ${pkgdir}/etc/samba/private
 
   install -D -m644 ${srcdir}/samba.logrotate ${pkgdir}/etc/logrotate.d/samba
-  install -D -m644 ${srcdir}/samba.pam ${pkgdir}/etc/pam.d/samba 
-  
+  install -D -m644 ${srcdir}/samba.pam ${pkgdir}/etc/pam.d/samba
+
   # spool directory
   install -d -m1777 ${pkgdir}/var/spool/samba
-  
+
   rm -rf ${pkgdir}/var/run
   rm -rf ${pkgdir}/etc/sysconfig
-  
+
   # copy ldap example
   install -D -m644 ${srcdir}/samba-${pkgver}/examples/LDAP/samba.schema ${pkgdir}/usr/share/doc/samba/examples/LDAP/samba.schema
 }
-md5sums=('44e4c144b512c52a71fdc6cd2670af62'
+md5sums=('9db9d1a9219caa1a6529c93e83e5e030'
          'SKIP'
          '995621522c6ec9b68c1b858ceed627ed'
          '96f82c38f3f540b53f3e5144900acf17'
