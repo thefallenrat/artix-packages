@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesD/dbus.git
 	branch = master
-	commit = 62afe0f06f1c83944e920b5d0932e640b641f8e4
-	parent = 2e2c3d27df7841c22768b8fedfc9f3db0f9e9ea7
+	commit = ea89ba6cafb2aa04d4995a65d5057e20b156983b
+	parent = d2368574cadeb039b36d90e3da9ca44d48dc236f
 	method = merge
 	update = auto
 	cmdver = 0.4.0
