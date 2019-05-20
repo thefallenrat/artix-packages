@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesA/alsa-plugins.git
 	branch = master
-	commit = 6c51bedcbc5d4ff663bd0ad600b080385687c0bb
-	parent = 1a5b807e8c24a5e702da1f3adbfed1a2c45427e3
+	commit = 13623820fd52f550b615e5d501fa749170a0dd25
+	parent = 8f94635311fcf93195ea394584797076ec32b216
 	method = merge
 	update = auto
 	cmdver = 0.4.0
