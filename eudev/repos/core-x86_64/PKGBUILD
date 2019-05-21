@@ -1,13 +1,13 @@
-# Maintainer: artoo <artoo@manjaro.org>
+# Maintainer: artoo <artoo@artixlinux.org>
 # Contributor: Alexey D. <lq07829icatm@rambler.ru>
 # Contributor: Ivailo Monev <xakepa10@gmail.com>
 
-_udev_ver=220
+_udev_ver=228
 
 pkgbase=eudev
 pkgname=('eudev' 'libeudev')
-pkgver=3.2.7
-pkgrel=4
+pkgver=3.2.8
+pkgrel=1
 pkgdesc="The userspace dev tools (udev) forked by Gentoo"
 arch=('x86_64')
 url="http://www.gentoo.org/proj/en/eudev/"
@@ -22,7 +22,7 @@ source=("$pkgname-$pkgver.tar.gz::https://github.com/gentoo/eudev/archive/v${pkg
         'udev-hook'
         'udev-hwdb-path.patch'
         'udev-default-rules.patch')
-sha256sums=('ce2fda4dea129bbcf824c947aab23504bcd26911481b47dbaf10646f723083a4'
+sha256sums=('5648d44958c82ffdd1a247a7abd602a018de49a7cb0653bb74d93e2f1220aaa6'
             '892ce43218e0a458981bbce451252c8987dc398e60b8de288e7542b8f2409c13'
             '77dd1fd318b4456409aceb077f060b87944defb07cf39d29ad1968dc6f361875'
             '2782bd3a7686596e98bd2d3fdef9d59d7d439682b87bbcc43b1fd1f5fabb3505'
