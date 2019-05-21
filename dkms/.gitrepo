@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesD/dkms.git
 	branch = master
-	commit = 5bae3a2e914bf1d0824c0862d75cd79228356cf7
-	parent = fdf8191386bce60932120b34e3a4388d486c5439
+	commit = 4eb371b6fb4ebd5d748873406513329b5c19b05c
+	parent = 0cd74ccd5e6db8cea3218b2036f22769247ef813
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
