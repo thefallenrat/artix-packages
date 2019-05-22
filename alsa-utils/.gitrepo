@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesA/alsa-utils.git
 	branch = master
-	commit = 9d3b2f123b8a47d55a07c416da7e53b041799c87
-	parent = 5d68c50eb93beec0cccaa3a925ff22aad4dcc550
+	commit = 0f6b24b01bc2eed17d6c17a951535c93c41de4f7
+	parent = 9f65497e1557bc5e4b42f95a1d903ac37a1e3e75
 	method = merge
 	update = auto
 	cmdver = 0.4.0
