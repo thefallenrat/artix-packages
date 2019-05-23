@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/mkinitcpio.git
 	branch = master
-	commit = caf4be6e346996e3ddc8c1479f1f49239bda7e10
-	parent = 409f2cf6fd21695a58c29d49c436fc4d3d54394b
+	commit = 9e859f43fc60a884dc141448f7022ad607d3b8aa
+	parent = 2d2fd33119792a45be948cc160f167b803130fce
 	method = merge
 	update = auto
 	cmdver = 0.4.0
