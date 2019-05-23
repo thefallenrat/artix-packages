@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesD/dracut.git
+	branch = master
+	commit = 082d6056e52e823f72802ccc180136acceb12d90
+	parent = dcffce044c846ff935c4c33db4e46cf70cf3105a
+	method = merge
+	cmdver = 0.4.0
