@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/cups-filters.git
 	branch = master
-	commit = 683146d14013e397658135ddebe401864781cfca
-	parent = 6440c9cef22a43e5e2322c92f79dea6fce5ef488
+	commit = 84e67b7e0db7660ae5d6ce3458427871f1e9ed8d
+	parent = 8aabc6300149e66fb1e553d08af84569575621ce
 	method = merge
 	update = auto
 	cmdver = 0.4.0
