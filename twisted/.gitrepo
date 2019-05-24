@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/twisted.git
 	branch = master
-	commit = 5a59281b9412d099f9347a266fb30a6d1a5d3de3
-	parent = 3c26ad6648a1ea1f890a0f8af8dae766b8d11367
+	commit = 9e450f07c3448cf3cb15581fb25ffc77099cb04d
+	parent = 44f661b1531933d7af677563b409abbd04154ad4
 	method = merge
 	update = auto
 	cmdver = 0.4.0
