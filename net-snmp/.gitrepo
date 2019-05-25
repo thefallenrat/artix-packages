@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/net-snmp.git
 	branch = master
-	commit = ac29705073defd6f040ec3a3e24a9c25f74ae4ca
-	parent = 1a2bfbf22fd31a3d6714cce26282ec41dbad287f
+	commit = 30404cdc2e91063d7384807fed0b2f2a7577a2d2
+	parent = de72e29a745cb220ff4249d24b7dee613eb4730f
 	method = merge
 	update = auto
 	cmdver = 0.4.0
