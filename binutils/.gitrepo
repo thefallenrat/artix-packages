@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesB/binutils.git
 	branch = master
-	commit = 86e18331d5d35c72f67e5c8469162adff12e3c33
-	parent = 54c5f23859aa0eb2b4b803d7df18f5d55806a769
+	commit = 60d11f2b0b6a2acfed1193e87e2e94b4cacc93d9
+	parent = c7556d3f35df9e2a8ee7639988f460ad9b8d5189
 	method = merge
 	update = auto
 	cmdver = 0.4.0
