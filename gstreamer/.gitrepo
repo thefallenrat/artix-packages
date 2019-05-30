@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gstreamer.git
 	branch = master
-	commit = 7bacdbfdc918297fdbd8ecae42c7139e896f496c
-	parent = 7a64ba1dc2211fa44d986bd416e17c8bab2fc7af
+	commit = 0d0808d02d339f3d87ab2060d05f90b70c38cbad
+	parent = ed607cc099bdba6859a211f372f44c728b2de43b
 	method = merge
 	update = auto
 	cmdver = 0.4.0
