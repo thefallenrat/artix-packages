@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/less.git
 	branch = master
-	commit = 25cf0d2876945376bfd2c506ac1aa76047622a83
-	parent = eef158dc7d59a96602ba12718312296608be730b
+	commit = 6ba9660ac34e1f4e1d4480c3aea3c300c4ea9bab
+	parent = d307cab1195d5082cc58a8993a6739724191b2f8
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
