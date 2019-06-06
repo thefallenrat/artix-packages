@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/publicsuffix-list.git
 	branch = master
-	commit = 9120bdaa1e28104b5b8bccb392006a543b126bde
-	parent = dba6d13a10fbd4c4fd73a3bde40df90764194eef
+	commit = 439afa509e9615b9a153c47f1f6b9e76df7d928f
+	parent = 87f6d0e8efc121d3c3a1a70e863931851e470273
 	method = merge
 	update = auto
 	cmdver = 0.4.0
