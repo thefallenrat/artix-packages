@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libbluray.git
 	branch = master
-	commit = 143cd00ad73ba58213ed6bc66033c0649bb33fca
-	parent = aefc635b2d05714e01863e545ecff108973d317b
+	commit = a310fb828d5911b86f90b700c2e4bc486262b07a
+	parent = 1f51485facb994fe4fdec15fabee6ef888fb989c
 	method = merge
 	update = auto
 	cmdver = 0.4.0
