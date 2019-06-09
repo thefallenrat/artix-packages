@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/curl.git
 	branch = master
-	commit = 3db6bb3af27ff6ce13145499ab28c9fbe72dacd7
-	parent = ffd38470e39860bdff81aaccdd0d50d7fae58bce
+	commit = a2e0656d1c3e2fdad361f63e694d61cd0632ded8
+	parent = a39a7265b6c9bca56d67c5f363b0529df836a427
 	method = merge
 	update = auto
 	cmdver = 0.4.0
