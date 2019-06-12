@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libevent.git
 	branch = master
-	commit = 9daa24bdd4368c95fc0242a3b566a2297a143d1f
-	parent = 59e63420685ca209f449890f2746f34634a673cc
+	commit = cbb8dfcc1c819f20cc2e794201e2c3cb734a8f65
+	parent = b8cd20a49cecae47dff31fe0484dd1b0fc1fd9cc
 	method = merge
 	update = auto
 	cmdver = 0.4.0
