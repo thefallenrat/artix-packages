@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesY/yelp-tools.git
 	branch = master
-	commit = 2f66aff5869b53446a531fbe3851c261ca6ea8a6
-	parent = 3c6fd18ebd5e06bc4342456f28c82ca33e0ad7db
+	commit = 0c63448b628a90e2bc3f0437991f8fa27576e243
+	parent = e4636e01f806fe2d686313b0f960b9edb33382cf
 	method = merge
 	update = auto
 	cmdver = 0.4.0
