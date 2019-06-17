@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesV/vala.git
 	branch = master
-	commit = e9157310007cdfbd5e949afb16e4db93c126eee8
-	parent = 30f5ea07d7900cbbe7f869d6ecc1037e656fa394
+	commit = 4face9da8a530ca56dfb7ff99a8a49f8d58b8171
+	parent = 6689cdd35459399b37fbac871349fa8125dd876a
 	method = merge
 	update = auto
 	cmdver = 0.4.0
