@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesF/fuse3.git
 	branch = master
-	commit = 8322a23157086dbf0f2708ec07d2607fece6676b
-	parent = 4f257b3a3b7aaa3cdefdbd1e5dbc30c2187ce583
+	commit = bf3388e41239c42a68a69cfb3663257b5c6f616a
+	parent = b277eb7ad4bc74f118878b2700a95615d28a666d
 	method = merge
 	update = auto
 	cmdver = 0.4.0
