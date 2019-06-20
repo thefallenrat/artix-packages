@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/net-tools.git
 	branch = master
-	commit = cd5e173aaaa4f6ad797fa12313166bb5c786ddd3
-	parent = 2fe4129d9681837d8e99f03aa9c45defa0a731f6
+	commit = 480d63d5e3daf94fc944af938920f55426eb9945
+	parent = cd568c884397119cda908375abbae0bcbdd2607e
 	method = merge
 	update = auto
 	cmdver = 0.4.0
