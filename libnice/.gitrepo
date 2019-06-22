@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libnice.git
 	branch = master
-	commit = 4e4aed5734e35628cb3e2c9ce9faed35d2592298
-	parent = e42e93c81d0af0813c74276a7023ca67ef14353e
+	commit = e02010893746765a0462d97103670b2ad03f52e3
+	parent = ec46848f5f9689dc5a903924a9803c142ed1df02
 	method = merge
 	update = auto
 	cmdver = 0.4.0
