@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pygobject.git
 	branch = master
-	commit = 8e5899a86b543cecb5b03a2d951af594723a4ebf
-	parent = 0a4bfcfe604febeba73c3c32675f66687f18a3a4
+	commit = a0455fba0fec18d41961c076b03bb455ee86fcf9
+	parent = 87cef15dec85314accb5aeed1c891694e06255e3
 	method = merge
 	update = auto
 	cmdver = 0.4.0
