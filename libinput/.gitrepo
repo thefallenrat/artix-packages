@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libinput.git
 	branch = master
-	commit = b3c69a3559f79178d7a7fde3a826bc6f1284c6b0
-	parent = 868012991132e5bd93dbb25be96f35c7f2b641f8
+	commit = 48b10b7b7ce512ab256d472bf7ce44f19a12247b
+	parent = 9fa3cfdd5c82075153000fd9cd23fc6fd300567f
 	method = merge
 	update = auto
 	cmdver = 0.4.0
