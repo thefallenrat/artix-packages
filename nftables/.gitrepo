@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/nftables.git
 	branch = master
-	commit = f564e6eb4d8efd3fcda21237bbcf2c69fe507b6c
-	parent = 1e271fff0747adfc630ca15feec8498d5143a053
+	commit = 2f9507ae127b3162aaf4f7566beb19147ea006fc
+	parent = 01f44fa9cecc9bc1e09577d793d3bd3ec022a6c4
 	method = merge
 	update = auto
 	cmdver = 0.4.0
