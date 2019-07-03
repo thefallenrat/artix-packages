@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libraw.git
 	branch = master
-	commit = 943141a7b6545bfc7779de57274c80f60788be3a
-	parent = 794057e0499c2ae2d90ea97e4d3664c78070562a
+	commit = aba1ff27195e7052c4e7636a07f75810ebc86729
+	parent = a42ba2df8893c2d6dd58cb6a0da19e92e431a852
 	method = merge
 	update = auto
 	cmdver = 0.4.0
