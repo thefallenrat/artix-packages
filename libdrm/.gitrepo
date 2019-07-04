@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libdrm.git
 	branch = master
-	commit = 1bf6e361e018bccdd85b5dda82ec086bf9d7f507
-	parent = fc5a323b39ce232a1a6e41c05149ec5181a53196
+	commit = 6a36c48598c2cf8f715ce0d756db59a19544f972
+	parent = e12489664554261cdc17b11e9635f0e7dd72324f
 	method = merge
 	update = auto
 	cmdver = 0.4.0
