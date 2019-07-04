@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/modemmanager.git
 	branch = master
-	commit = db02f074e7927bfc73362c49c239714bd5fd142b
-	parent = ca178af270dfa2bc0afeb5d8295821a3b5c3a2d4
+	commit = 9689b666e133542c04be4b069f9056df0fe27ee4
+	parent = fafe8bc64f10bdec369dad5fe132c4890be93422
 	method = merge
 	update = auto
 	cmdver = 0.4.0
