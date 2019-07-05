@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pyqt5.git
 	branch = master
-	commit = 484c30da069661845d8830d30effeb2e1fa4e595
-	parent = e0135a562a211fce8c90c27a63e4d450dd126487
+	commit = 50e7267912d38537d82f5daaf130183a7b7771a3
+	parent = 091f550b6cea0b565fd1dfbd456bfb26c35008f4
 	method = merge
 	cmdver = 0.4.0
