@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/texlive-bin.git
 	branch = master
-	commit = e0bc8a380b8c85003e4c3ee993bfc384314b9c59
-	parent = 2e7fd02965187755ed26181dec7f98ef309833ad
+	commit = b7be4da500b76776438da68c82ea107c58d2b983
+	parent = 322dc0048fc98113959c3068d9017cfdb676b886
 	method = merge
 	update = auto
 	cmdver = 0.4.0
