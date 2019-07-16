@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/spirv-tools.git
 	branch = master
-	commit = e247bc7044e9b011f962091708a57a723f74782e
-	parent = 71201449f2a4741669f364b4839d6e5e53c3562f
+	commit = bb59015cf95ba009fb2357e13223505dfa0a1918
+	parent = 7b953ee58232823a2144736ecbf5a9abaf0dc00c
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
