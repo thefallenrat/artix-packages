@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/tk.git
 	branch = master
-	commit = 71619c8e8bb98be43e7714145836b1a6710bc0b5
-	parent = 3956fa1575ca20e56a369bd5fcb7c8f5afdfff0f
+	commit = 8a3346ba23c3774480228982417b6ba957b6a10f
+	parent = 8afc24d64d2ba6626288fb36333b940c2b09bad3
 	method = merge
 	update = auto
 	cmdver = 0.4.0
