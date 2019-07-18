@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libyaml.git
 	branch = master
-	commit = 479bf93837fcc24ec9ac69650f61a54f44afd74d
-	parent = 29a1fb2d326de9583299633ec13227a7553d9045
+	commit = d447a7c8c2bc6b26884cb5b19e670cf209e40c01
+	parent = bb0ffd0237c4c023de8ab39be51006de30e9cdb9
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
