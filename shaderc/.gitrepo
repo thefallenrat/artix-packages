@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/shaderc.git
 	branch = master
-	commit = 3c1a33fffb027ee85726c3a81ba1f72c614d90f5
-	parent = a2bd9c57752389ccd7e85b7541350f64489b02c5
+	commit = 66bb682bd59f62805b6fea5eb23e69622694f14e
+	parent = 8b62180b11f3c935b229e8c077657e1c91dd9345
 	method = merge
 	update = auto
 	cmdver = 0.4.0
