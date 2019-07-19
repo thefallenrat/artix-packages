@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libbytesize.git
 	branch = master
-	commit = ae411f0451472f33c85ff2b588779aa7fbec9b6a
-	parent = 9bbc149fb521c1d35aa5fab0a0f57c8bbdc48493
+	commit = 2d50d51bcbcadea9c86db253a12ffb70a5b63029
+	parent = 99a2573a2ce981e4567f0c74f6374af728afa457
 	method = merge
 	update = auto
 	cmdver = 0.4.0
