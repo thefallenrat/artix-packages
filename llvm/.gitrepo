@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/llvm.git
 	branch = master
-	commit = f30fb95a60799f1c9d50080b67a28c83b0636022
-	parent = 32efe7b8ca0da1c48cb5bfe4e4771fcf97630d22
+	commit = e8d30a6c80d896b4ebd6584f3165230bbfa4b895
+	parent = 7a489ba25edacea08815645e1a5d04d15e88a875
 	method = merge
 	update = auto
 	cmdver = 0.4.0
