@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/phonon.git
 	branch = master
-	commit = 9e9c951109ddd0ae85cb390da4000cd6abc78483
-	parent = c40afededae5f8b42d5eae4bd9dd4ad9614df623
+	commit = aa3e08ca482922fdf38328b6b21743c11887d9ce
+	parent = 9a487c5b2139c40356e0396a32e5a5032fccac7e
 	method = merge
 	update = auto
 	cmdver = 0.4.0
