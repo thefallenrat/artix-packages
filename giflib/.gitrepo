@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/giflib.git
 	branch = master
-	commit = a1ad8d539c507584d020ad219c6b40ea80aa27e6
-	parent = 4ac28951bf55ca867a6b0bbb36373c33a0a1d83b
+	commit = c3e955b222edd67e97db0b315fa22b4c5e1f4035
+	parent = dee93d2207fe58e773dda156fbc616877365f11c
 	method = merge
 	update = auto
 	cmdver = 0.4.0
