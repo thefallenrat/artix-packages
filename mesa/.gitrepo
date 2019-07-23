@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/mesa.git
 	branch = master
-	commit = 5b4fb5043158a9d7a1713975e20a1653acabcba4
-	parent = 3fe32f1fa60e490d29a35b2540ca39a4a7a333c4
+	commit = bfd2b705ae1d8838c6af03803a2c645885c78804
+	parent = 708c74c7724f42e74742b5cb7752eb67faff43a2
 	method = merge
 	update = auto
 	cmdver = 0.4.0
