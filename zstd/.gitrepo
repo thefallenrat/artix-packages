@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesZ/zstd.git
 	branch = master
-	commit = 0d035c64377ffb2c38d1321347a673e015993c44
-	parent = 22871c85e0bd713f2b0d750db957644021036752
+	commit = c1bae62c59ed6f93ccbdafa57fcfdbfd93e4cb7b
+	parent = 2cd60d8b80f4983bfda3275b7da4ae7adba7c4bb
 	method = merge
 	update = auto
 	cmdver = 0.4.0
