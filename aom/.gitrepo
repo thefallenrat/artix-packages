@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesA/aom.git
 	branch = master
-	commit = 549b1e8cc04af9cbf702f1f2f52a33235c292d17
-	parent = 09d408590d9995b740cc167b851d3afae08f5e8d
+	commit = a4557586c578bd3acb4665f4e5a26e616248127a
+	parent = 0954a824ffcebfa4b3b7021f3fdbf8a970027a05
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
