@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/glu.git
 	branch = master
-	commit = 357b96abfa7c16693435cfa7e4c54789cd621149
-	parent = ee1dad3549c991976d7221bb2753d7625186bdbd
+	commit = bcce1f141ce2d59849e40baa164db3c009a81f17
+	parent = 1f7f98a28d76ada03c5c1d6eb07bf0ca238b2e62
 	method = merge
 	update = auto
 	cmdver = 0.4.0
