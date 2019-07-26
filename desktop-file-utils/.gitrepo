@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesD/desktop-file-utils.git
 	branch = master
-	commit = 85188b3d873582b737c86691c0c686887e35e33c
-	parent = f9d2082fef963013f06b82209b84ecf16ebdd4ff
+	commit = abdaf365c0606d46857416ed5ddc74407868703e
+	parent = 34dffd99eb94c68891e12ef8dd1dee2d2a7438b1
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
