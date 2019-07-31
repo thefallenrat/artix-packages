@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/ldns.git
 	branch = master
-	commit = bfaabf86e6a6392588e9ecee85b86875f608f3f9
-	parent = bdb4e945825316a69d33b5214309f9fc658c4cab
+	commit = a0f7667d6807016d222e2ac86f6fdd1717174bda
+	parent = 791f7aad56d5cc305f783836731655357cafd1ac
 	method = merge
 	update = auto
 	cmdver = 0.4.0
