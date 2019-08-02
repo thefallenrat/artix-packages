@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/subversion.git
 	branch = master
-	commit = b11a3b2160e5dfc85c8b1c52a0792c8043820473
-	parent = fa6881f4ccdc547a37b99b85748407cdb94d5526
+	commit = 49e1109cec8b227665ee6c9bbc6d0600793c2fc0
+	parent = c2cd2dea3853afae3bec07c2e4411ae372bfb717
 	method = merge
 	update = auto
 	cmdver = 0.4.0
