@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/cairo.git
 	branch = master
-	commit = 1a50f5bd359490c37911dce171578e474ffcb4eb
-	parent = 53dd7c043432510f11da7a2d0553c71b86fa15a8
+	commit = 58adba1f8d5f45467f0691cc40cf70e95a5a45fe
+	parent = 8809a8d53eba01375ec7ad1621b443e42d6c882c
 	method = merge
 	update = auto
 	cmdver = 0.4.0
