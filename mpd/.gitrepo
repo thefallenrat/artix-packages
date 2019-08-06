@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/mpd.git
 	branch = master
-	commit = 8f5265b072be180bdcce658dc64c62af4fd4c988
-	parent = 98574c79e17050fe4234694224166e30f9858f8a
+	commit = 4fa5caac7055ec351de22011518a501812f3430f
+	parent = 83b4a5172f0c7d58b16a5da4814d74c7304ac073
 	method = merge
 	update = auto
 	cmdver = 0.4.0
