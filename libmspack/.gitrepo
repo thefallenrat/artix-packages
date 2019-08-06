@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libmspack.git
 	branch = master
-	commit = 3f97620c4c8cecd3b6a6e0bc4648d4d88f812c07
-	parent = 5345c22c2c6143cf55ab3ffcc36f57eb37f70a6d
+	commit = f64102139d3727ec7bcfce7bd4e68060ba2b95b7
+	parent = 4d59266375aeebf89b24e090db6dbabc7f7de1f4
 	method = merge
 	update = auto
 	cmdver = 0.4.0
