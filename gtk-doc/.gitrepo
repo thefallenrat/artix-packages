@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gtk-doc.git
 	branch = master
-	commit = 5706d5c7c16dfecfba9ce069f848c22486f2b1c1
-	parent = 729179f4572bd008b6fdf6600d417f7029c0969a
+	commit = 30128d76116b4562b57911c19b2028ee7ea4a891
+	parent = 5b88b21a3674851315580b735165dd30567e28c4
 	method = merge
 	update = auto
 	cmdver = 0.4.0
