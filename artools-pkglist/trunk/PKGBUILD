@@ -1,0 +1,28 @@
+# Maintainer: artoo <artoo@artixlinux.org>
+
+pkgbase=pkglists
+pkgname=(artools-pkglist)
+pkgver=r5.120ce9b
+pkgrel=1
+arch=('any')
+pkgdesc='Development package lists for Artix (packaging tools)'
+license=('GPL')
+provides=("pkglist=$pkgver")
+depends=('artools-base')
+url='https://gitea.artixlinux.org/artixlinux/pkglists'
+makedepends=('git')
+source=("git+$url.git")
+sha256sums=('SKIP')
+
+pkgver() {
+    cd ${pkgbase}
+#     git describe --long | sed 's/\([^-]*-g\)/r\1/;s/-/./g'
+#     git describe --long --tags | sed 's/\([^-]*-g\)/r\1/;s/-/./g'
+#     git describe --long 2>/dev/null | sed 's/\([^-]*-g\)/r\1/;s/-/./g' ||
+    printf "r%s.%s" "$(git rev-list --count HEAD)" "$(git rev-parse --short HEAD)"
+}
+
+package_artools-pkglist() {
+    cd ${pkgbase}
+    make DESTDIR=${pkgdir} install
+}
