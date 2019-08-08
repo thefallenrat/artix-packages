@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pulseaudio.git
 	branch = master
-	commit = abdfe1b6b071ef9745606fdc7bb827da80e915d9
-	parent = de0d06f6935e227c61d80cec175ff98122af8b4f
+	commit = c16997833a31e0fdb7832d8d55b5052a09a45bfd
+	parent = 6cdcdcc0168f8bc4df55ed3c226549ea332ef65e
 	method = merge
 	update = auto
 	cmdver = 0.4.0
