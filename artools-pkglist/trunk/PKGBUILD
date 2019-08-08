@@ -1,8 +1,9 @@
 # Maintainer: artoo <artoo@artixlinux.org>
 
-pkgbase=pkglists
-pkgname=(artools-pkglist)
-pkgver=r5.120ce9b
+_repo=pkglists
+
+pkgname=artools-pkglist
+pkgver=r8.32eb066
 pkgrel=1
 arch=('any')
 pkgdesc='Development package lists for Artix (packaging tools)'
@@ -11,11 +12,12 @@ provides=("pkglist=$pkgver")
 depends=('artools-base')
 url='https://gitea.artixlinux.org/artixlinux/pkglists'
 makedepends=('git')
-source=("git+$url.git")
+_commit=32eb066eeb4f406211ebc2cbb15c1bd39b04e0ed
+source=("git+${url}.git#commit=${_commit}")
 sha256sums=('SKIP')
 
 pkgver() {
-    cd ${pkgbase}
+    cd ${_repo}
 #     git describe --long | sed 's/\([^-]*-g\)/r\1/;s/-/./g'
 #     git describe --long --tags | sed 's/\([^-]*-g\)/r\1/;s/-/./g'
 #     git describe --long 2>/dev/null | sed 's/\([^-]*-g\)/r\1/;s/-/./g' ||
@@ -23,6 +25,6 @@ pkgver() {
 }
 
 package_artools-pkglist() {
-    cd ${pkgbase}
+    cd ${_repo}
     make DESTDIR=${pkgdir} install
 }
