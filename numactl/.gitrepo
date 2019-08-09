@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/numactl.git
 	branch = master
-	commit = b2ee72e1a1bb78fdde8fff2b55061250f1ee3309
-	parent = 95135c15bee7e5f178d4f07d4cdeb22ca296fc92
+	commit = 8d4fd44c13663dbf74b702a7941f3ec9fc12540e
+	parent = 425365daebca7e4d33987a59bc5f91c8b367793d
 	method = merge
 	update = auto
 	cmdver = 0.4.0
