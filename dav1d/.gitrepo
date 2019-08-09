@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesD/dav1d.git
 	branch = master
-	commit = 027df500089616a870272332e14afeac73237ebb
-	parent = 6acd4d02a5078d071593870357f54b536496ea8e
+	commit = bbb9743e4df9e6573c36c40693f77533ee75e5ea
+	parent = 81966986eca65968a33fc8f5856eac9111c84043
 	method = merge
 	cmdver = 0.4.0
