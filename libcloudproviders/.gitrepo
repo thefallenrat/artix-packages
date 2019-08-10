@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libcloudproviders.git
 	branch = master
-	commit = 8773eadd8a7c05fa0660d6335934e6d0305550a6
-	parent = 98c3b23f890bab94e20a3ea4e4fb599d5b12a6db
+	commit = 68980a3d8b63be9857ddd8a80dfd6661b35d3048
+	parent = 7cb7422b778cba033e2fcc42565bf8bb86a3fda8
 	method = merge
 	update = auto
 	cmdver = 0.4.0
