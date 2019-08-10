@@ -1,2 +1,0 @@
-# libdbusmenu-qt
-
