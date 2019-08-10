@@ -1,2 +1,0 @@
-# webrtc-audio-processing
-

@@ -1,2 +1,0 @@
-# ffnvcodec-headers
-

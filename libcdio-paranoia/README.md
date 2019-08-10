@@ -1,2 +1,0 @@
-# libcdio-paranoia
-

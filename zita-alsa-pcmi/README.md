@@ -1,2 +1,0 @@
-# zita-alsa-pcmi
-

@@ -1,2 +1,0 @@
-# opencore-amr
-
