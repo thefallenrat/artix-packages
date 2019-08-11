@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesB/bison.git
 	branch = master
-	commit = 3a10de85e430e0ea450b1a8b3da7d418e80e34ab
-	parent = 5b86dd018046550090c8da6ec589de7f12dea3da
+	commit = c28392f7e5629007dca4f8d6a6722217936cad84
+	parent = 5a37e16ae5ec860c7d91d15318195e89a7a68c6d
 	method = merge
 	update = auto
 	cmdver = 0.4.0
