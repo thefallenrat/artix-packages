@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/prometheus.git
 	branch = master
-	commit = a83b6bc3602aac151ac74ff88e093a72ef003634
-	parent = 3151097dbfc8c3a33c5be5c14da38c4a950a7194
+	commit = a2e3becb01d6748b13a02d20342a3556eebaf72a
+	parent = 3eb86d0123e5b3c52aa1108b3e7b2f12f86e9dc9
 	method = merge
 	cmdver = 0.4.0
