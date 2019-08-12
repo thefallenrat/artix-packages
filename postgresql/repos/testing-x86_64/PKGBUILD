@@ -5,13 +5,14 @@ pkgbase=postgresql
 pkgname=('postgresql-libs' 'postgresql-docs' 'postgresql')
 pkgver=11.5
 _majorver=${pkgver%.*}
-pkgrel=3
+pkgrel=3.1
 pkgdesc='Sophisticated object-relational DBMS'
 url='https://www.postgresql.org/'
 arch=('x86_64')
 license=('custom:PostgreSQL')
 makedepends=('krb5' 'libxml2' 'python' 'python2' 'perl' 'tcl>=8.6.0' 'openssl>=1.0.0'
              'pam' 'zlib' 'icu' 'eudev' 'libldap' 'llvm' 'clang')
+checkdepends=('tzdata')
 source=(https://ftp.postgresql.org/pub/source/v${pkgver}/postgresql-${pkgver}.tar.bz2
         postgresql-run-socket.patch
         postgresql-perl-rpath.patch
@@ -99,7 +100,20 @@ _postgres_check() {
 check() {
   cd postgresql-${pkgver}
   _postgres_check check
-  _postgres_check check-world || :
+  
+  # Set up timezone before running below check
+  # to prevent failed clock scan command
+  ## https://wiki.tcl-lang.org/page/clock+scan
+  ## Section: Removing /etc/localtime
+  # At least until artoo set up timezone in buildserver
+  # I already tested in clean chroot, but not through makepkg
+
+  ln -sf /usr/share/zoneinfo/UTC /etc/localtime
+
+  _postgres_check check-world
+
+  rm /etc/localtime
+
 }
 
 package_postgresql-libs() {
