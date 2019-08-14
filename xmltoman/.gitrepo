@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xmltoman.git
 	branch = master
-	commit = 83bfe2d9fa4f87cf3eda3ba3a05515939512f1bd
-	parent = c2f7b202ab19904c08669e69a08a81857f7df71b
+	commit = 2a8f5228667c7cb68f0769654aad5330768031ff
+	parent = ad55b10d3824efcfa8e2753444d268a411ee87ab
 	method = merge
 	cmdver = 0.4.0
