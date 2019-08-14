@@ -4,7 +4,7 @@
 pkgbase=opensysusers
 pkgname=(opensysusers opensysusers-openrc opensysusers-docs)
 pkgver=0.5
-pkgrel=6
+pkgrel=7
 pkgdesc="A standalone utility for handling systemd-style sysusers.d users and groups"
 arch=('any')
 url="https://gitea.artixlinux.org/artix/opensysusers"
@@ -16,7 +16,7 @@ source=("${pkgbase}-${pkgver}.tar.gz::https://gitea.artixlinux.org/artix/opensys
 		fix-arg-length.patch::https://gitea.artixlinux.org/artix/opensysusers/commit/8ad79b763c19df9e1fc96098e7e7d398df436492.patch
 		fix-arg.patch::https://gitea.artixlinux.org/artix/opensysusers/commit/71b089f066304cb31946eb171754fa14c750c1af.patch)
 sha256sums=('c9c012063e073d5589a83aa5d144010fa5214aa3b7340837f8138c8181e60dfe'
-            'f6ae7c3cfc5e21b8a4c950de5ef314f38b4ec9b3527bd35278afb5d823564849'
+            '8085d3f8e7b2030cef5e0f50622121ea161a2d9d087664f0a11d36f275b24970'
             '4222b2496d8bb1ac9c07707e4ef1b334b8b59eb15451ea8ba0fd6e4c93e50c56'
             '20d60b9c3baa827602a8658fc55eb5c723ebcbd6f0c68ad2fe09134dc887d622'
             'bc27ea36428272da849ebb7dfcec2b498666df48175b2896f11cec43a1a0d9b6')
@@ -24,7 +24,7 @@ sha256sums=('c9c012063e073d5589a83aa5d144010fa5214aa3b7340837f8138c8181e60dfe'
 prepare(){
     cd "${pkgbase}"
     patch -Np 1 -i $srcdir/fix-arg-length.patch
-    patch -Np 1 -i $srcdir/fix-arg.patch
+    #patch -Np 1 -i $srcdir/fix-arg.patch
 }
 
 build(){
