@@ -8,3 +8,4 @@ Target = usr/lib/tmpfiles.d/*.conf
 Description = Creating temporary files...
 When = PostTransaction
 Exec = /usr/share/libalpm/scripts/tmpfiles-hook tmpfiles
+NeedsTargets

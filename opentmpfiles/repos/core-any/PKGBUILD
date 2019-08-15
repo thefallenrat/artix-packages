@@ -3,7 +3,7 @@
 pkgbase=opentmpfiles
 pkgname=(opentmpfiles opentmpfiles-openrc)
 pkgver=0.2
-pkgrel=3
+pkgrel=4
 pkgdesc="A standalone utility for handling systemd-style tmpfiles.d settings"
 arch=('any')
 url="https://github.com/OpenRC/opentmpfiles"
@@ -12,7 +12,7 @@ source=("${pkgname}-${pkgver}.tar.gz::${url}/archive/${pkgver}.tar.gz"
         'opentmpfiles.hook'
         'tmpfiles-hook')
 sha256sums=('4fa6a78600b1d67d34c441919e5e62ad181af358d9353ce380f515d623177ecb'
-            '86f8ef7416579153b03b8199d8e9d728fb35846b050dacd1d95e48d250ea651f'
+            '23c73b3cc20ec38e0a5166f254293c911d20ae3efec8e133f424c1a1d0703fb8'
             'adbee03530006e8284ea44c5dd7eb99f6cc6c4e383c09fec36d7a22f7d486fc5')
 
 package_opentmpfiles() {
