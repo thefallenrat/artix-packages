@@ -1,2 +1,0 @@
-# cantarell-fonts
-
