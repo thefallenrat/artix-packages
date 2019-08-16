@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/ocaml-ctypes.git
 	branch = master
-	commit = 7842a4aafa16c6fe37d1cbebb1e0a4b2776bb3d4
-	parent = c7fd595a99103e3e3136bc8c0b2bdf615822f329
+	commit = 4b22247c29be5c5fb7151e7d6c7e75a26a06c101
+	parent = 81d949841b9fb136afbb9430ac57a8e074bb4dfc
 	method = merge
 	update = auto
 	cmdver = 0.4.0
