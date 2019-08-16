@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libgssglue.git
 	branch = master
-	commit = 209f674f0cfdf68c03d5bcab57bcf05ceb027ba8
-	parent = 11449d8916a3bd7a62e6cc2fdf1b4b0b18911a1e
+	commit = f80cc46bb00d1f3754436d9228c7e29c0289eb76
+	parent = e75bfe69af53827aad6be16e8261a26fe0a3ff33
 	method = merge
 	update = auto
 	cmdver = 0.4.0
