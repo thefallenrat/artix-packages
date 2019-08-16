@@ -7,7 +7,7 @@ _udev_ver=228
 pkgbase=eudev
 pkgname=('eudev' 'libeudev')
 pkgver=3.2.8
-pkgrel=1
+pkgrel=2
 pkgdesc="The userspace dev tools (udev) forked by Gentoo"
 arch=('x86_64')
 url="http://www.gentoo.org/proj/en/eudev/"
@@ -66,9 +66,9 @@ package_eudev() {
 
     make DESTDIR="${pkgdir}" install
 
-    rm -rv "$pkgdir"/usr/lib/pkgconfig
-    rm -v "$pkgdir"/usr/include/libudev.h
-    rm -v "$pkgdir"/usr/lib/libudev*.{so*,a}
+    install -dm755 ${srcdir}/_libeudev
+
+    mv -v ${pkgdir}/usr/lib/libudev*.so* ${srcdir}/_libeudev
 
     install -Dm644 "${srcdir}/initcpio_hooks" "${pkgdir}/usr/lib/initcpio/hooks/udev"
     install -Dm644 "${srcdir}/initcpio_install" "${pkgdir}/usr/lib/initcpio/install/udev"
@@ -83,6 +83,6 @@ package_libeudev() {
     depends=('glibc' 'libelf')
     provides=("libudev=${_udev_ver}" 'libudev.so')
 
-    cd "${srcdir}/${pkgbase}-${pkgver}"
-    make -C src/libudev DESTDIR="$pkgdir" install
+    install -dm755 ${pkgdir}/usr/lib
+    mv -v ${srcdir}/_libeudev/libudev*.so* ${pkgdir}/usr/lib
 }
