@@ -1,2 +1,0 @@
-# egl-wayland
-
