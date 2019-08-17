@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libxklavier.git
 	branch = master
-	commit = 714d648eab3d88668dece5bdf721259e294bdd9e
-	parent = 9adbd3e9390adc2aa1bd13ba958bd685f0bae1af
+	commit = 49eade1400d37595d6be4cc5476ac035a07cd4de
+	parent = 4ac6b2c97ccf66abf867d821e1a9c62395527b01
 	method = merge
 	cmdver = 0.4.0
