@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesA/archlinux-mirrorlist.git
 	branch = master
-	commit = ce578257c228d91475d408689598c2aa9f22809c
-	parent = 16bf7ed5d941f62faf3ae81233c544782d0ca7ac
+	commit = 7d2f46c4be361fcf8ba53fea799802665f1c6e56
+	parent = de4cd6d00c3aeb8b9272acc3fb47f0a8d4ba81f0
 	method = merge
 	update = auto
 	cmdver = 0.4.0
