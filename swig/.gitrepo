@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/swig.git
 	branch = master
-	commit = 0b941985e93bddeabd0cf5213cda1d988c94ccf9
-	parent = 94846e0aab5130aa73f536b0bd6ad3c00a3ad5c2
+	commit = 7aa0c2768b565fbba42997e04c45ffe7eade1ae0
+	parent = 5b7b4ff58cee0aa39e4b2b75b420fc8a22cbbcce
 	method = merge
 	update = auto
 	cmdver = 0.4.0
