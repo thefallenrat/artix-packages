@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesH/harfbuzz.git
 	branch = master
-	commit = f4ff3daeea5b3afeb89454207e99e6403e1bd260
-	parent = 4d604c1d5916dec2b1bf3bad8231fe96b15c1de0
+	commit = f842a1ea6e2cbe1269578ec0107af579e7e55520
+	parent = d07d35d5305a0eb8a9b84d454022791077e734ef
 	method = merge
 	update = auto
 	cmdver = 0.4.0
