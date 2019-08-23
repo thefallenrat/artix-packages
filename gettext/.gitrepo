@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gettext.git
 	branch = master
-	commit = 3525e20a7717c91e9485cfc98eed318a5fa02690
-	parent = d2ee1e9d50a4a5954a676a3da24be8a2928c2ebd
+	commit = 97647b6837e826a7791030eea85f8f87de039a5a
+	parent = 824e133f1da1e1a2140f067c6ffd83882c8caeb1
 	method = merge
 	update = auto
 	cmdver = 0.4.0
