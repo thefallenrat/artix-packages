@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libnghttp2.git
 	branch = master
-	commit = 633948d99df130b28b864ab0105a835e991fea02
-	parent = eae9194f0f098cd91b8929e5ca1ac793ce4895a5
+	commit = 71db6bb096d09fc2632b58c52b83b2e281485f75
+	parent = d4a4860441656dd8b137238dd9bddfb4a7f6d9f0
 	method = merge
 	update = auto
 	cmdver = 0.4.0
