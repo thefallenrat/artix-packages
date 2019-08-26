@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/sane.git
 	branch = master
-	commit = 109b76308f9091c8096020b37cfdf9f76ac5db4d
-	parent = 4021d1dc714b8eb8ddee8b8c39d9977fcc58713b
+	commit = d6b426cfeed9b52fdfc1ee7313d9a33b49e4d304
+	parent = 6aa75c7de8288a468778a29edfe7ac4d3b32eabb
 	method = merge
 	update = auto
 	cmdver = 0.4.0
