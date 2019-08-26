@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesU/usbutils.git
 	branch = master
-	commit = a4cfd4346d52c513f582be484de15a7dc8c7c48b
-	parent = ab4151f2320b65db405e2155bc95603b9631dfc7
+	commit = 67b7ac069d5c92826682f7b75de8f642ee4d028d
+	parent = 3e906396261d448b8716f4685c92018e23e85714
 	method = merge
 	update = auto
 	cmdver = 0.4.0
