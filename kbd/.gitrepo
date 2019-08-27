@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesK/kbd.git
 	branch = master
-	commit = 52352ad18a6fbd0566c87cfe3c160e32f57ca948
-	parent = a6f19ca1aae288af03c04bfb4b57e144aaa82dbf
+	commit = 644c899a2983d51b7c350dea3aaabe8c19389853
+	parent = 4828ba1e0ce6610d7ab6e9ff05027fa24a888e25
 	method = merge
 	update = auto
 	cmdver = 0.4.0
