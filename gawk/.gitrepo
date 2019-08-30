@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gawk.git
 	branch = master
-	commit = a961154c5737d60483cdc99c17937a3bdd33d51e
-	parent = 83cd90216e0f2d86a15e8aeeea918791b6ebb89d
+	commit = df349c532cdcf957042cde8c97b56590a0807ace
+	parent = 64759b6d22b3fd77f011a70fa2e4ad4339f32b34
 	method = merge
 	update = auto
 	cmdver = 0.4.0
