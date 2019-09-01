@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesE/elfutils.git
 	branch = master
-	commit = 9524df6dd07657f725834d2b585ed6bb8c5e9e69
-	parent = bc8692663361b8b463a80734ac467735f7ca0e60
+	commit = 4fe31e98eba28804e6625f42c0b1168fc272bb70
+	parent = 602e2f397afd397e443f0cb1eb0e670e38a6070a
 	method = merge
 	update = auto
 	cmdver = 0.4.0
