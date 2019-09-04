@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesR/rrdtool.git
 	branch = master
-	commit = 306ed185185c946abb80c4c5282988c936508b3e
-	parent = a2585932808c387e63eb217fef6c233d0c418dd1
+	commit = 0ffc4a20b511be48ce6c564e97628f85d83f5762
+	parent = 7bc4bf129c4fdbaf6aeb8e61cc47cf7ce9f60a5c
 	method = merge
 	update = auto
 	cmdver = 0.4.0
