@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/lz4.git
 	branch = master
-	commit = 38793b04032a9844382470eb09508f01bf2c7a2b
-	parent = bf01057478314ff89d2f9a41b02b6d7d5a7fa79d
+	commit = 8868f0b238af29c95e965d1a722ed12ecfc9326d
+	parent = f6010267440edca40db53a356a292539544c153c
 	method = merge
 	update = auto
 	cmdver = 0.4.0
