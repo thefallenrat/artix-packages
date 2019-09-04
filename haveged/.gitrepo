@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesH/haveged.git
 	branch = master
-	commit = 0c253a8bf1be722cf0a28a54ce3725c44a3185e6
+	commit = f358b9e4119184279654eca316aded7ff41be30b
 	parent = 2db4447a26dc3bfbb41d38924246cda03f7a5ecb
 	method = merge
 	update = auto
