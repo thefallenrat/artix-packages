@@ -7,7 +7,7 @@ _udev_ver=228
 pkgbase=eudev
 pkgname=('eudev' 'libeudev')
 pkgver=3.2.8
-pkgrel=2
+pkgrel=3
 pkgdesc="The userspace dev tools (udev) forked by Gentoo"
 arch=('x86_64')
 url="http://www.gentoo.org/proj/en/eudev/"
@@ -17,8 +17,8 @@ options=('!libtool')
 source=("$pkgname-$pkgver.tar.gz::https://github.com/gentoo/eudev/archive/v${pkgver}.tar.gz"
         'initcpio_hooks'
         'initcpio_install'
-        'udev-hwdb.hook'
-        'udev-reload.hook'
+        '30-udev-hwdb.hook'
+        '30-udev-reload.hook'
         'udev-hook'
         'udev-hwdb-path.patch'
         'udev-default-rules.patch')
