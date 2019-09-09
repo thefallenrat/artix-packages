@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesH/hspell.git
 	branch = master
-	commit = 12b836253db58199aad70be936a988d6d0fa55ea
-	parent = fc4bdd341f4b45ae36247449c6e38d0d14fb8572
+	commit = 5f911c4ee2518cd306c3cf381e96508fe64230fc
+	parent = f51805c87b8532ca63ed49ad7425da40a01abd99
 	method = merge
 	update = auto
 	cmdver = 0.4.0
