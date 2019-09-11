@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libuv.git
 	branch = master
-	commit = 46f5e1914a0bf9bac8c2dc9fce4f3ad2ca49b55d
-	parent = 6529652e15064b13db3e07a82e1ad31114d890da
+	commit = 3e0e2ef85f8d7ef8a38390688538746c3e324a04
+	parent = 8efd536bc8992eb9e51f35422db48a49db89bf75
 	method = merge
 	update = auto
 	cmdver = 0.4.0
