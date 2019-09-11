@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/snowball.git
 	branch = master
-	commit = 11136e65c1d83bb006374178dd24f58de00f5646
-	parent = 18685ea2a0d8380eafc85fcdd0b4a7dcd7e79287
+	commit = 96c48a0213a5997449211f2c2e96a62b77c286cb
+	parent = 5bc883d93e39ffb93ffabc9a7fd4b85efee25111
 	method = merge
 	update = auto
 	cmdver = 0.4.0
