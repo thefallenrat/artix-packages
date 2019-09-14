@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesF/fontforge.git
 	branch = master
-	commit = d4b5af5e5cf03d422c4d56a10f04f3e468e28274
-	parent = b7ae259c072f6fc55b79183754f7c8fb0cedb302
+	commit = 91614b828fc1f6e90aaddc4b7e834e25ea24ed3d
+	parent = 893118083b2f960015ed2d1fe827609508f766bf
 	method = merge
 	cmdver = 0.4.0
