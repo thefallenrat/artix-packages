@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesJ/java-hamcrest.git
+	branch = master
+	commit = 900a3087af79557f997ea34336c98483ab5db992
+	parent = 49ecd3863dd2da386d7fc7c96a6d227bb26d1284
+	method = merge
+	cmdver = 0.4.0
