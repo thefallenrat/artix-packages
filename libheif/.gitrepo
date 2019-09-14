@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesL/libheif.git
+	branch = master
+	commit = 0cc74636d1a06a841f83f9be2e9bb9a42d8a7ab8
+	parent = 67658ce3f89a7ecd33f2845673cfac571f376da4
+	method = merge
+	cmdver = 0.4.0
