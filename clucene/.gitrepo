@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesC/clucene.git
+	branch = master
+	commit = 0339d581d7ea1e4ecd0a01442f58318ed089deb6
+	parent = 0c2c057f0fc9e6f80dccce4a761e59d58d5e9ee1
+	method = merge
+	cmdver = 0.4.0
