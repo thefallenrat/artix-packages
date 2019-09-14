@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesW/w3m.git
 	branch = master
-	commit = 1bbf299b46b28e5686e584f6e8659ae46a569c7c
-	parent = 3f3573eea21822cd54d079bcf95981185b115e5f
+	commit = 312ebb769a8eb59770d86cbf34b1524f4c407fb8
+	parent = 33163f5e0af0c967966335556af69de039475788
 	method = merge
 	cmdver = 0.4.0
