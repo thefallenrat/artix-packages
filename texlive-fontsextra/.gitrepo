@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/texlive-fontsextra.git
 	branch = master
-	commit = b04ff1b186ebcd97442fa8b48a008fd1f49fe154
-	parent = 267d0ef7ebf75a6d619a200dfdac50f7c4724dfd
+	commit = 22c7c87374955e6f124a4330521ab2bf971fae91
+	parent = 27d18282eed75ca4263a0b62b4bb183f348a3740
 	method = merge
 	cmdver = 0.4.0
