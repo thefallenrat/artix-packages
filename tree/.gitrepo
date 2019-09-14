@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/tree.git
 	branch = master
-	commit = c6eb94a24089d86c1d262e15da4995326e497096
-	parent = 293779feaccf5d6b11ee46c8cad19a0b3300885f
+	commit = c6da125f71ea0acb010a3a552ed21c5fe2363ed8
+	parent = 8c4dd1c80410a419c6391c2032d920b9f67d8f05
 	method = merge
 	cmdver = 0.4.0
