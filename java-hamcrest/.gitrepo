@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesJ/java-hamcrest.git
 	branch = master
-	commit = 900a3087af79557f997ea34336c98483ab5db992
-	parent = 49ecd3863dd2da386d7fc7c96a6d227bb26d1284
+	commit = 606ebb81daffaeecd62de3a329fe37b4a2fdfb7f
+	parent = cb48c7fdbb4b6dcf7fdb3223dfd4064c4d6f5e0f
 	method = merge
 	cmdver = 0.4.0
