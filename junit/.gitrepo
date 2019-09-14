@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesJ/junit.git
 	branch = master
-	commit = 394e4d21e2247359c56e87483ecae3866dad6a82
-	parent = c5f65d577014571dbcadedf1370cf5950ac83dbd
+	commit = 417c68d8bc5f63376210f352e0e1b3bb650f49a2
+	parent = 14ba4371373f48f55a82211555fbc135586372af
 	method = merge
 	cmdver = 0.4.0
