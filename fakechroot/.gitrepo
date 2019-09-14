@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesF/fakechroot.git
 	branch = master
-	commit = 7b6737f825c9fcc89b673ae43634ee8b28889c01
-	parent = 1915bb3a008c8259a24bf1920cdff2e76feb6468
+	commit = 09a4a2d50cd47ec01a481d2e61befc0d3fcaee85
+	parent = 2407fced401a6f1c83917c28a7c4434cd3f1ca6a
 	method = merge
 	cmdver = 0.4.0
