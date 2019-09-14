@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesS/sharutils.git
+	branch = master
+	commit = 7566635b70554b51b2298a29d88cabc8877792f9
+	parent = 05e9d247582444053f1e7c3a0dc75bcb679e1dc9
+	method = merge
+	cmdver = 0.4.0
