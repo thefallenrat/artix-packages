@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesR/recode.git
 	branch = master
-	commit = 577d6eb9497ee1630c939f7339886d0c1a40cec8
-	parent = cfed11833c4952a6e0a0ffcc04ba1ee50aebc615
+	commit = 65a2e9a7436c15ccd55d8fb98347911a12287c92
+	parent = ab999dbbb7b1d976714ade09bfe42e101226359c
 	method = merge
 	cmdver = 0.4.0
