@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libheif.git
 	branch = master
-	commit = 8a97a42b231861c3bc1056ee49615052cbfb568d
-	parent = b013f8f30343dd436034280737316580845c71f2
+	commit = 610768d754e90963f9f530b5b54f3ec02a6c83ce
+	parent = 6188d9e8080ecd4376840455f6087cec183af55b
 	method = merge
 	cmdver = 0.4.0
