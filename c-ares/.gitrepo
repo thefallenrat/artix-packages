@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/c-ares.git
 	branch = master
-	commit = ec217273be337cb4bbd3ccc2c01d4562f97decf9
-	parent = 7240efbc10102d5d472ec75cc6e7bd4a79a7ec10
+	commit = f5660f9157b171ba956f634601e5a6ccead94e0a
+	parent = c2d9d1af424dc3638ceac2c893b8c039171e2571
 	method = merge
 	cmdver = 0.4.0
