@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesI/imagemagick6.git
+	branch = master
+	commit = cadcea8aa8e59740d4618b0bd3835de5fc3c9ecb
+	parent = c03675980f690f0b171c48ba17b7bf022663c306
+	method = merge
+	cmdver = 0.4.0
