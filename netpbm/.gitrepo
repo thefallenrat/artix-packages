@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/netpbm.git
 	branch = master
-	commit = 17b13fa26a77f77713b55834391e4603fb7b6137
-	parent = 6ba68d4e82f031b49fbee4443ae4c2d41061e0e2
+	commit = 842e8e76b84644287b2e09247585c0b4d8c90e98
+	parent = 3a7eea6dd57cab2b9bba0b4ee1ee1b6cf5026715
 	method = merge
 	cmdver = 0.4.0
