@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesL/libuninameslist.git
+	branch = master
+	commit = 754142d25009fd54335174a0d3289b16a6f31a7d
+	parent = 709bfb315d242dcc32339be94310025adfd38cc4
+	method = merge
+	cmdver = 0.4.0
