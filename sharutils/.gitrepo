@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/sharutils.git
 	branch = master
-	commit = 7d5096ee5a75b9832599e56ddde75659f1965ad1
-	parent = c58d99f50642651aab6d099159e2faf9f6999771
+	commit = 95cad718e618db1be88e42c2e327714e157d33e4
+	parent = 3d8bfc4a1956dc6a176dca7608c4df173488c976
 	method = merge
 	cmdver = 0.4.0
