@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesS/smartmontools.git
+	branch = master
+	commit = abf260503ad0248f4f53b1f065243c46631f949f
+	parent = 5a7561fc53fe09111248bf0dc6a8723fcccad41c
+	method = merge
+	cmdver = 0.4.0
