@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesI/imap.git
 	branch = master
-	commit = f1517d8964c897d968af07f44aea9b9d0d1ca552
-	parent = 01da651214a070bcddf77862ffbc830471b05051
+	commit = 163c69c308345a1f1e6f6c6de129b003c75b7062
+	parent = 54dbb5a12c9d29b5cd16f5fcca1b9f94463352d4
 	method = merge
 	cmdver = 0.4.0
