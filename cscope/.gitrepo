@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/cscope.git
 	branch = master
-	commit = fc9e6e12b14075df19c50f3350a75c942944512d
-	parent = 95b419fa3b3e7a435502fdc9f32ad757e3e20bed
+	commit = d4fdcc3896942062643134a92240697b60c42ebc
+	parent = 8a696239f7be0882d1cdb891b7b166bab5b9d396
 	method = merge
 	cmdver = 0.4.0
