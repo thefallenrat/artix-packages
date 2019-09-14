@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesPerl/perl-test2-suite.git
 	branch = master
-	commit = 22fe6ab51e12a9e97a8d50b6870e1078ded7a5ae
-	parent = 4a2883d90bb2fe4998d6ee159801c8943fc62a7b
+	commit = 8e23ca8036324ad0da7302c1a386e5a085aa51ec
+	parent = 9809126326c38ce09ab735319043a06ff85eb92d
 	method = merge
 	cmdver = 0.4.0
