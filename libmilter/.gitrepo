@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesL/libmilter.git
+	branch = master
+	commit = 9e0ef26b3a8cbb54749e63d249c0f4e83f6367ce
+	parent = b5b451545f2421b7a778b519851be2694cb7bf5d
+	method = merge
+	cmdver = 0.4.0
