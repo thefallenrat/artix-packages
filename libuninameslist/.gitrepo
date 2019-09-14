@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libuninameslist.git
 	branch = master
-	commit = 6df26575a7003a82b476ff63a438c2be1a9f08c2
-	parent = 603453d4fa0c60152fddd570d448fa7866079e3b
+	commit = 189e84cac63ea741117a7d2d651612ed6e5745a4
+	parent = 54fe59fa39139d6d42920c684994504fe1d53f74
 	method = merge
 	cmdver = 0.4.0
