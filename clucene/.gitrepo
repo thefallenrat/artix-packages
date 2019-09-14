@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/clucene.git
 	branch = master
-	commit = 0339d581d7ea1e4ecd0a01442f58318ed089deb6
-	parent = 0c2c057f0fc9e6f80dccce4a761e59d58d5e9ee1
+	commit = 53ffce93f570fb224f2481151891ba306f1d7052
+	parent = 015eea36c9b83f66aa28b28be67fb21987d3dba7
 	method = merge
 	cmdver = 0.4.0
