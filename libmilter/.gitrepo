@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libmilter.git
 	branch = master
-	commit = ffd4fc6486b1f5e04478fdc88780e73d1182e218
-	parent = 2e367a2f091d7b62decb5435ceab53464d63e1a2
+	commit = 6e769fdafa0d9498cdc6ba5e8ae08e2a7a67add0
+	parent = 7890a0e770adbe0e85351a08e7573e3de0085ce4
 	method = merge
 	cmdver = 0.4.0
