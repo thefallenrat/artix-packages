@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libspectre.git
 	branch = master
-	commit = f57dcfe217df92565e6480520774691e03da3648
-	parent = f9bc3e42a364b276e3a88aca052b75b9b0f77d06
+	commit = 2636e107c1869e76055ce85d192448470f61a50c
+	parent = fab5d9877f25fb8f640b9561d141af181ad52a68
 	method = merge
 	cmdver = 0.4.0
