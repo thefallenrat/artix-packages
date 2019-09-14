@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesL/libspectre.git
+	branch = master
+	commit = f57dcfe217df92565e6480520774691e03da3648
+	parent = f9bc3e42a364b276e3a88aca052b75b9b0f77d06
+	method = merge
+	cmdver = 0.4.0
