@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/mono.git
 	branch = master
-	commit = c91461f7358a3d9b09ce0c763538034e49412074
-	parent = d410fee2d5d3e2e713c11143c807796f61505269
+	commit = 830c04d4d757dcc47f37ca17e1b23f40cc7273c6
+	parent = cdc8345bc5674f412bbd3f1de558808ee711c6b9
 	method = merge
 	cmdver = 0.4.0
