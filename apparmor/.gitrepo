@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesA/apparmor.git
+	branch = master
+	commit = b687bd9b5951a7a2ec313d9f61dd9490a8948e39
+	parent = fe0bf48c38f38bdbf31ca08021de04819986f890
+	method = merge
+	cmdver = 0.4.0
