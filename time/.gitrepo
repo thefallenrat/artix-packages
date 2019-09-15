@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/time.git
 	branch = master
-	commit = a0e30a38804ba38bfd036b7216c5873dc622ec99
-	parent = b2e9064b1776a4b9753708d6373328af6423404b
+	commit = 6ab2fc70cae3492e29a377b8d819383ec733e26a
+	parent = 345e50e696f16943c691b67f67ae742d8256a71f
 	method = merge
 	cmdver = 0.4.0
