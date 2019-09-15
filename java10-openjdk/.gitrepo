@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesJ/java10-openjdk.git
 	branch = master
-	commit = 633a0c64821da0fa718e30c868379aea89d1ce8c
-	parent = 9f525b3fccc7940b4e38ce3905cd7110eb0a39c3
+	commit = 2536c51e6e6c5f3f49c1fcee330621f47e3f30d2
+	parent = 544545afda0b445baa5f131b754e42697569fafb
 	method = merge
 	cmdver = 0.4.0
