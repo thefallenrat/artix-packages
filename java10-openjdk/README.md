@@ -1,2 +1,0 @@
-# java10-openjdk
-
