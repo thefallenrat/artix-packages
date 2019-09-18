@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesI/iputils.git
 	branch = master
-	commit = 0192ea4849a269b7534d1a9380fa95667d89d180
-	parent = 5be322cb003f726856ce0dcc8a708be431f2641a
+	commit = 4200b5c57734ae4d57137fad47a51cf4ec1c2c4e
+	parent = 4738bf05d93b9e3c02c78e80f0c381455bdb17d9
 	method = merge
 	update = auto
 	cmdver = 0.4.0
