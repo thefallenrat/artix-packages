@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesI/idnkit.git
 	branch = master
-	commit = e7a42ee1afa65c02ddcc869cb964cef78c75d51a
-	parent = 4ac2dbea00a8d15c48f681c13105389dd74b815b
+	commit = c3043ee1c24d0474d4a7456fde456d234acdaf67
+	parent = fd90909cad3b9d1f510e5eb15a2080fdddbfe5ae
 	method = merge
 	update = auto
 	cmdver = 0.4.0
