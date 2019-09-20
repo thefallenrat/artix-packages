@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/lsof.git
 	branch = master
-	commit = d1f19a021d25fee9a066223739f443d319803dbe
-	parent = 5b5f3b7627af5cbd0a83fbb0aa22bf3b8cd17647
+	commit = f997fcd5a559b5083ab4c94e987294d2743ebd4a
+	parent = eef9a883bc3eefd45952fa2205f246d9bf342042
 	method = merge
 	cmdver = 0.4.0
