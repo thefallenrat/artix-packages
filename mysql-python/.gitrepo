@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/mysql-python.git
 	branch = master
-	commit = 4b8d3918bac55dccf0d898e9caf7b132dce9c344
-	parent = a88a727da8221633b6a3d3fe414bec444f6a4c3e
+	commit = 29746dd3d88ae7773945d25071c4d7796e7d3767
+	parent = be174380014a3c4e59ba14a9030ece7658d4278a
 	method = merge
 	cmdver = 0.4.0
