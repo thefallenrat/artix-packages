@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/potrace.git
 	branch = master
-	commit = 2460db983b7b49d088d2943af85be849f2e0a491
-	parent = 6bba010933b2c27028cfb1fb9b899d8422dc1b66
+	commit = d385554da7e607a020f029df6d56c9c799d902f1
+	parent = 382e9f0472c32cc8bcbd5faf664aa888a6b609ca
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
