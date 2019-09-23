@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesB/btrfs-progs.git
 	branch = master
-	commit = 68edf31b0523fc07dc06a966de39798fc9ff9bad
-	parent = 19ce7824b16df54ab0b7736a8d467b2f4e254eb6
+	commit = cd808f602471446c53ee0526ea83345b40a39875
+	parent = 9d915fb88ea3cbd64c643d3628792504025d7f6a
 	method = merge
 	update = auto
 	cmdver = 0.4.0
