@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/poppler.git
 	branch = master
-	commit = 6b37fb067cb91975d6d578e7c5aa6c86c7b9b5e8
-	parent = e10e3765136fd25f4aa0602b5c50928312cf2120
+	commit = f4a940c19092814cd83b65455a78e692da8211f5
+	parent = d9a9baf57664e000266260bcaf7c884fadd72591
 	method = merge
 	update = auto
 	cmdver = 0.4.0
