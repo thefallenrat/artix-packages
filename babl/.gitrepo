@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesB/babl.git
 	branch = master
-	commit = 33e824bd6fabfc1e10d3a6a789c5238fd5c0b976
-	parent = c517528493162bdfe853ffdc065fc23d64b9f35a
+	commit = f219983e82328e9ef1c4afb88ce2527385f51657
+	parent = 6d978ce161d3755fae2ed8716162150bcc36cda5
 	method = merge
 	update = auto
 	cmdver = 0.4.0
