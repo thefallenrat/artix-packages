@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/liblouis.git
 	branch = master
-	commit = ef4f6e3e0f49fdc3987e426f28336cbd67f0ae27
-	parent = 5adafeb6a40236642fa2302f668fe6fd20ba5c80
+	commit = a9f36049b802deed0d43e3cce4b85757e9fc4f2f
+	parent = 7400b9a4bc79ebb0fed9ce611697cd4149b8540e
 	method = merge
 	update = auto
 	cmdver = 0.4.0
