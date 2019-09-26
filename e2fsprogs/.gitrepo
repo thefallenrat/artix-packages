@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesE/e2fsprogs.git
 	branch = master
-	commit = 16156b44b5e24910ef1003778953e731937de6b6
-	parent = 6bc9d1ca6a36341b8a0bbd49c2c2b1438e2ef1da
+	commit = 98fdbe053c5fcc7479336b58e39f8cc6973d8bb4
+	parent = 80412a8ec185e4bb1a3558dbbc3db942fd30f546
 	method = merge
 	update = auto
 	cmdver = 0.4.0
