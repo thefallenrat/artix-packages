@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/opentmpfiles.git
 	branch = master
-	commit = 2d242322ccb14f5e0daea86420f94bbada66fd06
-	parent = 17b8a80fed9ab7ce52db6a286a29ed2beaa7c744
+	commit = 73d3922e7c8ab8a1a1deab474ff46313f3d28cd7
+	parent = 4aec74df5ee2a6e5f32bc32962c3e6f3bea101a1
 	method = merge
 	update = auto
 	cmdver = 0.4.0
