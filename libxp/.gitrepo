@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libxp.git
 	branch = master
-	commit = d7f17431561eb8272a2dc3c9b01fbd0775d99261
-	parent = 1ffbd37ba4db5cc13629c3a8199ae170e95f2537
+	commit = 2a295ca403a837178781dd2eb42b906a59333b72
+	parent = 6482601521b83ebdde3682db084e4662ff03b3fa
 	method = merge
 	cmdver = 0.4.0
