@@ -9,6 +9,7 @@ url='https://savannah.nongnu.org/projects/fastjar'
 license=('GPL')
 depends=('zlib' 'texinfo')
 source=(https://download.savannah.nongnu.org/releases/${pkgname}/${pkgname}-${pkgver}.tar.gz)
+
 # The key cannot be found on any keyserver. Keyring can only be downloaded here
 # https://savannah.nongnu.org/project/memberlist-gpgkeys.php?group=fastjar
 #validpgpkeys=('EEFF99F6ADE26B135C85141D663843B80213D86E') # Dalibor Topic
