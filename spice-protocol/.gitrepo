@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesS/spice-protocol.git
+	branch = master
+	commit = 82d52e04a950a1cb9688b2affe11543fe445dc9f
+	parent = 5ffbcf33e5b1d3d40289dd385aa87b5d81e860a8
+	method = merge
+	cmdver = 0.4.0
