@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesE/eclipse-ecj.git
+	branch = master
+	commit = 860a5334630ec8466699d3031ab17f2d253466d4
+	parent = e34a08d9142298b08281c3ad75d6ffd7c99de84f
+	method = merge
+	cmdver = 0.4.0
