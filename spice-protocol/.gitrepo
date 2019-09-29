@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/spice-protocol.git
 	branch = master
-	commit = 82d52e04a950a1cb9688b2affe11543fe445dc9f
-	parent = 5ffbcf33e5b1d3d40289dd385aa87b5d81e860a8
+	commit = 75d69fc6fae8fc4b5d2af7d3f101b8b798a3b5f3
+	parent = 7d16b86980f7e101f9e0684944deab4d226d2b51
 	method = merge
 	cmdver = 0.4.0
