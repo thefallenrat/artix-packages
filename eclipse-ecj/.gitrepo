@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesE/eclipse-ecj.git
 	branch = master
-	commit = 28ca3d5941f9270df077b79e0c40d9ad613866f8
-	parent = d3926c57a9bf1e3d894a272158e5b7929416550f
+	commit = 91d787dfbe5c40bb2072d4064d491d6cf896c7f3
+	parent = a574c49bc6ca53de03919c174ff57349b0775b6b
 	method = merge
 	cmdver = 0.4.0
