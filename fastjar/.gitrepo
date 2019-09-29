@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesF/fastjar.git
 	branch = master
-	commit = aeb5eaa8b1013dd2bb87c3dc6a73cdb45a290092
-	parent = b96feec339d3ff4e57140ede91ee8ffae2bf660f
+	commit = fa28f670890b12bbc55579a2109035e65b9be677
+	parent = 2b98e015941d033861137671b53de56a0b69f05f
 	method = merge
 	cmdver = 0.4.0
