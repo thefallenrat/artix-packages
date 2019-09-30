@@ -3,7 +3,7 @@
 
 pkgname=artix-sysvcompat
 pkgver=0.4
-pkgrel=1
+pkgrel=2
 pkgdesc="Artix Linux's init switching hooks"
 arch=('any')
 groups=('base')
