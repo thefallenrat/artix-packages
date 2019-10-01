@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/p11-kit.git
 	branch = master
-	commit = 91a373bb5313a3199a4dda9d192c92b3cf59045a
-	parent = de8147a011639c05bc66fdfab331ecc6f90e9687
+	commit = d9447280bce3fd60c29c13a81706d26d78496d21
+	parent = 03105a78db8bb1eba28239ea7f3a1d96b1656c07
 	method = merge
 	update = auto
 	cmdver = 0.4.0
