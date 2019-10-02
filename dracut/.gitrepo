@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesD/dracut.git
 	branch = master
-	commit = 75cb448265dfdf17a70e0a7fb084d6c5a9b3de1e
-	parent = 38fc772414b8731f9a17f42911685938c4de5453
+	commit = ca8eb4b636c0e9f168a3ffefa751a9708d29cbc1
+	parent = 6bb3fd1d62873f68fe17cc1fafa4d1b522b2f554
 	method = merge
 	cmdver = 0.4.0
