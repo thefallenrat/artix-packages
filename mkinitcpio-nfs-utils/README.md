@@ -1,2 +1,0 @@
-# mkinitcpio-nfs-utils
-
