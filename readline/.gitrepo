@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesR/readline.git
 	branch = master
-	commit = 537c2a68cffaf2297fd8b68010b8a09d86b3da41
-	parent = 17b38346362c2d2fe2554c059986720e1aed5431
+	commit = c1bd82495b47ce606d80f276c92518ee81552447
+	parent = 904e6def8a1b6f8971b171d38226721902ade334
 	method = merge
 	update = auto
 	cmdver = 0.4.0
