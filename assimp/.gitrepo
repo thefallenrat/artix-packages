@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesA/assimp.git
 	branch = master
-	commit = 21bacbed2549eda23e916f09835098aa890d8f9f
-	parent = d6935d3e27979d5e22846a0ea8d29fdc1bd4fe59
+	commit = ec12fbf847f2416a681570908cabd88599396c0b
+	parent = b3c12e8a201a8fde15fc5d57bc43641576209055
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
