@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libclc.git
 	branch = master
-	commit = cb6d0e0da1b7143efefc323b75a5d631788f4f0f
-	parent = b73b84cf3dbdd28ed9a00a537691afeb342e14fc
+	commit = 0fa5797e1a1b488adb9efed6369f4af934a63ffb
+	parent = 420c28e49c61e867b844f5ba15b3d2680e91a30b
 	method = merge
 	update = auto
 	cmdver = 0.4.0
