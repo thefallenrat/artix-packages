@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/ocaml-integers.git
 	branch = master
-	commit = 004cbf59e7883b413127cc02b6b88a898e451f40
-	parent = 7f14008dea7bd15bd495af8634dd10c81c664347
+	commit = c168cbccc72d0cd29ba6c2f15dae9b90a5eb0b4d
+	parent = a9062ff4da6fd56e33719a47247ec3516227c1af
 	method = merge
 	update = auto
 	cmdver = 0.4.0
