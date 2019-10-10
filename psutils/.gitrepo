@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/psutils.git
 	branch = master
-	commit = adca2087da2de446d09d006188d0da8ba4694605
-	parent = 1175b73c651afc46afec5f1fee8e9318e3a10fed
+	commit = 22f74e915447f36b2583614d37f520234d8e1df1
+	parent = d59c7cc35b281ac642f1e5e9307916894932d46b
 	method = merge
 	cmdver = 0.4.0
