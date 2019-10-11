@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/openmpi.git
 	branch = master
-	commit = 93c9b02f67c03be3370dbfd5f881b86beda7b8c0
-	parent = aca54f66a6232d33901d20fc44e3aca804c23991
+	commit = bab80f99a8f2f94096a31879983d2b68f5dd904c
+	parent = 70e505878eb0c7afbf311f07c943d3f07f9b89d4
 	method = merge
 	update = auto
 	cmdver = 0.4.0
