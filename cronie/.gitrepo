@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/cronie.git
 	branch = master
-	commit = a8b7ba5ad998d21d34e3745bf4298c1ff1d9c813
-	parent = 2cebdc4dc62ca345517d31c3f02777fff1ec0358
+	commit = 0096e2b4696f9db0746b898817247497239943f5
+	parent = f51e6966695f2b58082a1815369f406557c4e1f5
 	method = merge
 	update = auto
 	cmdver = 0.4.0
