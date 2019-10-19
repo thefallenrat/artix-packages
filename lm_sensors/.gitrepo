@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/lm_sensors.git
 	branch = master
-	commit = b29b8dbf753eed0782267c15ca2a876f73390c5b
-	parent = da7ffbf945770b18db5c2e0469bfb413882b7516
+	commit = 34fa6f7260063ce29091eafb85cd00c079ef580d
+	parent = adb626573ab46f3708a133de82b3b53b4d0cfef6
 	method = merge
 	update = auto
 	cmdver = 0.4.0
