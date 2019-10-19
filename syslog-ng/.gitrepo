@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/syslog-ng.git
 	branch = master
-	commit = e3ec07c647f3b73ddbc95470df92d3a692efda18
-	parent = 4a05369a8dcf9a7199a943213a40c99f8cdbacf5
+	commit = 26843859979f55edc1cbc83d83f3404dfd3947e4
+	parent = e47a8689d6e313840f9b685e5277a604cec9160e
 	method = merge
 	update = auto
 	cmdver = 0.4.0
