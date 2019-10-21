@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/nspr.git
 	branch = master
-	commit = 855283f3d9f27eda39d1211e076aa0a5d31ef289
-	parent = 92491b6396ff96afca86fb7d2c2a72a2d208d2dd
+	commit = 2f428344c09fef9200eac92377770fa8f9c165d9
+	parent = 4ecf8b66f6abfe26c31b832024ffcea65d631f85
 	method = merge
 	update = auto
 	cmdver = 0.4.0
