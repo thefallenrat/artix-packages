@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/tslib.git
 	branch = master
-	commit = a29cdd4ad57b1fcfb2de788e8b380312526690b0
-	parent = 35b38d6772a3e232bd6b1b492a07342d420f9d40
+	commit = 99992ea927c0dd304abdd4cc2131e16e649892df
+	parent = ce28959d5757a487944ee7fa0a5b6c221dc28536
 	method = merge
 	update = auto
 	cmdver = 0.4.0
