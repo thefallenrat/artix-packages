@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/lirc.git
 	branch = master
-	commit = ef81ac0f188f6538fe565bca9dd6ca151e7aa719
-	parent = 1f8957c79c2e01b46d315499bd6cf8b870249ab1
+	commit = 44b4b3a8a388751c1d3531385e7868b9f58a2639
+	parent = 2e05e62fe523e6dc7be84190106694ad677ee879
 	method = merge
 	update = auto
 	cmdver = 0.4.0
