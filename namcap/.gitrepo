@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/namcap.git
 	branch = master
-	commit = 4a1766e68939199de854d2220668c376c55e3444
-	parent = a48117e685ed3486ee4a890aa3a715851c9da702
+	commit = ba453bb3cdc2addd2e2ff6d1a2dc0ab27ec14f04
+	parent = 5c3f0d18d81822212ebe899f9e8a5b6a7db790c3
 	method = merge
 	update = auto
 	cmdver = 0.4.0
