@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesB/boost.git
 	branch = master
-	commit = 681fe7a0f7d011561cbd9a3872374c8f314c4089
-	parent = a5459b182e6ccf1cc492c83cd1290559f42d4ab7
+	commit = ae9208af5655435b6aa6d725729c5a0c3d17c390
+	parent = 827952fae754d237a1ceab7c248ea29f1e1be8f8
 	method = merge
 	update = auto
 	cmdver = 0.4.0
