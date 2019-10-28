@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libbsd.git
 	branch = master
-	commit = 509fe43a8104e5145624dcaf69d0c67bd0c78ba4
-	parent = 815a930e89a1b285c6013c65f3c1471af28e3022
+	commit = 1c9d1413ed852c7d1d203356128f1cb64cd46861
+	parent = 63175c5e5d89a4c14f56b7336ff3b869d25147b4
 	method = merge
 	update = auto
 	cmdver = 0.4.0
