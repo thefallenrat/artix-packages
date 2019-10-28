@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/ndctl.git
 	branch = master
-	commit = 04b54ac34e6778a4530ecae8c095dd0f234fd224
-	parent = 9cf73eb01029a7d2f252cc7fbd82ffb3904c4129
+	commit = 054f68dce4c15afe9dd180efeb537e227a3072b8
+	parent = c4049fc3b79cddbc61ad457dcc4b8072f49fdab8
 	method = merge
 	update = auto
 	cmdver = 0.4.0
