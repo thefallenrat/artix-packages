@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libpwquality.git
 	branch = master
-	commit = c9c669855a14f7784e61514500f6b82728b1b209
-	parent = 5d8d273e59ad43b31de9587a9ece5401e635b633
+	commit = d0e3e1d92e247597bb73183ac8f46a35b2538658
+	parent = acddb2316ada2ab84a4ef6990115abc306428d3d
 	method = merge
 	update = auto
 	cmdver = 0.4.0
