@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/protobuf.git
 	branch = master
-	commit = fee40c242c8de00c92fac22f9b53aaa3cc51c157
-	parent = f9ac9348af13e288689f3122d9646da099d3923d
+	commit = c40f6a9942288983aa020b08de7a3a622f536ab5
+	parent = 066d5ce8c1c36762683d6d61a77fce2a45acde96
 	method = merge
 	update = auto
 	cmdver = 0.4.0
