@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/scons.git
 	branch = master
-	commit = 8b26b9243340935729c5305e25dc8a3502feba0d
-	parent = febf7c1aaf57267d4b91819f0343c8d60d24d040
+	commit = 51d6a18737f05ae940a549cc54e041091eac8fbf
+	parent = 6c3d0ea584f89c502b1045f448e98b1020fe2f9a
 	method = merge
 	cmdver = 0.4.0
