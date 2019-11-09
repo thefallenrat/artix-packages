@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libplist.git
 	branch = master
-	commit = 617b06c92baa065be499cb19da14a716d0d38998
-	parent = a3fe07657440e65593692c69cf1585a443998a4e
+	commit = 3463b8a95c85fc44d0accc620628255b63fa43eb
+	parent = 2f034e7180a4964a72084a2f36ddf1996f9d7867
 	method = merge
 	update = auto
 	cmdver = 0.4.0
