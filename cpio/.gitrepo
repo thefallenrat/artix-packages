@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/cpio.git
 	branch = master
-	commit = b75d1f87a213472ba6292658878d1d8fee7578e5
-	parent = 16b1a65ecd046ab76a4dc2874146c9812b6b90c7
+	commit = 91d7de3418aa7a314bacbb687cfbbdb1f8917930
+	parent = 03df213a1ac343d230563da1ca062433b269844b
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
