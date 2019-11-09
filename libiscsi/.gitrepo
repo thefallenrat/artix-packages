@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libiscsi.git
 	branch = master
-	commit = a892ba44e3e8b4e36471c0f0e93966c69d61d624
-	parent = ae7f5d5fa36e7a4ea7e70f06daf0f21a3c6b6ce5
+	commit = 158b91baf1d3d400b27f0630d7e05fa58fc88942
+	parent = 582b0ba599785e079a07ce39939d0bbec5b18cfe
 	method = merge
 	update = auto
 	cmdver = 0.4.0
