@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesA/audit.git
 	branch = master
-	commit = 394152838186c52509788ae25bbf0c8010033382
-	parent = a35d6ec2d365b8f71148d85d70ec6070e45aff67
+	commit = 5189a8bdfdefd4eb8c1dc15b561b0304a8b695a4
+	parent = d6824f821e29978907317d5fc9dc322f59e5fd7c
 	method = merge
 	update = auto
 	cmdver = 0.4.0
