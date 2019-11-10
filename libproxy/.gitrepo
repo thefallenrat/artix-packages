@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libproxy.git
 	branch = master
-	commit = f3026bf474542479a76264018be726d3353fdf41
-	parent = 2cb1984d60503a920332e55b2a50f0243f471aa1
+	commit = 36c2bd1de0d341b6d4709c6b9b9a1688ef4a0be3
+	parent = 1fe957ff92a4348fda1cf612731c2384492a9923
 	method = merge
 	update = auto
 	cmdver = 0.4.0
