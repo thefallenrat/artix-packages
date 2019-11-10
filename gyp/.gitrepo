@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gyp.git
 	branch = master
-	commit = f2f6b3145ca0dadec0d15d4d54a306637ba174f6
-	parent = 4223c62ffa37f8f1c5eada7058ed748ec2bb8cd9
+	commit = 8febbe1fe8ce44e0356063bc3e13f22873f6e125
+	parent = 11410578704716612e626b070f74344a985a15e8
 	method = merge
 	update = auto
 	cmdver = 0.4.0
