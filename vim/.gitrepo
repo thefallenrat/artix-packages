@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesV/vim.git
 	branch = master
-	commit = d492f0d8441a9dde377595e97907c19699548105
-	parent = 051ab5262f0d8299b0dfd5c109e678b603d2ad40
+	commit = 588f5918dd3824235d6a16779fe07dd5548484a7
+	parent = ca0c724185af3419a1c887e875a27b89a8bfa53a
 	method = merge
 	cmdver = 0.4.0
