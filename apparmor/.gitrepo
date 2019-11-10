@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesA/apparmor.git
 	branch = master
-	commit = 6573e99ebe381856bda3d82a2fd07ce4210100f1
-	parent = b062f48ca03ee3a4d145b9a8e49636793da7f828
+	commit = fb4568e4748d03773a4f6bf67cd995536dd203f4
+	parent = 71215ec2073c03eaca9928c800efa9552f21c665
 	method = merge
 	cmdver = 0.4.0
