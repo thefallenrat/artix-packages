@@ -8,7 +8,7 @@ pkgdesc="A tool that makes it easy to create Python bindings for C and C++ libra
 url='https://www.riverbankcomputing.com/software/sip/intro'
 license=('custom:"sip"')
 depends=(python-setuptools python-toml)
-source=("https://www.riverbankcomputing.com/static/Downloads/sip/$pkgver/sip-$pkgver.tar.gz")
+source=("https://files.pythonhosted.org/packages/c6/7f/b0830b133e6fac3902ecea99acc99e41972d9b565cda5d68ae33ae37909c/sip-$pkgver.tar.gz")
 sha256sums=('c034d427f52584d63277dd7df4d16d00c5df0b5cb838e0c256865b854b7e074b')
 
 build() {
