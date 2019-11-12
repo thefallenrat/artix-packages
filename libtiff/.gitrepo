@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libtiff.git
 	branch = master
-	commit = f751f504bf0cf5d66729934c0f140abd55014a46
-	parent = 75f2464336a81efc36b025705248757355fc769e
+	commit = c6f07a9d2e3b5b2e3dad07e2f578cfbe7606fee7
+	parent = 05bdca2991f1de60a0f03a8d5bc6282bf747c16b
 	method = merge
 	update = auto
 	cmdver = 0.4.0
