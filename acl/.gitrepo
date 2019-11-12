@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesA/acl.git
 	branch = master
-	commit = 725fd8b6363a65600ae961e5a2516a21ca15d1c7
-	parent = 5e0817066d273c1742c28cd0a57a7113cdc277f3
+	commit = 24c7c122e3f27d3ffbae9d0f11e9dbe152012f8f
+	parent = 7c57c6cb52137cee22c4ee3c67828e6c5edba44c
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
