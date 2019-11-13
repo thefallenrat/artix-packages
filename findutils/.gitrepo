@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesF/findutils.git
 	branch = master
-	commit = e8405d6b958aae1c0b8d9f6a96dd3e004f5bef88
-	parent = 5169abdb3cbbbd3342b1bc03444d293ec4fb8922
+	commit = d123bdc97fb07c4239c794f3d572c83347f6fb37
+	parent = 734658f0316f7eec4ac68acf535ec46b00e9a5d8
 	method = merge
 	update = auto
 	cmdver = 0.4.0
