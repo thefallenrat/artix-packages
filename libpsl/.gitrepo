@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libpsl.git
 	branch = master
-	commit = ba6cd8ea0804a82afa10a2f948fd0c4c4293f94b
-	parent = 6b3be19db2d2f27a5540c752f2ffb72cafff78ad
+	commit = 48e72b97392db20fa35359302891bbb3529a0435
+	parent = 2dd981c732941c3fd24e8da44b98f9bf6c6c173b
 	method = merge
 	update = auto
 	cmdver = 0.4.0
