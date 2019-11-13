@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/tzdata.git
 	branch = master
-	commit = 6dd04096e73a8e777721c3396ea663421ee96375
-	parent = 93ba44dec15db27083d968a72f39e83f9e0f0782
+	commit = 3942a8a2cee04bc25aea3b690a33d33d4dd682ef
+	parent = 09b1289bbbf91b53c7f1c21d0409a28c28a151ee
 	method = merge
 	update = auto
 	cmdver = 0.4.0
