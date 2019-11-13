@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/sysfsutils.git
 	branch = master
-	commit = 1eb6269b6654d46aeadb4f4be69485ccd5b6f2b7
-	parent = 63449b1dac32363a19390ec0afb1b2de48542eee
+	commit = c7bebb2d816d07afe3f8c853ad05dbdf4e02008f
+	parent = bb2dad3afa80878d4b7daf08d10a6023e13e72c7
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
