@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libmpc.git
 	branch = master
-	commit = 1e4f771e2bb749b5a8ca3d7fbcba1dbf4b5efa27
-	parent = 6fc797986082420f3f2f85fa66df1a113a4dee00
+	commit = 70c443f86995e9dc2e79240189df636c0f46d2bd
+	parent = d88deaa18c792786b671a6ebb99a1be186f3575a
 	method = merge
 	update = auto
 	cmdver = 0.4.0
