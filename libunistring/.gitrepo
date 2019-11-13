@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libunistring.git
 	branch = master
-	commit = f4941020dd6c78b2b4db49988c3dc21011461109
-	parent = dfb5d9fa165f3f822bafec95e19ed21ab4ea1b50
+	commit = 2ade1b26ef79df4a6c2c3bcd99b4bd79e74a9add
+	parent = 523492bbdfb714e760dbae065725234c450d8dee
 	method = merge
 	update = auto
 	cmdver = 0.4.0
