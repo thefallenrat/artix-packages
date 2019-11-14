@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/mdadm.git
 	branch = master
-	commit = 39896e514b7887af3433e6fc9599e16396a58085
-	parent = 30ced5c87907f528911b60e4fdcea8f2a642c18b
+	commit = 92bc70f73017ff88327ea2da71d71d5059b42eec
+	parent = 1c0ed32a4ccfd7e7196578661975430d8dd6d85b
 	method = merge
 	update = auto
 	cmdver = 0.4.0
