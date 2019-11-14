@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pkcs11-helper.git
 	branch = master
-	commit = 27f6d748a83db6702f6c5a1172950f036708d855
-	parent = 401f9fe5b6c8cb119995987f3a2ec1dbdfd1a7de
+	commit = 5d1a69b21450cfc8f291fed00c7bd3040b16509b
+	parent = 718bd5ef42cb3ab707b3d805a37e2058d2640268
 	method = merge
 	update = auto
 	cmdver = 0.4.0
