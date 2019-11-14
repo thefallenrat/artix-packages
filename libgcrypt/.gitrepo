@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libgcrypt.git
 	branch = master
-	commit = 50e4d2fbfc06cb421db96be551128d37b926894e
-	parent = b6afc6c1db1b66bb30fb3ef23db9f0836afb52df
+	commit = d45254a607d7c272d83875c70eb5ca1a6750c343
+	parent = 032be45faa7c5be05afec1ea73a83abeec7f9738
 	method = merge
 	update = auto
 	cmdver = 0.4.0
