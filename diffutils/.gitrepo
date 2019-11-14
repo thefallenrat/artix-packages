@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesD/diffutils.git
 	branch = master
-	commit = ce8249e4c27a3d305e057b38b75fae7ec3376ab7
-	parent = d03754c61cd3631ca3a8df1081dad2b7ca21261e
+	commit = d4a76049bcc1810e05b3295105ecfcfd7be84378
+	parent = 5dc56d9c68ffb85ae801bda7afdcefea15102b89
 	method = merge
 	update = auto
 	cmdver = 0.4.0
