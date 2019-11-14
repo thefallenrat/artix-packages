@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesW/wireless_tools.git
 	branch = master
-	commit = 0df31993a9a6678a9a6d4b1a55cc47180970fa7e
-	parent = bf31dac160772bb0d11477115b2ddda6401a48e4
+	commit = 530f357c58ff4d956932248eb834e8c36f733ea7
+	parent = 485db3cc684a9fcf6144534bd3fa1fabdcdac015
 	method = merge
 	update = auto
 	cmdver = 0.4.0
