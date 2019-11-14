@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gmp.git
 	branch = master
-	commit = 99c9649c26298b87500a61512db7665c775ec3e3
-	parent = bad63ee127ad60023aa20ef647c25fda9759f467
+	commit = c2455b16f0d70f11f951dccc25b924276f73613e
+	parent = db915a13f6150ea4172c7bc2c6f4836a6eb42c1c
 	method = merge
 	update = auto
 	cmdver = 0.4.0
