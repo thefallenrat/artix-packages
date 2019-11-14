@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/procinfo-ng.git
 	branch = master
-	commit = 0f4f257c53e2b8cb0a23b5440cae7bf56d932c86
-	parent = 6b81a1e822ba03f90c571fe3be5db19db1c38898
+	commit = 2a2c3b4b5f0d41f4f8d0fbf0bbee2f446abb2cc0
+	parent = 1f683200e45e33f0c526fbab460d6bc191dca31c
 	method = merge
 	update = auto
 	cmdver = 0.4.0
