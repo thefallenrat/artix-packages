@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesB/b43-fwcutter.git
 	branch = master
-	commit = 8bf6ca54433670e053b6c4ee5ffba3f23cd582c0
-	parent = c7b877b63bd144b895eab9b67a0742575ce895ba
+	commit = a094bbbba3f8bc0213278b6cc09413780d1938bc
+	parent = 7361189be930134cce6816f123149af669a8cd0d
 	method = merge
 	update = auto
 	cmdver = 0.4.0
