@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/nfs-utils.git
 	branch = master
-	commit = a6309eafc70ceb790a170ed1811a8fa2be88323b
-	parent = 550434fb764d8ff85d5c2117e0d5e91e9b7c92c0
+	commit = 1b659cf0f6eb94d091825d4818740d21176a7548
+	parent = 7a08f3bbc9e537de83a66cfcce17fe12df54865f
 	method = merge
 	update = auto
 	cmdver = 0.4.0
