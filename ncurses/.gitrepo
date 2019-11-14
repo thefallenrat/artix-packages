@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/ncurses.git
 	branch = master
-	commit = 8e1d42f9f26a10a780f26ddea3fb82157a7e7106
-	parent = 2d63eb79818b640073bda8884ecdcff1d7bedbae
+	commit = 32a88a4aec4f0bb47b30555735c5eb555b4bcb18
+	parent = ed43fc70b1e472286309f63b1d78971a59974ab7
 	method = merge
 	update = auto
 	cmdver = 0.4.0
