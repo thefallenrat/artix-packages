@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pam.git
 	branch = master
-	commit = f1b967a2afdd2bfcc5e6a5a6d8c669ef371d53cc
-	parent = 9f6242bdf71810bfc99384a67109dbff452036cb
+	commit = a0da699026b0d4c961ec688b0e27de68bae3d8ca
+	parent = ef4550f9ac015e150722d324e7c1dcb8457e33de
 	method = merge
 	update = auto
 	cmdver = 0.4.0
