@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesD/dash.git
 	branch = master
-	commit = bdb28c3e1da906f9d98f6d0f98a79adf23cda5ba
-	parent = 52ecc4ee4dc5f502dd385ac2959522cc9f73301a
+	commit = d36bdff533634f6bf89e35676a681b45798e711d
+	parent = 2125b7140ded29c6cf20a8247cd4ecee76308278
 	method = merge
 	update = auto
 	cmdver = 0.4.0
