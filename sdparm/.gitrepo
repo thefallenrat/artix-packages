@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/sdparm.git
 	branch = master
-	commit = 3b056b64615b5751eaa62c135f4b099486573468
-	parent = b5fa9c4dde6bfdc5f88864a8fe00525dafbb05a3
+	commit = 29cf35487e1aeaf63f43b9e945edfd67a68e5d7c
+	parent = 274968a183879f9af4af22a6ea7d1bc686212328
 	method = merge
 	update = auto
 	cmdver = 0.4.0
