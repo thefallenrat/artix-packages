@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/lyx.git
 	branch = master
-	commit = a0c5e440d23b70a1fddef08abaa042cfdc5b5d65
-	parent = 9604a12b792b11fe9fba035f0166ca7a0ffc71c0
+	commit = 58e583ca91f8e4a676c02b6fb797d79dc1c8a3e9
+	parent = 8e450fffca79c97d8f304a9d59b5d2ec57714346
 	method = merge
 	update = auto
 	cmdver = 0.4.0
