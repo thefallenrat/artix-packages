@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesI/ipw2100-fw.git
 	branch = master
-	commit = 38e9966f902c6221d9308eb5f5b9dd38215a3c3a
-	parent = a32813de276892f485262fd2414f0f4cdfe84485
+	commit = 0c16a9b4fa6f6a9d848b6046c2590a1bde203136
+	parent = 4345102585d86ce4ce1635c4676c97d45045d396
 	method = merge
 	update = auto
 	cmdver = 0.4.0
