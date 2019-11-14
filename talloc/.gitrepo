@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/talloc.git
 	branch = master
-	commit = e6f51cca575da422fa82c99fa4e569e6c619191b
-	parent = 32bd30af4f4291b63ee05f4953a748612f994603
+	commit = 9a3801d7ee969fc9841ebb84a77a77dbcf413fae
+	parent = 8a8554657abb91d2faccf2ffa77da059ff52b9d5
 	method = merge
 	update = auto
 	cmdver = 0.4.0
