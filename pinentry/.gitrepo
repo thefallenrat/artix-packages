@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pinentry.git
 	branch = master
-	commit = 0d97c94228a4d2d5de64350e0d9e17bb546c96bf
-	parent = d5edae013339a78f691d559ae6bebbc26046e6b7
+	commit = 2be9da42457688c7ed8d34b21ae83eafa28b6abc
+	parent = 173a5508c0e9821ba3eafb5ddd200b82cce9bd33
 	method = merge
 	update = auto
 	cmdver = 0.4.0
