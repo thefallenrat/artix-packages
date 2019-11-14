@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/mallard-ducktype.git
 	branch = master
-	commit = 4a33b93ff770ed5505d9584b1f7c8c98d58b1726
-	parent = 13c5f47c643c393f01aa9163a168c30d88922296
+	commit = de46d3ab52ea0bd19b2811321e09edf9d5f8bb13
+	parent = d053c798012e2c53fbc8801e35e976c815c1e9a6
 	method = merge
 	cmdver = 0.4.0
