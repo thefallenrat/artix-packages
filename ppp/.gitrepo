@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/ppp.git
 	branch = master
-	commit = df3a24081f5af345a8f8db0cdeac72fa2bae0d21
-	parent = a2853215719264f7aa4deea3287ea0db7f6d948e
+	commit = 5fe329fd3de108367da6eab57b7f343186a14ef1
+	parent = 07aa36acad8e5add570e614321109fed6b5c6a4b
 	method = merge
 	update = auto
 	cmdver = 0.4.0
