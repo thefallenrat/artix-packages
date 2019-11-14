@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesI/inetutils.git
 	branch = master
-	commit = 561a22cd054320aa9fcd4eb21db25eeb2ee0094a
-	parent = 6c4afd3b306ba22bb02f017093fdc395457969ad
+	commit = b105b4afb4d33404d78963ff2940b292747e4596
+	parent = a171f7e2ee370bf8c61b21930072af69fa3ce45c
 	method = merge
 	update = auto
 	cmdver = 0.4.0
