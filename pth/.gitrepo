@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pth.git
 	branch = master
-	commit = 4f27b5bf946c885852ecc074a3d576e90e32a08c
-	parent = b17ecca07468c7d08455a4c6edf931631d1025d2
+	commit = 4b179f0dbf0424eb94107a79a66bcaf3f32e61d3
+	parent = b8f7b158b501915b46fa7fd7ea339a45ec725374
 	method = merge
 	update = auto
 	cmdver = 0.4.0
