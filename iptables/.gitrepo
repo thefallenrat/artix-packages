@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesI/iptables.git
 	branch = master
-	commit = 62eb4cf8ce4cb8795e0c0eea03a22015c0ef6a6f
-	parent = e1b2146ca83450168b4aaf337d294727c551939f
+	commit = 1d49cd7b0c38d09c148fe80630fbd3d31f5c8a70
+	parent = b83757b196e5ee736dbd669da8c106060bb60cc6
 	method = merge
 	update = auto
 	cmdver = 0.4.0
