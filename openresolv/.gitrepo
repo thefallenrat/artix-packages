@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/openresolv.git
 	branch = master
-	commit = 73ff8b5168f1e341226d7a7e235e85468dfc808e
-	parent = 8b47e70d7d68c03735ce3e8e928b92a4e65362bd
+	commit = 1e8125201dc3909de9848ebf2d538e5ac0a9e020
+	parent = efdd92ebbc060c54929d93ac629a0a94526cb4a6
 	method = merge
 	update = auto
 	cmdver = 0.4.0
