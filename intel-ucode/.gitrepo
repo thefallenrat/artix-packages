@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesI/intel-ucode.git
 	branch = master
-	commit = 01d298a343ae6d9b6d5ff0cbb7a51a1544ad94e8
-	parent = a26d6db06362db7c0801e46ded68c07d208a1b71
+	commit = 1164583cc166a271e9409aebc15f56c6430e781f
+	parent = f9f5f8da4f555ea10765741fda183c315f11c30d
 	method = merge
 	update = auto
 	cmdver = 0.4.0
