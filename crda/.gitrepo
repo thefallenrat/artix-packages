@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/crda.git
 	branch = master
-	commit = 173c9ff0d485a0cf11be8028b4cd17d12dbfcc3d
-	parent = 097e40f36b9fe14954628afd7e182b13129d7f74
+	commit = abef2dd084dc196e8121011ac26a0ea7b330fd74
+	parent = eb35db9a18da627eda0d9274014f1fdacfa037ba
 	method = merge
 	update = auto
 	cmdver = 0.4.0
