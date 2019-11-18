@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libmnl.git
 	branch = master
-	commit = ef61bd7c6531abb7404fbb33492e996e9e901387
-	parent = 0eb6bb030edb1402f2a03d4a362ce70d11c71b7c
+	commit = ead9f64a36dc834736f8564ff3c0d4c89a2cf78c
+	parent = 3118cdb837b3bf4fa5bd353dfe15713eb3cb9768
 	method = merge
 	update = auto
 	cmdver = 0.4.0
