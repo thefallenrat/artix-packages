@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libffi.git
 	branch = master
-	commit = 42bc35e0f9405524b8ecc19b60043197506fcf54
-	parent = f5e8886e572b80e5445063ba0f6efc96d51eb40c
+	commit = dcaafbea25e869e254756986609e6b69821af98d
+	parent = 52b80b2f6391b61efd8527936bd17808d0542797
 	method = merge
 	update = auto
 	cmdver = 0.4.0
