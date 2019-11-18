@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesN/nilfs-utils.git
 	branch = master
-	commit = 666e09e055f706ea8bda9ac727821e036e46213f
-	parent = 777b17a6df55dc2f28df7e289be1bb79029a383d
+	commit = 670d985a2af7fe689cddcdbf1b9735884be69958
+	parent = 88a6010e006657baea3e1432940a93a9b7862c1c
 	method = merge
 	update = auto
 	cmdver = 0.4.0
