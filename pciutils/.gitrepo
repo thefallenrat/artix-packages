@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pciutils.git
 	branch = master
-	commit = f84520c592444a81ed6cc93fa4e64233fccc0a00
-	parent = 692423b17912564b7b25de9b6753fb3f57e128d0
+	commit = 7278c6e5f481a45d5dc61c4e85ec5d35d3532d0c
+	parent = e552095ac5587ccc19f0972d63bfa65810f99de2
 	method = merge
 	update = auto
 	cmdver = 0.4.0
