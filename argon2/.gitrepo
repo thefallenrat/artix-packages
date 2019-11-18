@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesA/argon2.git
 	branch = master
-	commit = 4bda94dab77839031aa9bdcb81c5ce009d3a913b
-	parent = 64b5fef40ac04ba43a424b4b63c9a5aeeaec1688
+	commit = eac0098a4c329ae1ce5945004691e2e99955716d
+	parent = 86f24a286d442dea1edadf4aa099566f23db982f
 	method = merge
 	update = auto
 	cmdver = 0.4.0
