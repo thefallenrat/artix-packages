@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libpipeline.git
 	branch = master
-	commit = aab4d1c474d0f3f89204790f01a91a4c7c9b630b
-	parent = ee5e0b87f38b595f5f6700cc1f2f5e3603353133
+	commit = 9a75d672f56b4d6b72827e5ea3c38f1ee1898003
+	parent = 168157ef95ab180e78d20b38ecfb50f6eddca8b6
 	method = merge
 	update = auto
 	cmdver = 0.4.0
