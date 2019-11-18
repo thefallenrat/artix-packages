@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pptpclient.git
 	branch = master
-	commit = a0298b06e66a20f23468cc8d0124412be054de53
-	parent = 83b6c047b17f3124902d928ec9f40204f9ee12eb
+	commit = 2aa97d3f51ca49e6b41db99405fcc3ffb871722e
+	parent = 6b60d43240c4af778f14307b9c040b0b8fb5f75a
 	method = merge
 	update = auto
 	cmdver = 0.4.0
