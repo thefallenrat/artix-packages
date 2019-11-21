@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/postgresql.git
 	branch = master
-	commit = 2a8c1484524507108034d9b5f2c45c53cae6dd6e
-	parent = 2e362f9d8764d0b65c9ab099488d39e52dce7074
+	commit = fca0726b71ce34957f9d84ac19084a03e59a87a7
+	parent = ffeef4ff510108433a616455111d0462c977b5b2
 	method = merge
 	update = auto
 	cmdver = 0.4.0
