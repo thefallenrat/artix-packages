@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libtasn1.git
 	branch = master
-	commit = 9a7118bc1de0cc2da6dc76a761f5152a0829f9e3
-	parent = ddce60050df76a479e6e3203a1868d5f7f788164
+	commit = d0b860fbd171eb58340f7d72c3b2650ef2fa23ac
+	parent = c980f728d23dac01e433a7e101bd924345fa5ef2
 	method = merge
 	update = auto
 	cmdver = 0.4.0
