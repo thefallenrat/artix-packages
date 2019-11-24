@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/traceroute.git
 	branch = master
-	commit = 95b24a0b51574d0d98a5f555951906dac14f76f8
-	parent = 7046ea010a01dfa1623c0890f98d4571d4e4cef8
+	commit = 2d497daafe0f29d5c0420a6ce8c3a7a30d5aca37
+	parent = d0aaa0b84b39e3d67602f934ec9de217c27701dd
 	method = merge
 	update = auto
 	cmdver = 0.4.0
