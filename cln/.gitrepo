@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/cln.git
 	branch = master
-	commit = 7da48d68a7672cc58ac1000f176299a35e778d63
-	parent = 4bac239f5530db2452fdb51cbcdeeb870d4c57be
+	commit = 550fbcded82113d774b325d400d26bb93e8f0ef4
+	parent = 2c6cbd5a540648efbb3fd891560e8045c1b7b33a
 	method = merge
 	update = auto
-	cmdver = 0.4.1
+	cmdver = 0.4.0
