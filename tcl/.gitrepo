@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesT/tcl.git
 	branch = master
-	commit = 270582893cee6f28d8e3d5809b4cb53afc55184d
-	parent = 1886e1659d45ddac14b2830d098af4ab23176e97
+	commit = f2ea8bfe89a4b3e8897e172e1904da4c4f5832a5
+	parent = a40f7545e716a063fd69ce0f586b4ab97d4abd00
 	method = merge
 	update = auto
 	cmdver = 0.4.0
