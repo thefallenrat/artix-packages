@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/php.git
 	branch = master
-	commit = b6ef6b3740d299ee88ebf16051959f4eb8566d71
-	parent = 30ae52d5c6c5a46dd4c5f6be2e0246111f558b87
+	commit = 0e42feb8d9788ae03485d996dc7b14ba7d7ac009
+	parent = 0de9a20bc0104f0ee2d0999b86098438e4d19e6c
 	method = merge
 	update = auto
 	cmdver = 0.4.0
