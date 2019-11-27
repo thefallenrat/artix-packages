@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesF/ffcall.git
 	branch = master
-	commit = 636b90fc3a308690ef6e277c49637bbdc242aa7f
-	parent = 241a6da6c6134d4e045d1f9fcaeb2b7b686b3fb4
+	commit = b5f8f8341e741c0b48ae3df706cdc67befd2ce19
+	parent = 6153e05618877f90bd756d2daf3e30206ac11f6f
 	method = merge
 	cmdver = 0.4.0
