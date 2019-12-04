@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesW/whois.git
 	branch = master
-	commit = 823e413653dc3dc05c1aebf49b95fc6dc05b31c9
-	parent = f9742c91f4abbc97595858d8fe43ccbde8ed3af0
+	commit = 020a46823dc40da463c7d374bf0ac7f7e2aea611
+	parent = c38654e66eb5c1777655051f4921e9fa4b536d80
 	method = merge
 	update = auto
 	cmdver = 0.4.0
