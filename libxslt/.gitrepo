@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libxslt.git
 	branch = master
-	commit = 3d7741039ac9c9adb6fb0588d2599790caf39cc5
-	parent = 67094ef9830c2b3037da444479e71de01f379fdd
+	commit = 251012565cd846e1498a6dae0da0443f391f2988
+	parent = f8c85b68383a8111df9ec7e06a003f16a7cf668e
 	method = merge
 	update = auto
 	cmdver = 0.4.0
