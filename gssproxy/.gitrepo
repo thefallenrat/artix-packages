@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gssproxy.git
 	branch = master
-	commit = 481b5327da296591232b730b081fb01f6254c6b5
-	parent = b34371b6792d46e1193dc7f2bb7f0b3cff446aff
+	commit = 2574af1fef73e87fab134bd16ae759d4622211f6
+	parent = 39a6682983759664ffddfff686a41e8a59ac73f4
 	method = merge
 	update = auto
 	cmdver = 0.4.0
