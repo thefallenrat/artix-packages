@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesF/fmt.git
 	branch = master
-	commit = 44f9102cb3ab245f56ee3e9d83189459c5d3204e
-	parent = 5c0413f3c843c43c52f0b2220705c70ef1090049
+	commit = 5bda7ef42ffde1a77a6bb2ed5d435220e298a2ad
+	parent = 57d8c296355c2e7e934d163bfe14a31954425819
 	method = merge
 	cmdver = 0.4.0
