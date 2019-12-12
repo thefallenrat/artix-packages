@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesB/blocaled.git
+	branch = master
+	commit = ed36a250062ece44477d49051b5a7122d7050b33
+	parent = 859f1675fbb1b736fa0c39ce431b85642b66e457
+	method = merge
+	cmdver = 0.4.0
