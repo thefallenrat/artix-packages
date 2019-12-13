@@ -1,0 +1,42 @@
+# Set optimal IO schedulers for HDD and SSD
+# Inspired on https://github.com/openSUSE/system-tuning-SUSE/blob/master/60-io-scheduler.rules
+# Allows the users to define their preferences either editing /etc/default/io-scheduler
+# or using the traditional elevator= kernel command line parameter.
+
+ACTION!="add", GOTO="scheduler_end"
+SUBSYSTEM!="block", GOTO="scheduler_end"
+
+# If `elevator` cmdline parameter is set, user forces a desired scheduler
+IMPORT{cmdline}="elevator"
+ENV{elevator}=="?*", GOTO="scheduler_customized"
+# The same is user sets a scheduler for HDD or SSD
+IMPORT{file}="/etc/default/io-scheduler"
+ENV{HDD_SCHEDULER}=="?*", GOTO="scheduler_customized"
+ENV{SSD_SCHEDULER}=="?*", GOTO="scheduler_customized"
+
+# If user doesn't care, continue with our defaults inheritted from openSuSE
+# Determine if BLK-MQ is enabled
+TEST=="%S%p/mq", ENV{.IS_MQ}="1"
+
+# MQ: BFQ scheduler for HDD
+ENV{.IS_MQ}=="1", ATTR{queue/rotational}!="0", ATTR{queue/scheduler}="bfq"
+# MQ: deadline scheduler for SSD
+ENV{.IS_MQ}=="1", ATTR{queue/rotational}=="0", ATTR{queue/scheduler}="mq-deadline"
+
+# Non-MQ: CFQ scheduler for HDD
+ENV{.IS_MQ}!="1", ATTR{queue/rotational}!="0", ATTR{queue/scheduler}="cfq"
+# Non-MQ: deadline scheduler for SSD
+ENV{.IS_MQ}!="1", ATTR{queue/rotational}=="0", ATTR{queue/scheduler}="deadline"
+
+GOTO="scheduler_end"
+
+LABEL="scheduler_customized"
+
+# If `elevator` cmdline parameter is set, user forces a desired scheduler
+# for all disks
+ENV{elevator}=="?*", ENV{HDD_SCHEDULER}="$env{elevator}" , ENV{SSD_SCHEDULER}="$env{elevator}"
+
+ATTR{queue/rotational}!="0", ATTR{queue/scheduler}="$env{HDD_SCHEDULER}"
+ATTR{queue/rotational}=="0", ATTR{queue/scheduler}="$env{SSD_SCHEDULER}"
+
+LABEL="scheduler_end"
