@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesB/blocaled.git
 	branch = master
-	commit = 5ada004ef95246a18daa68e01fda2dc734a1a18a
-	parent = e8a71fa2bcb2cdf2afa786f750eed4ef5a08c86d
+	commit = c5c9f2772d0034d259b6f20f2fc5dfd644d4f89a
+	parent = aebc25f07badbf7b0fc527a84ee196a5ef4c9c52
 	method = merge
 	cmdver = 0.4.0
