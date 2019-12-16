@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/cups.git
 	branch = master
-	commit = 6d8f7b42dfe6edc4c2b05254e6764d1e30bc3167
-	parent = f6e5128dfa359fe3984d8c9aa2927bbafae0c833
+	commit = 732e6b04d7b86bd65192b4fde0833adfba49b2b1
+	parent = 832d58200b34d48e14d45bffdd5f1ed1ee4e74a6
 	method = merge
 	cmdver = 0.4.0
