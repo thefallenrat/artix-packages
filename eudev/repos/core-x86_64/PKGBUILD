@@ -7,13 +7,13 @@ _udev_ver=243
 pkgbase=eudev
 pkgname=('eudev' 'libeudev')
 pkgver=3.2.9
-pkgrel=2
+pkgrel=3
 pkgdesc="The userspace dev tools (udev) forked by Gentoo"
 arch=('x86_64')
 url="http://www.gentoo.org/proj/en/eudev/"
 license=('GPL')
 makedepends=('gobject-introspection' 'gperf' 'gtk-doc' 'intltool' 'kmod' 'util-linux' 'libelf')
-options=('!libtool')
+options=('!libtool' '!staticlibs')
 source=("$pkgname-$pkgver.tar.gz::https://github.com/gentoo/eudev/archive/v${pkgver}.tar.gz"
         'initcpio_hooks'
         'initcpio_install'
@@ -21,7 +21,9 @@ source=("$pkgname-$pkgver.tar.gz::https://github.com/gentoo/eudev/archive/v${pkg
         '30-udev-reload.hook'
         'udev-hook'
         'udev-hwdb-path.patch'
-        'udev-default-rules.patch')
+        'udev-default-rules.patch'
+        'io-scheduler.default'
+        '60-ioschedulers.rules')
 sha256sums=('7d281276b480da3935d1acb239748c2c9db01a8043aad7e918ce57a223d8cd24'
             '892ce43218e0a458981bbce451252c8987dc398e60b8de288e7542b8f2409c13'
             '77dd1fd318b4456409aceb077f060b87944defb07cf39d29ad1968dc6f361875'
@@ -29,7 +31,9 @@ sha256sums=('7d281276b480da3935d1acb239748c2c9db01a8043aad7e918ce57a223d8cd24'
             '13596caef6ed85b58de674ebe7c47d9c7dd676240de5cc28ef3ccee2ce1d8a90'
             '80c8f87549374d3bc7c2831b9e069b0005cc5ef90122c2d02e78e27c9bc1dbed'
             'e05e468d15d09fb49343f33bc8d21c08f54db3ecff412dc35d4acb0630f869a3'
-            '13c167e448411b53b18532469e783e2e51a4c46ff4cf9c46e0481d6440b53f8d')
+            '13c167e448411b53b18532469e783e2e51a4c46ff4cf9c46e0481d6440b53f8d'
+            'd2e2d1d989b5bf7d35339464c57b85f1f33f478b8913397b43da75486faac338'
+            '7fee5bb7a70c7099041f9f01710137aef6ac572edf25ab6b921b17a3af3d0c27')
 
 prepare(){
     cd "${pkgbase}-${pkgver}"
@@ -72,7 +76,7 @@ package_eudev() {
 
     install -dm755 ${srcdir}/_libeudev
 
-    mv -v ${pkgdir}/usr/lib/libudev*.so* ${srcdir}/_libeudev
+    mv -v ${pkgdir}/usr/lib/libudev*.{so*,a} ${srcdir}/_libeudev
 
     install -Dm644 "${srcdir}/initcpio_hooks" "${pkgdir}/usr/lib/initcpio/hooks/udev"
     install -Dm644 "${srcdir}/initcpio_install" "${pkgdir}/usr/lib/initcpio/install/udev"
@@ -80,6 +84,10 @@ package_eudev() {
     # pacman hooks
     install -Dm755 ${srcdir}/udev-hook "$pkgdir"/usr/share/libalpm/scripts/udev-hook
     install -Dm644 -t "$pkgdir"/usr/share/libalpm/hooks ${srcdir}/*.hook
+
+    # io-scheduler
+    install -Dm644 ../io-scheduler.default "${pkgdir}"/etc/default/io-scheduler
+    install -m644 ../60-ioschedulers.rules "${pkgdir}"/usr/lib/udev/rules.d/
 }
 
 package_libeudev() {
@@ -88,5 +96,5 @@ package_libeudev() {
     provides=("libudev=${_udev_ver}" 'libudev.so')
 
     install -dm755 ${pkgdir}/usr/lib
-    mv -v ${srcdir}/_libeudev/libudev*.so* ${pkgdir}/usr/lib
+    mv -v ${srcdir}/_libeudev/libudev*.{so*,a} ${pkgdir}/usr/lib
 }
