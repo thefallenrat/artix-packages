@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/python.git
 	branch = master
-	commit = 929a1eef8a9fca4d9641c2654cd7e86d5c660d21
-	parent = 9abde875b9df0fc145bc42066c60387fad1fd914
+	commit = 82eb032711c4a10b17f0bee90fa7a96592bcb3f0
+	parent = 390a3a79f448570d660489edc028f709cbc68f0d
 	method = merge
 	update = auto
 	cmdver = 0.4.0
