@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesE/expat.git
 	branch = master
-	commit = 9a5610b21b5e143777b2d73648af9be065bfbe19
-	parent = cbd5ff2c96719f1016a4947f4b3893d3d3ddc515
+	commit = 55991a1c5441e0a3a017c62cf3357340dd17b671
+	parent = 5c76a868a2e737dee45bb271e8d5e32f67308ccd
 	method = merge
 	update = auto
 	cmdver = 0.4.0
