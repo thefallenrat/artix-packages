@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libtirpc.git
 	branch = master
-	commit = cc0d978aa0c60faa61a3690c42a67d4625006c21
-	parent = d7d7ebbc574bd53aa5a84be68282c91e9e1ac447
+	commit = 9ef54f2d1568d694a8d4cafea122b477fced3bd4
+	parent = f945ddb808b7d9b1c0d7fd95e2d9fd8263737515
 	method = merge
 	update = auto
 	cmdver = 0.4.0
