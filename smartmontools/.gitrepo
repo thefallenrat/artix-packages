@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/smartmontools.git
 	branch = master
-	commit = cf395963694a8aae9e23b7ab229289cffca6c27d
-	parent = 9afbfc88d241df8bc7bf234ee855a2989c171cd8
+	commit = fe900c6949c40bfaf46393acd5d43daf39d564b4
+	parent = 6613a46d9f9086a2ad0978a3622763e1a8fa9734
 	method = merge
 	cmdver = 0.4.0
