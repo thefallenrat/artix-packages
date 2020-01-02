@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libjpeg-turbo.git
 	branch = master
-	commit = 6f9c14767a05b14bcce5eb8c363b8c4db70faa63
-	parent = 7c03aef36acb560b282000d8eb35acafe69551f1
+	commit = 1f2111a5de14f83af8cfaf7cc990c3475e5d3114
+	parent = 6cca7b7245e14600cadfb756162fac8ef1feb11e
 	method = merge
 	update = auto
 	cmdver = 0.4.0
