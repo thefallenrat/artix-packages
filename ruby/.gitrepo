@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesR/ruby.git
 	branch = master
-	commit = 729d44b34613d4d77cc6c6e890f6fc81bd77a038
-	parent = eca6dd50be47663cdff0728423e9f211cef22e5a
+	commit = 785f0a9e8a07c12f043d054432ddfe8fc060aa21
+	parent = d000f4342beda77ea0b800b203379e2188fbf977
 	method = merge
 	update = auto
 	cmdver = 0.4.0
