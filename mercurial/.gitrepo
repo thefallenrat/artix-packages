@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/mercurial.git
 	branch = master
-	commit = 57c9e12a51c594af2afe4125095633c1627943f4
-	parent = 0dcbd6b638926596964c32b706d4213a21fc8a39
+	commit = 41897e0abf86ff7e0e1e07f506c652f0f5c77c85
+	parent = 2f9b7c21422e627d9d6fb8eef4a81cef049d5f96
 	method = merge
 	update = auto
 	cmdver = 0.4.0
