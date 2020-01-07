@@ -1,5 +1,6 @@
 # Maintainer: Eric Bélanger <eric@archlinux.org>
 
+# rebuild
 pkgbase=imagemagick6
 pkgname=(libmagick6)
 pkgver=6.9.10.84
