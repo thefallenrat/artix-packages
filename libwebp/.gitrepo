@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libwebp.git
 	branch = master
-	commit = a87a1176557f24b9240fb3f54016f901406d835a
-	parent = 49ed73451b1215c27689647e9396821d3fe1d201
+	commit = 71517d2dd81d86d49bb0b48e9bd1e9a00340861d
+	parent = 8fc96cd2901b23781a0497976f552819cc1ac521
 	method = merge
 	update = auto
 	cmdver = 0.4.0
