@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesH/help2man.git
 	branch = master
-	commit = 5f4dcc81bfdab5b0f48aea05e5b94f14be659982
-	parent = 2bb6966d032e7fee9f378520ffac022da9ce65a2
+	commit = b505bea5f5d46993cff717b3a0cbe2aee4f00e2b
+	parent = 53399d35ff07b839d9c2be82f180c870178ca67e
 	method = merge
 	update = auto
 	cmdver = 0.4.0
