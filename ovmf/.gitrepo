@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/ovmf.git
 	branch = master
-	commit = 46ef4240a99448243dc8efc22348d029244dd45a
-	parent = e7a76718d3f97a55de719b44a09f029fb046c350
+	commit = edf22d0a9d480c5abd0bc9c92a5d2a848cf4c266
+	parent = 2f7aff4e2ec43f196bd4b7d40e659605bf5c3c78
 	method = merge
 	update = auto
 	cmdver = 0.4.0
