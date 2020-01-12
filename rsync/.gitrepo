@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesR/rsync.git
 	branch = master
-	commit = ab4fe82cdb46efcd46c40da70e84890930151a83
-	parent = a70e52340275efe56dc370f79954cc1e8ee79614
+	commit = 02c10e786d308506e9a6dac7d96d665bdd7b1557
+	parent = b9ef7cb6aa4c04c2965b940221d4434bc52ec53c
 	method = merge
 	update = auto
 	cmdver = 0.4.1
