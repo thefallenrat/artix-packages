@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libpagemaker.git
 	branch = master
-	commit = 80bfa17f0e12d5b208f9c2d0396985d87290e4c3
-	parent = 962eab710d310cc62944fa4fb2d42a7a4e7517f2
+	commit = 0ee3cf44d1e97d2838fe71886c379a9fe99597ad
+	parent = 45281304fefec4e0fa763a5523a689db88381935
 	method = merge
 	update = auto
-	cmdver = 0.4.0
+	cmdver = 0.4.1
