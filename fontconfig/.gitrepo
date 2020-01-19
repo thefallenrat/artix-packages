@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesF/fontconfig.git
 	branch = master
-	commit = f2d987791fe410aa2255fa2af3f739fad4c7e7f4
-	parent = ba815f75125087586d4bad575d1ecc516398b43e
+	commit = 491fa50376af5b2331b46f3ae5667da800340b9e
+	parent = d49986f1d8836b28297d6a3a8879b95281e01d3a
 	method = merge
 	update = auto
-	cmdver = 0.4.0
+	cmdver = 0.4.1
