@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/cmake.git
 	branch = master
-	commit = 1d6371ec303033d7069ae830a705f25eac22cbf8
-	parent = 61516c3fbaa7513d5c65c3a12ec04b4b048cd640
+	commit = 8305f5914e107ddbaac8cc056ad2d0c428d28ab2
+	parent = 62e7c20db1625c6cbc1ee70c349be84755f81cd7
 	method = merge
 	update = auto
-	cmdver = 0.4.0
+	cmdver = 0.4.1
