@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/openssl-1.0.git
 	branch = master
-	commit = 26462623718c3de082783ec14f457ba2b5f0dcc4
-	parent = 484464d925198b78f514de8dab90cbb6ba691b64
+	commit = 5dd699009b094abec93362e610ed725b2f1282ac
+	parent = d43aa15459c896346eb03a1c8e30284208b61948
 	method = merge
 	update = auto
-	cmdver = 0.4.0
+	cmdver = 0.4.1
