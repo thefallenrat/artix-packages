@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/openexr.git
 	branch = master
-	commit = dcdc151009fa7883a794866317a12179e08cffbd
-	parent = d3f28d4169c073eae1d86dc57a620dead92f5e85
+	commit = cd0cb5180c99d912412ab5cd97bd284a574bb306
+	parent = 8b19ab1eac6d51fc5cc66b0575f1f873c418c25e
 	method = merge
 	update = auto
-	cmdver = 0.4.0
+	cmdver = 0.4.1
