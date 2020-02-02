@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/sip5.git
 	branch = master
-	commit = 4d846f313d51922e3b5eceb9664e26c47301004e
-	parent = a6b2d27166a6bda0cabbbbb480f6f2deafc65ca6
+	commit = 51b18696fca898a46ded0272bd26df915cef9ddb
+	parent = 2ec465a3ed25fb09053631401950aabf3052aa7d
 	method = merge
-	cmdver = 0.4.0
+	cmdver = 0.4.1
