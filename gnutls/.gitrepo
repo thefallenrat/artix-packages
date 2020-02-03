@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gnutls.git
 	branch = master
-	commit = 2cc8814fbdf6467dc0ee5ba8a54a34265be33ff8
-	parent = 2d875638315c9a6e377b833f1480260032764ddd
+	commit = ce43dc866b757cd552abd2a6fcc5b104511d6ddf
+	parent = ef8baa96e6b009069ad8fc3d3eba186f74d5a29e
 	method = merge
 	update = auto
-	cmdver = 0.4.0
+	cmdver = 0.4.1
