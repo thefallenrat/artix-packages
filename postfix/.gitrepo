@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/postfix.git
 	branch = master
-	commit = a5683e69df1b6847a4a3f9f29bdb60c40cf0849b
-	parent = 93112be84e340b31e5ca8526b23b5cba7d3b2a40
+	commit = 19b2aa6d44409843fbd9759bdc90dc06397ccac4
+	parent = 844437215f9ab0400337ca7f02bf03ec73eb8633
 	method = merge
 	update = auto
-	cmdver = 0.4.0
+	cmdver = 0.4.1
