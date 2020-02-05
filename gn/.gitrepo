@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gn.git
 	branch = master
-	commit = dc0e3ba6933330c8ba49585197ee5dd8292dabbb
-	parent = c20dbb09a47f4ae2021316983c2f81aee0a46860
+	commit = 7b2476d3cb7500d62e39b66c579de2cba1e1c432
+	parent = c34becb340f20b5bbe78dcba5da833048069f4f0
 	method = merge
 	cmdver = 0.4.1
