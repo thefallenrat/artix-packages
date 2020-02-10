@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libgee.git
 	branch = master
-	commit = 54cf2e1199b4603f44532e8e8d86a7acf6c64bbf
-	parent = 0abb455b0ae35ca075f71576efddf626d91c8bc7
+	commit = 441ac4eaee7f0327badbde41672d56e891d47fa1
+	parent = 8c0ddbc4e49faddc0cb73950cbcd623e0580c261
 	method = merge
 	update = auto
-	cmdver = 0.4.0
+	cmdver = 0.4.1
