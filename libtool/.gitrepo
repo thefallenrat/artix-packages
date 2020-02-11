@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libtool.git
 	branch = master
-	commit = a144987e5275a8603bcb375c2cc946bc4a6e02eb
-	parent = dc2352ac95f95275a83b59c666cf1b74c28f15e4
+	commit = 51f1410066684947d7173be22124181dd7f01c5f
+	parent = 374d8b38a1169e0e025ab17f5ee33d10f7b7b6fd
 	method = merge
 	update = auto
 	cmdver = 0.4.1
