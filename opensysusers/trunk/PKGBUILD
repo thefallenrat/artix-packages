@@ -3,14 +3,14 @@
 
 pkgbase=opensysusers
 pkgname=(opensysusers opensysusers-docs)
-pkgver=0.6
-pkgrel=1
+pkgver=0.5.1
+pkgrel=3
 pkgdesc="A standalone utility for handling systemd-style sysusers.d users and groups"
 arch=('any')
 url="https://gitea.artixlinux.org/artix/opensysusers"
 license=('BSD2')
 makedepends=('docbook-xsl' 'git')
-_commit=bb0aa1aab4e5425d76aeb0ebdbc7826ff4b81a9c
+_commit=6de96f49e4854b964fc81acdd117199981ee3ad3
 source=("git+https://gitea.artixlinux.org/artix/opensysusers.git#commit=${_commit}"
 		'20-opensysusers.hook'
 		'sysusers-hook')
