@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesH/http-parser.git
 	branch = master
-	commit = b746f53dd5db179cf6980c6bdacfbac902c17523
-	parent = 663392cd168f5be5a6fee7cafc1bb1893362989b
+	commit = 4850a49e91fc89acb5956c87ddab16a89d573627
+	parent = 632190c6323cc608ef94d68336da3f0055c4dd37
 	method = merge
 	cmdver = 0.4.1
