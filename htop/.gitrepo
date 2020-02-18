@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesH/htop.git
 	branch = master
-	commit = ea59a44ed00bfc0efc47c6257cf0953c0e4d09d0
-	parent = 5e28a1262e93171bd5f1351cbc39d0aa0c668d8e
+	commit = 296303530da714bb041e577facbc9a301ebf229b
+	parent = dac4fb3dca5a3cf68c981b751fb4b129f045190c
 	method = merge
 	cmdver = 0.4.1
