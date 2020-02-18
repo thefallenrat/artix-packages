@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gptfdisk.git
 	branch = master
-	commit = 6fb7e4ab3141d97176b195ab0c531f791efbe9f0
-	parent = 8720f9857b6c97a9c27c5909ec4bd3c55905a565
+	commit = f56c9118d382535cd7d54ca8218a54ef4ccd97ff
+	parent = e1006b512e4ccb74ac95d74f04d58e981b8c8470
 	method = merge
 	update = auto
-	cmdver = 0.4.0
+	cmdver = 0.4.1
