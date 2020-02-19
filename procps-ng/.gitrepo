@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/procps-ng.git
 	branch = master
-	commit = fead4a7de7de6c356ad6f392f988f8c42852e3b2
-	parent = 58800f91adb638c07b95a8af1032cbd6329c2387
+	commit = 08e39ccc064eaedf2dfcddd083a19a05d2df4b47
+	parent = 6d3e8a00f37b17a74b7b71b46e94e85c606b14d0
 	method = merge
 	update = auto
 	cmdver = 0.4.1
