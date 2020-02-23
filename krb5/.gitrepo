@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesK/krb5.git
 	branch = master
-	commit = b770041594c7256b7ac1e9cb85d1b8f4668f3b6b
-	parent = 0cebf1a4e019f9898b662440b87483e3b325b6e2
+	commit = 98cb2a2ad0aed9cf08ab28fda1422ae3ffa994ca
+	parent = 6abaaf2a5990de44077fe4ffcca32c6f9f2ec987
 	method = merge
 	update = auto
 	cmdver = 0.4.1
