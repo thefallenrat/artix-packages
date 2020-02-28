@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/paper.git
 	branch = master
-	commit = dc2758a5cdc3186231440da678e266a9bcb74c9c
-	parent = da17961349585f408b662850664bf537825328eb
+	commit = e218c6d193d46f5eed011d18902872526c9144b6
+	parent = d901c13214193a597e991ab525b3c7aa1c18a42a
 	method = merge
 	cmdver = 0.4.1
