@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/logrotate.git
 	branch = master
-	commit = c10857aceb5f87e19dfca417c5219ffb820a60d2
-	parent = 373560d61b0a9d4be2d621c78d1c1933c7b2295c
+	commit = 7b3522b57131c48f6117e3555e5ce49411233565
+	parent = ad4c96d55fc434d18ecae7c69c54c7b450c5659a
 	method = merge
 	update = auto
-	cmdver = 0.4.0
+	cmdver = 0.4.1
