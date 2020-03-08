@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesE/enchant.git
 	branch = master
-	commit = 80e695498c63dedbf6749b1a8a4a376a7950c5bb
-	parent = c9552c4d47375a7a23de8dbd8e6c1aea95ec8946
+	commit = 7160475a68f4cddb9c3ac8b32db103127860b12c
+	parent = fbd93546bb0b5af25e3499043bcd7e7a3662ae28
 	method = merge
 	update = auto
-	cmdver = 0.4.0
+	cmdver = 0.4.1
