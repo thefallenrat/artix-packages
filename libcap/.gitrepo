@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libcap.git
 	branch = master
-	commit = 1f765fee8d4616e722580cbf5ff12c6937126020
-	parent = 41a1e3fb96d895f7605149f2da16e5cde93e20d3
+	commit = c782d3423f19d318daf656f6561ccca62fdb7f7b
+	parent = d69a3cd17f80b863e54f3e03bff3374dcbc32a63
 	method = merge
 	update = auto
 	cmdver = 0.4.1
