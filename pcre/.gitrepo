@@ -6,8 +6,8 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/pcre.git
 	branch = master
-	commit = 202a3b146b2a58221da3d6fa21b3ccf77fc70f8d
-	parent = 5396c21aac3f5744d900d4055cb30e7d3bbe7031
+	commit = 9e7fb4ae79f2e46bce332853da932e646d73b620
+	parent = 8629c0ea75fdd6842848eeabfcdef220c801a141
 	method = merge
 	update = auto
 	cmdver = 0.4.1
