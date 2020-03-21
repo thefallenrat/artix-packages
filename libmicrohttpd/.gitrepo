@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libmicrohttpd.git
 	branch = master
-	commit = c5157c7bf9a31e0a1edb9a419293076bcf54a659
-	parent = 5f951b15c389fbf045c598df6f9383f048fc7d84
+	commit = c58539e7a092cebb9481033b52c5abec38ee487b
+	parent = 878c7a0aa529a1503704eff86cd9ba0565ba842c
 	method = merge
 	cmdver = 0.4.1
